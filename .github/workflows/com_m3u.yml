@@ -3,7 +3,7 @@ name: M3U Com
 on:  
   push:  
     paths:  
-      - 'tv/**/*.txt'  # 当txt文件发生变化时触发  
+      - 'vv/**/*.txt'  # 当txt文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
 
 jobs:
