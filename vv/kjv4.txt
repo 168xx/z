@@ -5,8 +5,8 @@
 拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 如已付费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2024-10-13,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行328天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+更新2024-10-14,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+已运行329天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
