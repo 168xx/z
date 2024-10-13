@@ -1,0 +1,49 @@
+name: 更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0/3 * * *'
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.LIVELIST }}
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: 更新
+      run: |
+        # 频道
+        rm -f tv/ipv4.txt && wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt -O tv/ipv4.txt
+        rm -f tv/v4.txt && wget https://4key.cn/FP -O tv/v4.txt
+
+        # 节目单
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        echo "已于 $DATE 更新
+        ## Star History
+        <a href='https://star-history.com/#360vip/v4&Date'>
+        <picture>
+        <source media='(prefers-color-scheme: dark)' srcset='https://api.star-history.com/svg?repos=360vip/v4&type=Date&theme=dark' />
+        <source media='(prefers-color-scheme: light)' srcset='https://api.star-history.com/svg?repos=360vip/v4&type=Date' />
+        <img alt='Star History Chart' src='https://api.star-history.com/svg?repos=360vip/v4&type=Date' />
+        </picture>
+        </a>" > README.md
+
+    - name: Clean
+      run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f

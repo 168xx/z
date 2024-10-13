@@ -1,0 +1,72 @@
+name: 获取 IPV4
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 10 */6 * * *
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.LIVELIST }}
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: V4 获取
+      run: |
+        # 轮播源
+        rm -f v4/LB.m3u && touch v4/LB.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/ipv4.m3u -O CNTV.m3u && sed -i -n '/仅供学习使用/,+1p' CNTV.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/ipv4.m3u -O CNTV1.m3u && sed -i -n '/电影频道/,+1p' CNTV1.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O CNTV2.m3u && sed -i -n '/虎牙｜轮播/,+1p' CNTV2.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O CNTV2.m3u -O CNTV3.m3u && sed -i -n '/斗鱼｜轮播/,+1p' CNTV3.m3u
+        cat CNTV.m3u >> v4/LB.m3u
+        cat CNTV1.m3u >> v4/LB.m3u
+        cat CNTV2.m3u >> v4/LB.m3u
+        cat CNTV3.m3u >> v4/LB.m3u
+        rm -f CNTV.m3u CNTV1.m3u CNTV2.m3u CNTV3.m3u
+        sed -i '1i #EXTM3U' v4/LB.m3u
+        sed -i '/^\s*$/d' v4/LB.m3u
+
+        # 电影源
+        rm -f v4/DY.m3u && touch v4/DY.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV1.m3u && sed -i -n '/港台｜电影/,+1p' DYTV1.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV2.m3u && sed -i -n '/暮雨｜芒果/,+1p' DYTV2.m3u
+        wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV3.m3u && sed -i -n '/历年｜春晚/,+1p' DYTV3.m3u
+        cat DYTV1.m3u >> v4/DY.m3u
+        cat DYTV2.m3u >> v4/DY.m3u
+        cat DYTV3.m3u >> v4/DY.m3u
+        rm -f DYTV1.m3u DYTV2.m3u DYTV3.m3u
+        sed -i '1i #EXTM3U' v4/DY.m3u
+        sed -i '/^\s*$/d' v4/DY.m3u
+
+        # 整合源
+        rm -f v4/ys.m3u && touch v4/ys.m3u
+        cat v4/LB.m3u >> v4/ys.m3u
+        cat v4/DY.m3u >> v4/ys.m3u
+        sed -i '/#EXTM3U/d' v4/ys.m3u
+        sed -i '1i #EXTM3U' v4/ys.m3u
+        sed -i '/^\s*$/d' v4/ys.m3u
+
+        # 节目源
+        rm -f tv/EPG.xml && wget https://epg.112114.xyz/pp.xml -O tv/EPG.xml
+
+    - name: Commit 和 push changes
+      run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f
