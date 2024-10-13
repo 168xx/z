@@ -53,5 +53,5 @@ def convert_all_txt_to_m3u(input_folder):
             # 调用转换函数  
             txt_to_m3u(input_file, os.path.join(input_folder, os.path.splitext(filename)[0] + '.m3u'))  
   
-# 将 tv 文件夹中的所有 txt 文件转换为 m3u 文件  
-convert_all_txt_to_m3u('tv')
+# 将 vv 文件夹中的所有 txt 文件转换为 m3u 文件  
+convert_all_txt_to_m3u('vv')
