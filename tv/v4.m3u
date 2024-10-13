@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-13 13:37",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-13 17:53",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="暮雨直播" tvg-name="暮雨直播" tvg-logo="https://live.fanmingming.com/tv/暮雨直播.png" group-title="🐯暮雨｜直播",暮雨直播
 https://v.cdnlz12.com/20240927/17158_ef65f743/index.m3u8
