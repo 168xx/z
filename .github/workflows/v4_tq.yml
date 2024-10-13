@@ -41,7 +41,7 @@ jobs:
         cat CNTV2.m3u >> v4/KJ.m3u
         cat CNTV3.m3u >> v4/KJ.m3u
         cat CNTV4.m3u >> v4/KJ.m3u
-        cat CNTV6.m3u >> v4/KJ.m3u
+        cat CNTV5.m3u >> v4/KJ.m3u
         cat CNTV6.m3u >> v4/KJ.m3u
         cat CNTV7.m3u >> v4/KJ.m3u
         cat CNTV8.m3u >> v4/KJ.m3u
