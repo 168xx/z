@@ -3,7 +3,7 @@ name: Convert M3U to TXT
 on:  
   push:  
     paths:  
-      - ''v4/v4.m3u'  # 当tv.m3u文件发生变化时触发  
+      - 'v4/v4.m3u'  # 当tv.m3u文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
   
 jobs:  
