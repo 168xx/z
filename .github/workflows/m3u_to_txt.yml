@@ -34,6 +34,6 @@ jobs:
       run: |  
         git config --local user.name 'github-actions'  
         git config --local user.email 'github-actions@github.com'  
-        git add tv/tv.txt  
+        git add v4/v4.txt  
         git commit -m 'Automated conversion of v4/v4.m3u to v4/v4.txt' || true  # 如果没有变化则不提交  
         git push origin HEAD
