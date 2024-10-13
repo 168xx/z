@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-13 23:33",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-14 00:24",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="免费使用" tvg-name="免费使用" tvg-logo="https://live.fanmingming.com/tv/免费使用.png" group-title="友情提示",免费使用
 http://52pan.top:81/f/jLMU8/t.mp4
