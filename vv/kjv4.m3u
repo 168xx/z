@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-14 21:06",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-14 23:33",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -1037,56 +1037,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🐼全国卫视",黑龙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🐼福建ID22",东南卫视
-http://8.138.7.223/tv/fjtv.php?id=5$官方源
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="🐼福建ID22",海峡卫视
-http://8.138.7.223/tv/fjtv.php?id=3$官方源
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="🐼福建ID22",福建综合
-http://8.138.7.223/tv/fjtv.php?id=4$官方源
-#EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="🐼福建ID22",福建公共
-http://8.138.7.223/tv/fjtv.php?id=6$官方源
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="🐼福建ID22",福建新闻
-http://8.138.7.223/tv/fjtv.php?id=13$官方源
-#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="🐼福建ID22",福建电视剧
-http://8.138.7.223/tv/fjtv.php?id=7$官方源
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="🐼福建ID22",福建旅游
-http://8.138.7.223/tv/fjtv.php?id=8$官方源
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="🐼福建ID22",福建经济
-http://8.138.7.223/tv/fjtv.php?id=9$官方源
-#EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="🐼福建ID22",福建文体
-http://8.138.7.223/tv/fjtv.php?id=10$官方源
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="🐼福建ID22",福建少儿
-http://8.138.7.223/tv/fjtv.php?id=2$官方源
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🐼福建ID22",厦门卫视
-http://8.138.7.223/tv/xmtv.php?id=xmws$厦门电视台
-#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://live.fanmingming.com/tv/厦门一套.png" group-title="🐼福建ID22",厦门一套
-http://8.138.7.223/tv/xmtv.php?id=xm1$厦门电视台
-#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="https://live.fanmingming.com/tv/厦门二套.png" group-title="🐼福建ID22",厦门二套
-http://8.138.7.223/tv/xmtv.php?id=xm2$厦门电视台
-#EXTINF:-1 tvg-id="厦门移动" tvg-name="厦门移动" tvg-logo="https://live.fanmingming.com/tv/厦门移动.png" group-title="🐼福建ID22",厦门移动
-http://8.138.7.223/tv/xmtv.php?id=xmyd$厦门电视台
-#EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" tvg-logo="https://live.fanmingming.com/tv/福州新闻.png" group-title="🐼福建ID22",福州新闻
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$官方源
-#EXTINF:-1 tvg-id="福州生活" tvg-name="福州生活" tvg-logo="https://live.fanmingming.com/tv/福州生活.png" group-title="🐼福建ID22",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$官方源
-#EXTINF:-1 tvg-id="福州少儿" tvg-name="福州少儿" tvg-logo="https://live.fanmingming.com/tv/福州少儿.png" group-title="🐼福建ID22",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$官方源
-#EXTINF:-1 tvg-id="云霄综合" tvg-name="云霄综合" tvg-logo="https://live.fanmingming.com/tv/云霄综合.png" group-title="🐼福建ID22",云霄综合
-http://live.zzyxxw.com:85/live/xwzh.m3u8$官方源
-#EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" tvg-logo="https://live.fanmingming.com/tv/漳州新闻.png" group-title="🐼福建ID22",漳州新闻
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8$官方源
-#EXTINF:-1 tvg-id="三明综合" tvg-name="三明综合" tvg-logo="https://live.fanmingming.com/tv/三明综合.png" group-title="🐼福建ID22",三明综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8$官方源
-#EXTINF:-1 tvg-id="三明公共" tvg-name="三明公共" tvg-logo="https://live.fanmingming.com/tv/三明公共.png" group-title="🐼福建ID22",三明公共
-http://stream.smntv.cn/smtv2/sd/live.m3u8$官方源
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🐼福建ID22",厦门卫视
-http://110.80.17.38:9901/tsfile/live/0128_1.m3u8$福建电信
-#EXTINF:-1 tvg-id="福建乡村" tvg-name="福建乡村" tvg-logo="https://live.fanmingming.com/tv/福建乡村.png" group-title="🐼福建ID22",福建乡村
-http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="🐼福建ID22",福建新闻
-http://110.80.17.38:9901/tsfile/live/0122_1.m3u8$福建电信
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="🐼福建ID22",福建旅游
-http://110.80.17.38:9901/tsfile/live/0138_1.m3u8$福建电信
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="🐼数字电视",纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="🐼数字电视",纪实科教
@@ -1823,10 +1773,22 @@ http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
+http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="💝香港澳门",凤凰电影
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://xeace.cn:8888/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
 http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
@@ -10161,6 +10123,92 @@ http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
 http://110.80.17.38:9901/tsfile/live/0122_1.m3u8$福建电信
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="🐼福建ID22",福建旅游
 http://110.80.17.38:9901/tsfile/live/0138_1.m3u8$福建电信
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🐼江西ID23",江西卫视
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🐼江西ID23",江西卫视
+http://117.72.68.25:9930/jxtv.php?id=1
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐼江西ID23",江西都市
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐼江西ID23",江西都市
+http://117.72.68.25:9930/jxtv.php?id=2
+#EXTINF:-1 tvg-id="江西经视" tvg-name="江西经视" tvg-logo="https://live.fanmingming.com/tv/江西经视.png" group-title="🐼江西ID23",江西经视
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+#EXTINF:-1 tvg-id="江西经视" tvg-name="江西经视" tvg-logo="https://live.fanmingming.com/tv/江西经视.png" group-title="🐼江西ID23",江西经视
+http://117.72.68.25:9930/jxtv.php?id=3
+#EXTINF:-1 tvg-id="江西影视" tvg-name="江西影视" tvg-logo="https://live.fanmingming.com/tv/江西影视.png" group-title="🐼江西ID23",江西影视
+http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+#EXTINF:-1 tvg-id="江西影视" tvg-name="江西影视" tvg-logo="https://live.fanmingming.com/tv/江西影视.png" group-title="🐼江西ID23",江西影视
+http://117.72.68.25:9930/jxtv.php?id=4
+#EXTINF:-1 tvg-id="江西公共" tvg-name="江西公共" tvg-logo="https://live.fanmingming.com/tv/江西公共.png" group-title="🐼江西ID23",江西公共
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+#EXTINF:-1 tvg-id="江西公共" tvg-name="江西公共" tvg-logo="https://live.fanmingming.com/tv/江西公共.png" group-title="🐼江西ID23",江西公共
+http://117.72.68.25:9930/jxtv.php?id=5
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="🐼江西ID23",江西少儿
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="🐼江西ID23",江西少儿
+http://117.72.68.25:9930/jxtv.php?id=6
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="🐼江西ID23",江西新闻
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="🐼江西ID23",江西新闻
+http://117.72.68.25:9930/jxtv.php?id=7
+#EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="🐼江西ID23",江西移动
+http://117.72.68.25:9930/jxtv.php?id=8
+#EXTINF:-1 tvg-id="江西风尚购物" tvg-name="江西风尚购物" tvg-logo="https://live.fanmingming.com/tv/江西风尚购物.png" group-title="🐼江西ID23",江西风尚购物
+http://117.72.68.25:9930/jxtv.php?id=9
+#EXTINF:-1 tvg-id="江西陶瓷频道" tvg-name="江西陶瓷频道" tvg-logo="https://live.fanmingming.com/tv/江西陶瓷频道.png" group-title="🐼江西ID23",江西陶瓷频道
+http://117.72.68.25:9930/jxtv.php?id=10
+#EXTINF:-1 tvg-id="九江一套" tvg-name="九江一套" tvg-logo="https://live.fanmingming.com/tv/九江一套.png" group-title="🐼江西ID23",九江一套
+http://117.72.68.25:9930/jxtv.php?id=11
+#EXTINF:-1 tvg-id="九江二套" tvg-name="九江二套" tvg-logo="https://live.fanmingming.com/tv/九江二套.png" group-title="🐼江西ID23",九江二套
+http://117.72.68.25:9930/jxtv.php?id=12
+#EXTINF:-1 tvg-id="九江三套" tvg-name="九江三套" tvg-logo="https://live.fanmingming.com/tv/九江三套.png" group-title="🐼江西ID23",九江三套
+http://117.72.68.25:9930/jxtv.php?id=13
+#EXTINF:-1 tvg-id="上饶综合" tvg-name="上饶综合" tvg-logo="https://live.fanmingming.com/tv/上饶综合.png" group-title="🐼江西ID23",上饶综合
+http://117.72.68.25:9930/jxtv.php?id=14
+#EXTINF:-1 tvg-id="上饶经济旅游" tvg-name="上饶经济旅游" tvg-logo="https://live.fanmingming.com/tv/上饶经济旅游.png" group-title="🐼江西ID23",上饶经济旅游
+http://117.72.68.25:9930/jxtv.php?id=15
+#EXTINF:-1 tvg-id="萍乡综合" tvg-name="萍乡综合" tvg-logo="https://live.fanmingming.com/tv/萍乡综合.png" group-title="🐼江西ID23",萍乡综合
+http://117.72.68.25:9930/jxtv.php?id=16
+#EXTINF:-1 tvg-id="萍乡公共" tvg-name="萍乡公共" tvg-logo="https://live.fanmingming.com/tv/萍乡公共.png" group-title="🐼江西ID23",萍乡公共
+http://117.72.68.25:9930/jxtv.php?id=17
+#EXTINF:-1 tvg-id="庐山电视台" tvg-name="庐山电视台" tvg-logo="https://live.fanmingming.com/tv/庐山电视台.png" group-title="🐼江西ID23",庐山电视台
+http://117.72.68.25:9930/jxtv.php?id=18
+#EXTINF:-1 tvg-id="井冈山综合" tvg-name="井冈山综合" tvg-logo="https://live.fanmingming.com/tv/井冈山综合.png" group-title="🐼江西ID23",井冈山综合
+http://117.72.68.25:9930/jxtv.php?id=19
+#EXTINF:-1 tvg-id="修水一套" tvg-name="修水一套" tvg-logo="https://live.fanmingming.com/tv/修水一套.png" group-title="🐼江西ID23",修水一套
+http://117.72.68.25:9930/jxtv.php?id=20
+#EXTINF:-1 tvg-id="都昌新闻" tvg-name="都昌新闻" tvg-logo="https://live.fanmingming.com/tv/都昌新闻.png" group-title="🐼江西ID23",都昌新闻
+http://117.72.68.25:9930/jxtv.php?id=21
+#EXTINF:-1 tvg-id="永修一套" tvg-name="永修一套" tvg-logo="https://live.fanmingming.com/tv/永修一套.png" group-title="🐼江西ID23",永修一套
+http://117.72.68.25:9930/jxtv.php?id=22
+#EXTINF:-1 tvg-id="彭泽一套" tvg-name="彭泽一套" tvg-logo="https://live.fanmingming.com/tv/彭泽一套.png" group-title="🐼江西ID23",彭泽一套
+http://117.72.68.25:9930/jxtv.php?id=23
+#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合" tvg-logo="https://live.fanmingming.com/tv/宁都综合.png" group-title="🐼江西ID23",宁都综合
+http://117.72.68.25:9930/jxtv.php?id=24
+#EXTINF:-1 tvg-id="广丰综合" tvg-name="广丰综合" tvg-logo="https://live.fanmingming.com/tv/广丰综合.png" group-title="🐼江西ID23",广丰综合
+http://117.72.68.25:9930/jxtv.php?id=25
+#EXTINF:-1 tvg-id="余干综合" tvg-name="余干综合" tvg-logo="https://live.fanmingming.com/tv/余干综合.png" group-title="🐼江西ID23",余干综合
+http://117.72.68.25:9930/jxtv.php?id=26
+#EXTINF:-1 tvg-id="万载综合" tvg-name="万载综合" tvg-logo="https://live.fanmingming.com/tv/万载综合.png" group-title="🐼江西ID23",万载综合
+http://117.72.68.25:9930/jxtv.php?id=27
+#EXTINF:-1 tvg-id="武宁新闻" tvg-name="武宁新闻" tvg-logo="https://live.fanmingming.com/tv/武宁新闻.png" group-title="🐼江西ID23",武宁新闻
+http://117.72.68.25:9930/jxtv.php?id=28
+#EXTINF:-1 tvg-id="广昌综合" tvg-name="广昌综合" tvg-logo="https://live.fanmingming.com/tv/广昌综合.png" group-title="🐼江西ID23",广昌综合
+http://117.72.68.25:9930/jxtv.php?id=29
+#EXTINF:-1 tvg-id="铜鼓综合" tvg-name="铜鼓综合" tvg-logo="https://live.fanmingming.com/tv/铜鼓综合.png" group-title="🐼江西ID23",铜鼓综合
+http://117.72.68.25:9930/jxtv.php?id=30
+#EXTINF:-1 tvg-id="铅山综合" tvg-name="铅山综合" tvg-logo="https://live.fanmingming.com/tv/铅山综合.png" group-title="🐼江西ID23",铅山综合
+http://117.72.68.25:9930/jxtv.php?id=31
+#EXTINF:-1 tvg-id="分宜综合" tvg-name="分宜综合" tvg-logo="https://live.fanmingming.com/tv/分宜综合.png" group-title="🐼江西ID23",分宜综合
+http://117.72.68.25:9930/jxtv.php?id=32
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合" tvg-logo="https://live.fanmingming.com/tv/赣州新闻综合.png" group-title="🐼江西ID23",赣州新闻综合
+http://wb.jxgztv.com/live/gztv1.flv
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合" tvg-logo="https://live.fanmingming.com/tv/赣州新闻综合.png" group-title="🐼江西ID23",赣州新闻综合
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 tvg-id="赣州公共" tvg-name="赣州公共" tvg-logo="https://live.fanmingming.com/tv/赣州公共.png" group-title="🐼江西ID23",赣州公共
+http://wb.jxgztv.com/live/gztv2.flv
+#EXTINF:-1 tvg-id="赣州教育" tvg-name="赣州教育" tvg-logo="https://live.fanmingming.com/tv/赣州教育.png" group-title="🐼江西ID23",赣州教育
+http://wb.jxgztv.com/live/gztv3.flv
 #EXTINF:-1 tvg-id="江西都市频道" tvg-name="江西都市频道" tvg-logo="https://live.fanmingming.com/tv/江西都市频道.png" group-title="🐼江西ID23",江西都市频道
 http://php.jdshipin.com:8880/iptv.php?id=jxds
 #EXTINF:-1 tvg-id="江西经济生活频道" tvg-name="江西经济生活频道" tvg-logo="https://live.fanmingming.com/tv/江西经济生活频道.png" group-title="🐼江西ID23",江西经济生活频道
