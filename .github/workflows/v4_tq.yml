@@ -26,7 +26,7 @@ jobs:
       run: |
         # 央视源
         rm -f v4/CC.m3u && wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/xxv4.m3u -O v4/CC.m3u
-        sed -i -n '/电信央卫,/,+1p' v4/CC.m3u
+        sed -i -n '/电信央卫/,+1p' v4/CC.m3u
         sed -i '1i #EXTM3U' v4/CC.m3u
         sed -i '/^\s*$/d' v4/CC.m3u
 
