@@ -544,6 +544,23 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+🐼天津ID11,#genre#
+
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8$官方源
+滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8$官方源
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8$官方源
+
+津南电视,http://play.jinnantv.top/live/JNTV1.m3u8$官方源
+
+天津卫视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=1$天津联通
+天津新闻,http://tv.tvbox6.icu/tv/9dtjlt.php?id=2$天津联通
+天津文艺,http://tv.tvbox6.icu/tv/9dtjlt.php?id=3$天津联通
+天津影视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=4$天津联通
+天津都市,http://tv.tvbox6.icu/tv/9dtjlt.php?id=5$天津联通
+天津体育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=6$天津联通
+天津教育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=7$天津联通
+天津购物,http://tv.tvbox6.icu/tv/9dtjlt.php?id=8$天津联通
+
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
