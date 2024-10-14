@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="💚更新时间10-14 21:06",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-15 00:38",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="🐼中央电视",CCTV1综合
 http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
@@ -1750,10 +1750,22 @@ http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
+http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="💝香港澳门",凤凰香港
 http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="💝香港澳门",凤凰电影
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
+http://xeace.cn:8888/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="💝香港澳门",凤凰中文
 http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="💝香港澳门",凤凰资讯
