@@ -1,6 +1,25 @@
 💚更新时间10-14,#genre#
 仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 🐼中央电视,#genre#
+CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
+CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
+CCTV3综艺,http://8.138.7.223/tv/migu.php?id=cctv3$咪咕直播
+CCTV4中文国际,http://8.138.7.223/tv/migu.php?id=cctv4$咪咕直播
+CCTV4美洲,http://8.138.7.223/tv/migu.php?id=cctv4a$咪咕直播
+CCTV4欧洲,http://8.138.7.223/tv/migu.php?id=cctv4o$咪咕直播
+CCTV5体育,http://8.138.7.223/tv/migu.php?id=cctv5$咪咕直播
+CCTV5+体育赛事,http://8.138.7.223/tv/migu.php?id=cctv5p$咪咕直播
+CCTV6电影,http://8.138.7.223/tv/migu.php?id=cctv6$咪咕直播
+CCTV7国防军事,http://8.138.7.223/tv/migu.php?id=cctv7$咪咕直播
+CCTV8电视剧,http://8.138.7.223/tv/migu.php?id=cctv8$咪咕直播
+CCTV9纪录,http://8.138.7.223/tv/migu.php?id=cctv9$咪咕直播
+CCTV10科教,http://8.138.7.223/tv/migu.php?id=cctv10$咪咕直播
+CCTV11戏曲,http://8.138.7.223/tv/migu.php?id=cctv11$咪咕直播
+CCTV12社会与法,http://8.138.7.223/tv/migu.php?id=cctv12$咪咕直播
+CCTV13新闻,http://8.138.7.223/tv/migu.php?id=cctv13$咪咕直播
+CCTV14少儿,http://8.138.7.223/tv/migu.php?id=cctv14$咪咕直播
+CCTV15音乐,http://8.138.7.223/tv/migu.php?id=cctv15$咪咕直播
+CCTV17农业农村,http://8.138.7.223/tv/migu.php?id=cctv17$咪咕直播
 CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$移动 | 回看
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
 CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$移动 | 回看
@@ -169,27 +188,27 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 中央电视塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
 🐼全国卫视,#genre#
-东方卫视,http://117.72.68.25:9930/migu.php?id=dfws$咪咕直播
-吉林卫视,http://117.72.68.25:9930/migu.php?id=jlws$咪咕直播
-辽宁卫视,http://117.72.68.25:9930/migu.php?id=lnws$咪咕直播
-内蒙古卫视,http://117.72.68.25:9930/migu.php?id=nmws$咪咕直播
-甘肃卫视,http://117.72.68.25:9930/migu.php?id=gsws$咪咕直播
-青海卫视,http://117.72.68.25:9930/migu.php?id=qhws$咪咕直播
-陕西卫视,http://117.72.68.25:9930/migu.php?id=sxws$咪咕直播
-山东卫视,http://117.72.68.25:9930/migu.php?id=sdws$咪咕直播
-河南卫视,http://117.72.68.25:9930/migu.php?id=hnws$咪咕直播
-湖北卫视,http://117.72.68.25:9930/migu.php?id=hubws$咪咕直播
-江西卫视,http://117.72.68.25:9930/migu.php?id=jxws$咪咕直播
-江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws$咪咕直播
-海峡卫视,http://117.72.68.25:9930/migu.php?id=hxws$咪咕直播
-广东卫视,http://117.72.68.25:9930/migu.php?id=gdws$咪咕直播
-大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws$咪咕直播
-广西卫视,http://117.72.68.25:9930/migu.php?id=gxws$咪咕直播
-云南卫视,http://117.72.68.25:9930/migu.php?id=ynws$咪咕直播
-贵州卫视,http://117.72.68.25:9930/migu.php?id=gzws$咪咕直播
-新疆卫视,http://117.72.68.25:9930/migu.php?id=xjws$咪咕直播
-西藏卫视,http://117.72.68.25:9930/migu.php?id=xzws$咪咕直播
-海南卫视,http://117.72.68.25:9930/migu.php?id=hinws$咪咕直播
+东方卫视,http://8.138.7.223/tv/migu.php?id=dfws$咪咕直播
+吉林卫视,http://8.138.7.223/tv/migu.php?id=jlws$咪咕直播
+辽宁卫视,http://8.138.7.223/tv/migu.php?id=lnws$咪咕直播
+内蒙古卫视,http://8.138.7.223/tv/migu.php?id=nmws$咪咕直播
+甘肃卫视,http://8.138.7.223/tv/migu.php?id=gsws$咪咕直播
+青海卫视,http://8.138.7.223/tv/migu.php?id=qhws$咪咕直播
+陕西卫视,http://8.138.7.223/tv/migu.php?id=sxws$咪咕直播
+山东卫视,http://8.138.7.223/tv/migu.php?id=sdws$咪咕直播
+河南卫视,http://8.138.7.223/tv/migu.php?id=hnws$咪咕直播
+湖北卫视,http://8.138.7.223/tv/migu.php?id=hubws$咪咕直播
+江西卫视,http://8.138.7.223/tv/migu.php?id=jxws$咪咕直播
+江苏卫视,http://8.138.7.223/tv/migu.php?id=jsws$咪咕直播
+海峡卫视,http://8.138.7.223/tv/migu.php?id=hxws$咪咕直播
+广东卫视,http://8.138.7.223/tv/migu.php?id=gdws$咪咕直播
+大湾区卫视,http://8.138.7.223/tv/migu.php?id=dwqws$咪咕直播
+广西卫视,http://8.138.7.223/tv/migu.php?id=gxws$咪咕直播
+云南卫视,http://8.138.7.223/tv/migu.php?id=ynws$咪咕直播
+贵州卫视,http://8.138.7.223/tv/migu.php?id=gzws$咪咕直播
+新疆卫视,http://8.138.7.223/tv/migu.php?id=xjws$咪咕直播
+西藏卫视,http://8.138.7.223/tv/migu.php?id=xzws$咪咕直播
+海南卫视,http://8.138.7.223/tv/migu.php?id=hinws$咪咕直播
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
 北京卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226251/index.m3u8$移动 | 回看
