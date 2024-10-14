@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="💚更新时间10-14 14:47",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-14 17:51",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="🐼中央电视",CCTV1综合
 http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
@@ -1040,6 +1040,8 @@ http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv
 http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="🐼数字电视",CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="🐼数字电视",CCTV风云音乐
+http://mryx.fun:1025/udp/239.11.0.68:1025$华为
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="🐼数字电视",CCTV兵器科技
 http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西电信
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="🐼数字电视",CCTV世界地理
