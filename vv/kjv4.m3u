@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-15 02:41",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-15 05:27",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -1037,6 +1037,30 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🐼全国卫视",黑龙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="滨海新闻" tvg-name="滨海新闻" tvg-logo="https://live.fanmingming.com/tv/滨海新闻.png" group-title="🐼天津ID11",滨海新闻
+http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="滨海综艺" tvg-name="滨海综艺" tvg-logo="https://live.fanmingming.com/tv/滨海综艺.png" group-title="🐼天津ID11",滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="滨海影视" tvg-name="滨海影视" tvg-logo="https://live.fanmingming.com/tv/滨海影视.png" group-title="🐼天津ID11",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="津南电视" tvg-name="津南电视" tvg-logo="https://live.fanmingming.com/tv/津南电视.png" group-title="🐼天津ID11",津南电视
+http://play.jinnantv.top/live/JNTV1.m3u8$官方源
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🐼天津ID11",天津卫视
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=1$天津联通
+#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://live.fanmingming.com/tv/天津新闻.png" group-title="🐼天津ID11",天津新闻
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=2$天津联通
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://live.fanmingming.com/tv/天津文艺.png" group-title="🐼天津ID11",天津文艺
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=3$天津联通
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://live.fanmingming.com/tv/天津影视.png" group-title="🐼天津ID11",天津影视
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=4$天津联通
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://live.fanmingming.com/tv/天津都市.png" group-title="🐼天津ID11",天津都市
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=5$天津联通
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://live.fanmingming.com/tv/天津体育.png" group-title="🐼天津ID11",天津体育
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=6$天津联通
+#EXTINF:-1 tvg-id="天津教育" tvg-name="天津教育" tvg-logo="https://live.fanmingming.com/tv/天津教育.png" group-title="🐼天津ID11",天津教育
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=7$天津联通
+#EXTINF:-1 tvg-id="天津购物" tvg-name="天津购物" tvg-logo="https://live.fanmingming.com/tv/天津购物.png" group-title="🐼天津ID11",天津购物
+http://tv.tvbox6.icu/tv/9dtjlt.php?id=8$天津联通
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="🐼数字电视",纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="🐼数字电视",纪实科教
