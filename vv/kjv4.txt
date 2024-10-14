@@ -13,6 +13,26 @@
 
 🐼中央电视,#genre#
 
+CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
+CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
+CCTV3综艺,http://8.138.7.223/tv/migu.php?id=cctv3$咪咕直播
+CCTV4中文国际,http://8.138.7.223/tv/migu.php?id=cctv4$咪咕直播
+CCTV4美洲,http://8.138.7.223/tv/migu.php?id=cctv4a$咪咕直播
+CCTV4欧洲,http://8.138.7.223/tv/migu.php?id=cctv4o$咪咕直播
+CCTV5体育,http://8.138.7.223/tv/migu.php?id=cctv5$咪咕直播
+CCTV5+体育赛事,http://8.138.7.223/tv/migu.php?id=cctv5p$咪咕直播
+CCTV6电影,http://8.138.7.223/tv/migu.php?id=cctv6$咪咕直播
+CCTV7国防军事,http://8.138.7.223/tv/migu.php?id=cctv7$咪咕直播
+CCTV8电视剧,http://8.138.7.223/tv/migu.php?id=cctv8$咪咕直播
+CCTV9纪录,http://8.138.7.223/tv/migu.php?id=cctv9$咪咕直播
+CCTV10科教,http://8.138.7.223/tv/migu.php?id=cctv10$咪咕直播
+CCTV11戏曲,http://8.138.7.223/tv/migu.php?id=cctv11$咪咕直播
+CCTV12社会与法,http://8.138.7.223/tv/migu.php?id=cctv12$咪咕直播
+CCTV13新闻,http://8.138.7.223/tv/migu.php?id=cctv13$咪咕直播
+CCTV14少儿,http://8.138.7.223/tv/migu.php?id=cctv14$咪咕直播
+CCTV15音乐,http://8.138.7.223/tv/migu.php?id=cctv15$咪咕直播
+CCTV17农业农村,http://8.138.7.223/tv/migu.php?id=cctv17$咪咕直播
+
 CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$移动 | 回看
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
 CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$移动 | 回看
@@ -186,27 +206,27 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 
 🐼全国卫视,#genre#
 
-东方卫视,http://117.72.68.25:9930/migu.php?id=dfws$咪咕直播
-吉林卫视,http://117.72.68.25:9930/migu.php?id=jlws$咪咕直播
-辽宁卫视,http://117.72.68.25:9930/migu.php?id=lnws$咪咕直播
-内蒙古卫视,http://117.72.68.25:9930/migu.php?id=nmws$咪咕直播
-甘肃卫视,http://117.72.68.25:9930/migu.php?id=gsws$咪咕直播
-青海卫视,http://117.72.68.25:9930/migu.php?id=qhws$咪咕直播
-陕西卫视,http://117.72.68.25:9930/migu.php?id=sxws$咪咕直播
-山东卫视,http://117.72.68.25:9930/migu.php?id=sdws$咪咕直播
-河南卫视,http://117.72.68.25:9930/migu.php?id=hnws$咪咕直播
-湖北卫视,http://117.72.68.25:9930/migu.php?id=hubws$咪咕直播
-江西卫视,http://117.72.68.25:9930/migu.php?id=jxws$咪咕直播
-江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws$咪咕直播
-海峡卫视,http://117.72.68.25:9930/migu.php?id=hxws$咪咕直播
-广东卫视,http://117.72.68.25:9930/migu.php?id=gdws$咪咕直播
-大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws$咪咕直播
-广西卫视,http://117.72.68.25:9930/migu.php?id=gxws$咪咕直播
-云南卫视,http://117.72.68.25:9930/migu.php?id=ynws$咪咕直播
-贵州卫视,http://117.72.68.25:9930/migu.php?id=gzws$咪咕直播
-新疆卫视,http://117.72.68.25:9930/migu.php?id=xjws$咪咕直播
-西藏卫视,http://117.72.68.25:9930/migu.php?id=xzws$咪咕直播
-海南卫视,http://117.72.68.25:9930/migu.php?id=hinws$咪咕直播
+东方卫视,http://8.138.7.223/tv/migu.php?id=dfws$咪咕直播
+吉林卫视,http://8.138.7.223/tv/migu.php?id=jlws$咪咕直播
+辽宁卫视,http://8.138.7.223/tv/migu.php?id=lnws$咪咕直播
+内蒙古卫视,http://8.138.7.223/tv/migu.php?id=nmws$咪咕直播
+甘肃卫视,http://8.138.7.223/tv/migu.php?id=gsws$咪咕直播
+青海卫视,http://8.138.7.223/tv/migu.php?id=qhws$咪咕直播
+陕西卫视,http://8.138.7.223/tv/migu.php?id=sxws$咪咕直播
+山东卫视,http://8.138.7.223/tv/migu.php?id=sdws$咪咕直播
+河南卫视,http://8.138.7.223/tv/migu.php?id=hnws$咪咕直播
+湖北卫视,http://8.138.7.223/tv/migu.php?id=hubws$咪咕直播
+江西卫视,http://8.138.7.223/tv/migu.php?id=jxws$咪咕直播
+江苏卫视,http://8.138.7.223/tv/migu.php?id=jsws$咪咕直播
+海峡卫视,http://8.138.7.223/tv/migu.php?id=hxws$咪咕直播
+广东卫视,http://8.138.7.223/tv/migu.php?id=gdws$咪咕直播
+大湾区卫视,http://8.138.7.223/tv/migu.php?id=dwqws$咪咕直播
+广西卫视,http://8.138.7.223/tv/migu.php?id=gxws$咪咕直播
+云南卫视,http://8.138.7.223/tv/migu.php?id=ynws$咪咕直播
+贵州卫视,http://8.138.7.223/tv/migu.php?id=gzws$咪咕直播
+新疆卫视,http://8.138.7.223/tv/migu.php?id=xjws$咪咕直播
+西藏卫视,http://8.138.7.223/tv/migu.php?id=xzws$咪咕直播
+海南卫视,http://8.138.7.223/tv/migu.php?id=hinws$咪咕直播
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
@@ -524,6 +544,59 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+ 🐼河南ID25,#genre#
+
+河南|周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+河南|郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+河南|登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+河南|范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
+河南|扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+河南|固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+河南|光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+河南|鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+河南|淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+河南|潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+河南|济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+河南|焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+河南|焦作教育,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+河南|焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+河南|睛彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+河南|开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+河南|开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+河南|兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+河南|临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+河南|栾川新闻,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
+河南|洛宁综合,http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
+河南|泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+河南|渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+河南|内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+河南|沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8
+河南|汝南综合,http://tvpull.dxhmt.cn:9081/tv/11727-1.m3u8
+河南|嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
+河南|遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+河南|唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+河南|桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
+河南|息县综合,http://120.194.173.75:6060/0.ts
+河南|淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+河南|项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+河南|新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+河南|新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+河南|新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+河南|鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+河南|偃师新闻,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
+河南|叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+河南|义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+河南|禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
+河南|禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+河南|叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+河南|渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+河南|义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+河南|淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+河南|禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+河南|兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+河南|项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+河南|新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
