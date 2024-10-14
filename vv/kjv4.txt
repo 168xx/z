@@ -544,6 +544,28 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+🐼重庆ID31,#genre#
+
+重庆卫视,http://tv.tvbox6.icu/tv/cqws.m3u8$官方源
+重庆新闻频道,http://tv.tvbox6.icu/tv/cbg3.m3u8$官方源
+重庆垫江综合,http://tv.tvbox6.icu/tv/quklive.php?id=1
+重庆移动电视1,http://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8$官方源
+重庆移动电视2,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8$官方源
+梁平综合频道,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8$官方源
+武隆综合频道,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8$官方源
+忠县综合频道,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8$官方源
+永川综合频道,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8$官方源
+巫山县电视台,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8$官方源
+酉阳综合频道,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8$官方源
+万州电视台,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8$官方源
+北碚综合频道,http://222.178.181.121:12034/beibei01.m3u8$官方源
+大足综合频道,http://218.201.85.71:3170/m3u8$官方源
+铜梁综合频道,http://183.64.174.171:40123/ch1.m3u8$官方源
+万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8$官方源
+璧山综合,http://222.179.42.129:8181/hls1.m3u8$官方源
+
+重庆时尚生活,http://27.12.165.147:4022/udp/225.0.4.196:7980$官方源
+华数电影,http://27.12.165.147:4022/udp/225.0.4.172:7980$官方源
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
