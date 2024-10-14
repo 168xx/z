@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-14 18:00",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-14 21:06",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
