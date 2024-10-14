@@ -1,4 +1,4 @@
-name: Convert M3U to TXT  
+name: M3U to TXT  
   
 on:  
   push:  
