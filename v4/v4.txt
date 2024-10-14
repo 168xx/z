@@ -1,4 +1,4 @@
-💚更新时间10-14,#genre#
+💚更新时间10-15,#genre#
 仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 🐼中央电视,#genre#
 CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
@@ -878,8 +878,14 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰中文,http://211.72.65.236:8577/.m3u8
+凤凰资讯,http://211.72.65.236:8576/.m3u8
 凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191
