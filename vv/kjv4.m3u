@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-14 17:51",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-14 18:00",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -1037,6 +1037,44 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🐼全国卫视",黑龙江卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🐼重庆ID31",重庆卫视
+http://tv.tvbox6.icu/tv/cqws.m3u8$官方源
+#EXTINF:-1 tvg-id="重庆新闻频道" tvg-name="重庆新闻频道" tvg-logo="https://live.fanmingming.com/tv/重庆新闻频道.png" group-title="🐼重庆ID31",重庆新闻频道
+http://tv.tvbox6.icu/tv/cbg3.m3u8$官方源
+#EXTINF:-1 tvg-id="重庆垫江综合" tvg-name="重庆垫江综合" tvg-logo="https://live.fanmingming.com/tv/重庆垫江综合.png" group-title="🐼重庆ID31",重庆垫江综合
+http://tv.tvbox6.icu/tv/quklive.php?id=1
+#EXTINF:-1 tvg-id="重庆移动电视1" tvg-name="重庆移动电视1" tvg-logo="https://live.fanmingming.com/tv/重庆移动电视1.png" group-title="🐼重庆ID31",重庆移动电视1
+http://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8$官方源
+#EXTINF:-1 tvg-id="重庆移动电视2" tvg-name="重庆移动电视2" tvg-logo="https://live.fanmingming.com/tv/重庆移动电视2.png" group-title="🐼重庆ID31",重庆移动电视2
+http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8$官方源
+#EXTINF:-1 tvg-id="梁平综合频道" tvg-name="梁平综合频道" tvg-logo="https://live.fanmingming.com/tv/梁平综合频道.png" group-title="🐼重庆ID31",梁平综合频道
+https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8$官方源
+#EXTINF:-1 tvg-id="武隆综合频道" tvg-name="武隆综合频道" tvg-logo="https://live.fanmingming.com/tv/武隆综合频道.png" group-title="🐼重庆ID31",武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="忠县综合频道" tvg-name="忠县综合频道" tvg-logo="https://live.fanmingming.com/tv/忠县综合频道.png" group-title="🐼重庆ID31",忠县综合频道
+https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8$官方源
+#EXTINF:-1 tvg-id="永川综合频道" tvg-name="永川综合频道" tvg-logo="https://live.fanmingming.com/tv/永川综合频道.png" group-title="🐼重庆ID31",永川综合频道
+https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="巫山县电视台" tvg-name="巫山县电视台" tvg-logo="https://live.fanmingming.com/tv/巫山县电视台.png" group-title="🐼重庆ID31",巫山县电视台
+https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8$官方源
+#EXTINF:-1 tvg-id="酉阳综合频道" tvg-name="酉阳综合频道" tvg-logo="https://live.fanmingming.com/tv/酉阳综合频道.png" group-title="🐼重庆ID31",酉阳综合频道
+http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8$官方源
+#EXTINF:-1 tvg-id="万州电视台" tvg-name="万州电视台" tvg-logo="https://live.fanmingming.com/tv/万州电视台.png" group-title="🐼重庆ID31",万州电视台
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8$官方源
+#EXTINF:-1 tvg-id="北碚综合频道" tvg-name="北碚综合频道" tvg-logo="https://live.fanmingming.com/tv/北碚综合频道.png" group-title="🐼重庆ID31",北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8$官方源
+#EXTINF:-1 tvg-id="大足综合频道" tvg-name="大足综合频道" tvg-logo="https://live.fanmingming.com/tv/大足综合频道.png" group-title="🐼重庆ID31",大足综合频道
+http://218.201.85.71:3170/m3u8$官方源
+#EXTINF:-1 tvg-id="铜梁综合频道" tvg-name="铜梁综合频道" tvg-logo="https://live.fanmingming.com/tv/铜梁综合频道.png" group-title="🐼重庆ID31",铜梁综合频道
+http://183.64.174.171:40123/ch1.m3u8$官方源
+#EXTINF:-1 tvg-id="万州三峡移民" tvg-name="万州三峡移民" tvg-logo="https://live.fanmingming.com/tv/万州三峡移民.png" group-title="🐼重庆ID31",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8$官方源
+#EXTINF:-1 tvg-id="璧山综合" tvg-name="璧山综合" tvg-logo="https://live.fanmingming.com/tv/璧山综合.png" group-title="🐼重庆ID31",璧山综合
+http://222.179.42.129:8181/hls1.m3u8$官方源
+#EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="🐼重庆ID31",重庆时尚生活
+http://27.12.165.147:4022/udp/225.0.4.196:7980$官方源
+#EXTINF:-1 tvg-id="华数电影" tvg-name="华数电影" tvg-logo="https://live.fanmingming.com/tv/华数电影.png" group-title="🐼重庆ID31",华数电影
+http://27.12.165.147:4022/udp/225.0.4.172:7980$官方源
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="🐼数字电视",纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="🐼数字电视",纪实科教
