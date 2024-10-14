@@ -26,7 +26,7 @@ jobs:
         rm -f vv/kjv4.txt && wget http://tvbox6.icu/11.php?all=1 -O vv/kjv4.txt
         rm -f vv/wkv4.txt && wget https://pan.beecld.com/f/1rjfK/BO.txt -O vv/wkv4.txt
         rm -f vv/v4.txt && wget http://1805842a.123nat.com:66/agent/2.txt -O vv/v4.txt
-        rm -f vv/xxv4.txt && wget https://2912.kstore.space/520.txt-O vv/xxv4.txt
+        rm -f vv/xxv4.txt && wget https://2912.kstore.space/520.txt -O vv/xxv4.txt
 
         # 节目单
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
