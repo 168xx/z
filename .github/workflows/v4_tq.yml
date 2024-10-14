@@ -24,7 +24,13 @@ jobs:
 
     - name: V4 获取
       run: |
-        # 轮播源
+        # 央视源
+        rm -f v4/CC.m3u && wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/xxv4.m3u -O v4/CC.m3u
+        sed -i -n '/电信央卫,/,+1p' v4/CC.m3u
+        sed -i '1i #EXTM3U' v4/CC.m3u
+        sed -i '/^\s*$/d' v4/CC.m3u
+
+        # 酷九源
         rm -f v4/KJ.m3u && touch v4/KJ.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV.m3u && sed -i -n '/仅供学习使用/,+1p' CNTV.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV1.m3u && sed -i -n '/中央电视/,+1p' CNTV1.m3u
@@ -73,6 +79,7 @@ jobs:
         # 整合源
         rm -f v4/v4.m3u && touch v4/v4.m3u
         cat v4/KJ.m3u >> v4/v4.m3u
+        cat v4/CC.m3u >> v4/v4.m3u
         cat v4/DY.m3u >> v4/v4.m3u
         sed -i '/#EXTM3U/d' v4/v4.m3u
         sed -i '1i #EXTM3U' v4/v4.m3u
