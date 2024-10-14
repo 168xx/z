@@ -1,4 +1,4 @@
-name: M3U Com
+name: TXT to M3U
 
 on:  
   push:  
