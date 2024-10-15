@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-15 23:33",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-16 02:42",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -11,9 +11,9 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 #EXTINF:-1 tvg-id="申请退费" tvg-name="申请退费" tvg-logo="https://live.fanmingming.com/tv/申请退费.png" group-title="🐼电视公告",申请退费
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-#EXTINF:-1 tvg-id="更新2024-10-15" tvg-name="更新2024-10-15" tvg-logo="https://live.fanmingming.com/tv/更新2024-10-15.png" group-title="🐼电视公告",更新2024-10-15
+#EXTINF:-1 tvg-id="更新2024-10-16" tvg-name="更新2024-10-16" tvg-logo="https://live.fanmingming.com/tv/更新2024-10-16.png" group-title="🐼电视公告",更新2024-10-16
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-#EXTINF:-1 tvg-id="已运行330天" tvg-name="已运行330天" tvg-logo="https://live.fanmingming.com/tv/已运行330天.png" group-title="🐼电视公告",已运行330天
+#EXTINF:-1 tvg-id="已运行331天" tvg-name="已运行331天" tvg-logo="https://live.fanmingming.com/tv/已运行331天.png" group-title="🐼电视公告",已运行331天
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 #EXTINF:-1 tvg-id="国足世预赛" tvg-name="国足世预赛" tvg-logo="https://live.fanmingming.com/tv/国足世预赛.png" group-title="🐼电视公告",国足世预赛
 https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
