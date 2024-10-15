@@ -5,8 +5,8 @@
 拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 如已付费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2024-10-15,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行330天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+更新2024-10-16,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+已运行331天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
 国足世预赛,https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
 国足世预赛粤语,https://play1nm.hnyongshun.cn/live/ballbar_9120.m3u8
