@@ -13,6 +13,25 @@
 
 🐼中央电视,#genre#
 
+CCTV1综合HD,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
+CCTV2财经HD,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
+CCTV3综艺HD,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
+CCTV4中文国际HD,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
+CCTV5体育HD,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
+CCTV5+体育赛事HD,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+CCTV6电影HD,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
+CCTV7国防军事HD,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
+CCTV8电视剧HD,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
+CCTV9纪录HD,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8
+CCTV10科教HD,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8
+CCTV11戏曲HD,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8
+CCTV12社会与法HD,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8
+CCTV13新闻HD,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8
+CCTV14少儿HD,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8
+CCTV15音乐HD,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8
+CCTV16奥林匹克HD,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8
+CCTV17农业农村HD,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8
+
 CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
 CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
 CCTV3综艺,http://8.138.7.223/tv/migu.php?id=cctv3$咪咕直播
@@ -205,6 +224,44 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031126/index
 CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 🐼全国卫视,#genre#
+
+北京卫视HD,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8
+东方卫视HD,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8
+天津卫视HD,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8
+重庆卫视HD,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8
+黑龙江卫视HD,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8
+吉林卫视HD,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8
+辽宁卫视HD,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8
+河北卫视HD,http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8
+山东卫视HD,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8
+安徽卫视HD,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8
+河南卫视HD,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
+湖北卫视HD,http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8
+湖南卫视HD,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
+江西卫视HD,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8
+江苏卫视HD,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8
+浙江卫视HD,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8
+东南卫视HD,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8
+广东卫视HD,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8
+深圳卫视HD,http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8
+贵州卫视HD,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8
+广西卫视,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8
+云南卫视,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8
+四川卫视,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8
+新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8
+兵团卫视,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8
+西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8
+海南卫视,http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8
+三沙卫视,http://beijinglive.online.domybox.com:91/live/SSWS-1500k/live.m3u8
+农林卫视,http://beijinglive.online.domybox.com:91/live/NLWS-1500k/live.m3u8
+大湾区卫视,http://beijinglive.online.domybox.com:91/live/NFWS-1500k/live.m3u8
+内蒙古卫视,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8
+厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8
+宁夏卫视,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8
+甘肃卫视,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8
+青海卫视,http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8
+山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8
+陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8
 
 东方卫视,http://8.138.7.223/tv/migu.php?id=dfws$咪咕直播
 吉林卫视,http://8.138.7.223/tv/migu.php?id=jlws$咪咕直播
@@ -544,23 +601,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
-🐼天津ID11,#genre#
-
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8$官方源
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8$官方源
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8$官方源
-
-津南电视,http://play.jinnantv.top/live/JNTV1.m3u8$官方源
-
-天津卫视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=1$天津联通
-天津新闻,http://tv.tvbox6.icu/tv/9dtjlt.php?id=2$天津联通
-天津文艺,http://tv.tvbox6.icu/tv/9dtjlt.php?id=3$天津联通
-天津影视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=4$天津联通
-天津都市,http://tv.tvbox6.icu/tv/9dtjlt.php?id=5$天津联通
-天津体育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=6$天津联通
-天津教育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=7$天津联通
-天津购物,http://tv.tvbox6.icu/tv/9dtjlt.php?id=8$天津联通
-
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
@@ -574,7 +614,12 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 
-CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025$华为
+纪实文人,http://beijinglive.online.domybox.com:91/live/JSRWhd-8M/live.m3u8
+哈哈炫动,http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8
+金鹰卡通,http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8
+金鹰纪实,http://beijinglive.online.domybox.com:91/live/JYJShd-8M/live.m3u8
+嘉佳卡通,http://beijinglive.online.domybox.com:91/live/JJKT-1500k/live.m3u8
+财富天下,http://beijinglive.online.domybox.com:91/live/CFTX-1500k/live.m3u8
 
 CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西电信
 CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西电信
@@ -4420,19 +4465,19 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
 卡酷少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8$移动 | 回看
 北京纪实科教,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8$移动 | 回看
-
 北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8$海南移动V6
+北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
+北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
 
-北京体育休闲,http://video.qd.sdu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
-北京影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京文艺,http://video.qd.sdu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
-北京生活,http://video.qd.sdu.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
-卡酷少儿,http://video.qd.sdu.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
-北京科教,http://video.qd.sdu.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
-北京财经,http://video.qd.sdu.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
-北京体育休闲,http://video.qd.sdu.edu.cn/liverespath/85e67548eb4b2a78b704e349eb27a9e787b63138/index.m3u8
-北京青年,http://video.qd.sdu.edu.cn/liverespath/7d476b1bc4c2e717f2525a35e31faf071f648faf/index.m3u8
-北京新闻,http://video.qd.sdu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
+北京文艺,http://beijinglive.online.domybox.com:91/live/BTVWYhd-8M/live.m3u8
+北京影视,http://beijinglive.online.domybox.com:91/live/BTVYShd-8M/live.m3u8
+北京财经,http://beijinglive.online.domybox.com:91/live/BTVCJ-1500k/live.m3u8
+北京生活,http://beijinglive.online.domybox.com:91/live/BTVSHhd-8M/live.m3u8
+北京新闻,http://beijinglive.online.domybox.com:91/live/BTVXWhd-8M/live.m3u8
+北京体育休闲,http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
+北京纪实科教,http://beijinglive.online.domybox.com:91/live/BTVKJhd-5M/live.m3u8
+北京纪实科教,http://beijinglive.online.domybox.com:91/live/BTVKJhd-8M/live.m3u8
+北京国际,http://beijinglive.online.domybox.com:91/live/BTVGJ-1500k/live.m3u8
 
 北京体育休闲,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=54$北京联通组播
 北京纪实科教,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=55$北京联通组播
@@ -4478,8 +4523,7 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 北京体育休闲,http://111.196.186.191:5555/rtp/239.3.1.243:8000$北京联通组播4
 
 
-北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
-北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
+
 
 爱上4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000$海淀联通组播
 北京4K超清,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001$海淀联通组播
