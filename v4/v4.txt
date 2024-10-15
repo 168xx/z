@@ -1714,147 +1714,178 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
 成都影视,http://tv.tvbox6.icu/tv/cditv.php?id=cdyswy
 贵州影视,http://tvbox6.com/tv/dl/dl668/gztv.php?id=gzwy
-📺电信央卫,#genre#
-CCTV1综合,http://www.dsmcloud.top:8888/udp/239.81.0.102:4056
-CCTV1-HEVC,http://www.dsmcloud.top:8888/udp/239.81.1.2:4056
-CCTV2-HEVC,http://www.dsmcloud.top:8888/udp/239.81.1.3:4056
-CCTV2财经,http://www.dsmcloud.top:8888/udp/239.81.0.115:4056
-CCTV3-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.4:4056
-CCTV3综艺AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.231:4056
-CCTV4-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.5:4056
-CCTV4中文国际DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.96:4056
-CCTV5+-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.18:4056
-CCTV5+[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.101:4056
-CCTV5-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.6:4056
-CCTV5体育[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
-CCTV6-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.7:4056
-CCTV6电影AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.233:4056
-CCTV7-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.8:4056
-CCTV7国防军事DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.116:4056
-CCTV8-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.9:4056
-CCTV8电视剧AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.234:4056
-CCTV9-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.10:4056
-CCTV9纪录DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.117:4056
-CCTV10-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.11:4056
-CCTV10科教DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.118:4056
-CCTV11-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.12:4056
-CCTV11戏曲DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.229:4056
-CCTV12-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.13:4056
-CCTV12社会与法DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.119:4056
-CCTV13-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.14:4056
-CCTV13新闻DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.206:4056
-CCTV14-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.15:4056
-CCTV14少儿DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.120:4056
-CCTV15-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.16:4056
-CCTV15体育AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.232:4056
-CCTV15音乐DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.230:4056
-CCTV16奥林匹克[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.142:4056
-CCTV17-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.19:4056
-CCTV17农业农村DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.228:4056
-CETV-1-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.60:4056
-CETV-4-AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.188:4056
-CETV1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.92:4056
-CHC动作电影[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.239:4056
-CHC家庭影院[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.238:4056
-CHC高清电影[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
-东南卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.34:4056
-东南卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.215:4056
-东方卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.23:4056
-东方卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.111:4056
-云南卫视-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.42:4056
-五星体育[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.184:4056
-北京卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.24:4056
-北京卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.109:4056
-北海新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.154:4056
-南宁公共[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.141:4056
-南宁影视娱乐[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.140:4056
-南宁文旅生活[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.139:4056
-南宁新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.241:4056
-吉林卫视-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.50:4056
-吉林卫视AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.143:4056
-和平游戏直播频道[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.201:4056
-四川卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.39:4056
-四川卫视DD5.1-384K[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.130:4056
-天津卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.28:4056
-天津卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.113:4056
-安徽卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.36:4056
-安徽卫视AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.211:4056
-容县电视台[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.194:4056
-百事通,http://www.dsmcloud.top:8888/udp/239.81.0.178:4056
-百事通4k,http://www.dsmcloud.top:8888/udp/239.81.0.01:4056
-山东卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.30:4056
-山东卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.114:4056
-广东卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.21:4056
-广东卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.104:4056
-广告[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.124:4056
-广西IPTV[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.203:4056
-广西IPTV[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.208:4056
-广西卫视AC3-512[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
-广西影视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.250:4056
-广西新闻[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.248:4056
-广西综艺旅游[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.214:4056
-广西都市[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.247:4056
-防城港新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.151:4056
-贵港新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.172:4056
-来宾综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.173:4056
-柳州新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.175:4056
-玉林,http://www.dsmcloud.top:8888/udp/239.81.0.177:4056
-桂林新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.174:4056
-梧州新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.176:4056
-求索|纪录[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.153:4056
-江苏卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.26:4056
-江苏卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.106:4056
-江西卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.38:4056
-江西卫视AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.204:4056
-河北卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.32:4056
-河北卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.94:4056
-河南卫视-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.41:4056
-河池新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.168:4056
-浙江卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.25:4056
-浙江卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.108:4056
-海南卫视-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.45:4056
-深圳卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.27:4056
-深圳卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.103:4056
-湖北卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.29:4056
-湖北卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.112:4056
-湖南卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.22:4056
-湖南卫视DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.110:4056
-灵山县电视台[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.189:4056
-玉林新闻综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.177:4056
-王者游戏直播频道[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.202:4056
-甘肃卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.207:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.178:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.179:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.180:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.183:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.185:4056
-百事测试[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.186:4056
-百色综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.150:4056
-睛彩广场舞[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.193:4056
-睛彩竞技（试播）[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.190:4056
-睛彩篮球[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.191:4056
-睛彩羽毛球[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.192:4056
-精彩|影视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.152:4056
-纪实人文-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.70:4056
-纪实科教-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.69:4056
-芒果TV[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.100:4056
-贵州卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.33:4056
-贵州卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.95:4056
-贺州综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.163:4056
-辽宁卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.35:4056
-辽宁卫视AC3[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.210:4056
-重庆卫视-H264-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.44:4056
-金鹰卡通DD5.1[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.148:4056
-金鹰纪实[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.91:4056
-黑龙江卫视-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.31:4056
-黑龙江卫视[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.105:4056
-钦州综合[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.164:4056
-河池新闻,http://www.dsmcloud.top:8888/udp/239.81.0.168:4056
-贵港,http://www.dsmcloud.top:8888/udp/239.81.0.172:4056
-来宾,http://www.dsmcloud.top:8888/udp/239.81.0.173:4056
-未知,http://www.dsmcloud.top:8888/udp/239.81.0.174:4056
-未知1,http://www.dsmcloud.top:8888/udp/239.81.0.175:4056
-未知2,http://www.dsmcloud.top:8888/udp/239.81.0.176:4056
+电影频道,#genre#
+ CHC动作电影,http://218.68.55.35:8888/udp/225.1.1.215:5002
+ CHC家庭影院,http://60.27.20.30:5555/udp/225.1.1.213:5002
+ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
+ 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-5.m3u8
+ 周星驰,http://204bae1.123nat.com:35455/yy/29945997
+ 李连杰,http://204bae1.123nat.com:35455/yy/74613175
+ 洪金宝,http://204bae1.123nat.com:35455/yy/1354924839
+ 梁家辉,http://diyp.zxxoo.work/huya/11342429
+ 许冠英,http://diyp.zxxoo.work/huya/11601972
+ 刘德华,http://204bae1.123nat.com:35455/yy/1382745111
+ 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
+ 王晶,http://diyp.zxxoo.work/huya/11602058
+ 超炫科幻大片,https://lunbo.freetv.top/yy/1382736840
+ 外国科幻大片,https://lunbo.freetv.top/yy/1382747628
+ 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+ 靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+ 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+ 菏泽三套影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+ 山西影视,https://stream1.freetv.fun/shan-xi-ying-shi-1.ctv
+ 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-2.ctv
+ 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+ 佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-8.m3u8
+ 南宁影视娱乐频道,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
+ 泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=01abefbe1719971096
+ 绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+ 东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+ 上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+ 湖北影视,http://www.furymax.top:85/udp/239.69.1.204:10866
+ 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
+ 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+ 黑龙江影视,https://stream1.freetv.fun/hei-long-jiang-ying-shi-10.ctv
+ 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+ 甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+ 四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
+ 夏洛特烦恼国内电影喜剧,https://lunbo.freetv.top/yy/1354936201
+ 林正英电影,http://cfss.cc/cdn/hy/11342421.flv
+ 峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
+ 楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
+ 封神榜,http://cfss.cc/cdn/hy/23749096.flv
+ 西游记1,http://cfss.cc/cdn/hy/23728660.flv
+ 西游记2,http://cfss.cc/cdn/hy/23735126.flv
+ 天龙八部,http://cfss.cc/cdn/hy/23903123.flv
+ 鹿鼎记,http://cfss.cc/cdn/hy/23865080.flv
+ 大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
+ 神雕侠侣,http://cfss.cc/cdn/hy/11352964.flv
+ 射雕英雄传,http://cfss.cc/cdn/hy/23824164.flv
+ 倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
+ 笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv
+ 黄渤电影,http://cfss.cc/cdn/hy/11352876.flv
+ 强森电影,http://cfss.cc/cdn/hy/21059581.flv
+ 新三国,http://cfss.cc/cdn/hy/11352944.flv
+ 神探狄仁杰第三部,http://cfss.cc/cdn/hy/11342425.flv
+ 爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
+ 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
+ 康熙王朝,http://cfss.cc/cdn/hy/11352940.flv
+ 鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.flv
+ 鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
+ 鬼吹灯之龙岭迷窟,http://cfss.cc/cdn/hy/29465863.flv
+ 鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.flv
+ 星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
+ 变形金刚,http://204bae1.123nat.com:35455/yy/1382736803
+ 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+ 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+ 家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+ 经典电影,https://live.metshop.top/yy/1355142167
+ 哈利波特全集,http://mitv.ts138.top/yy/1382745105
+ 科幻大片,http://204bae1.123nat.com:35455/yy/1354936136
+ 美国队长史蒂夫,https://lunbo.freetv.top/yy/1382736813
+ 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+ 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+ 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+ 龙门飞甲,https://vip.ffzy-play6.com/20221204/9575_e7d99a3f/2000k/hls/mixed.m3u8
+ 寒战1,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+ 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+ 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+ 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+ 人在囧途之囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+ 无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+ 拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+ 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+ 卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+ 满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+ 西游记后传,http://cfss.cc/cdn/yy/1353392400.flv
+ 陈情令,http://cfss.cc/cdn/hy/29465862.flv
+ 仙剑奇侠传,http://cfss.cc/cdn/yy/1382749903.flv
+ 大时代,http://cfss.cc/cdn/hy/23865161.flv
+ 陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
+ 与凤行,http://159.75.85.63:35455/huya/26355866
+ 阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
+ 绝地战警生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
+ 异形寄生起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
+ 狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
+ 鬼舞村诅咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
+ 魔戒首部曲魔戒现身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
+ 魔戒二部曲双城奇谋,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
+ 魔戒三部曲王者再临,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
+ 琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+ 知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
+ 甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+ 贝爷影厅原,http://159.75.85.63:35455/douyu/252802
+ 吃奶滴虫原,http://159.75.85.63:35455/douyu/263824
+ 神乐影剧原,http://159.75.85.63:35455/douyu/122402
+ 可乐影院原,http://159.75.85.63:35455/douyu/20415
+ 小宇60帧原,http://159.75.85.63:35455/douyu/323876
+ 无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+ 电影赛车,http://cfss.cc/cdn/hy/11279247.flv
+ 电影死神来了,http://159.75.85.63:35455/huya/11352903?cdn=txcdn
+ 电影推荐,http://cfss.cc/cdn/hy/11602041.flv
+ 电影蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+ 电影变形金刚,http://cfss.cc/cdn/hy/21059596.flv
+ 家有九凤影视剧,https://lunbo.freetv.top/yy/1354930894
+ 大江大河2高分影视推荐,https://lunbo.freetv.top/yy/1382736797
+ 林正英,http://diyp.zxxoo.work/huya/11342421
+ 巨石强森,http://diyp.zxxoo.work/huya/21059581
+ 杰森斯坦森,http://diyp.zxxoo.work/huya/21059588
+ 电影英叔,http://159.75.85.63:35455/huya/11342421?cdn=txcdn
+ 电影黄渤,http://159.75.85.63:35455/huya/11352876?cdn=txcdn
+ 电影周星星,http://cfss.cc/cdn/hy/11336587.flv
+ 电影成龙,http://159.75.85.63:35455/huya/11342386?cdn=txcdn
+ 电影洪金宝,http://159.75.85.63:35455/huya/11279251?cdn=txcdn
+ 电影星爷,http://cfss.cc/cdn/hy/11342412.m3u8
+ 电影强森,http://159.75.85.63:35455/huya/21059581?cdn=txcdn
+ 电影沈腾,http://159.75.85.63:35455/huya/11601968?cdn=txcdn
+ 电影李连杰,http://159.75.85.63:35455/huya/11342390?cdn=txcdn
+ 电影梁家辉,http://cfss.cc/cdn/hy/11342429.flv
+ 电影刘德华,http://cfss.cc/cdn/hy/11342424.flv
+ 电影怪兽,http://159.75.85.63:35455/huya/21059577?cdn=txcdn
+ 电影喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+ 电影救援,http://159.75.85.63:35455/huya/21059594?cdn=txcdn
+ 电影玄幻,http://cfss.cc/cdn/hy/11342414.flv
+ 电影古墓系列,http://cfss.cc/cdn/hy/11352913.flv
+ 电影功夫片,http://159.75.85.63:35455/huya/11352941?cdn=txcdn
+ 电影高能反转,http://159.75.85.63:35455/huya/11352887?cdn=txcdn
+ 电影罪犯,http://cfss.cc/cdn/hy/11352962.flv
+ 电影盗墓,http://cfss.cc/cdn/hy/21059552.flv
+ 电影犯罪片,http://159.75.85.63:35455/huya/11352974?cdn=txcdn
+ 电影不挤影院,http://159.75.85.63:35455/huya/11352897?cdn=txcdn
+ 电影武侠,http://cfss.cc/cdn/hy/11342427.flv
+ 电影黑帮片,http://159.75.85.63:35455/huya/11336719?cdn=txcdn
+ 电影丧尸片,http://cfss.cc/cdn/hy//21059578.flv
+ 电影动作电影,http://cfss.cc/cdn/hy/11602077.flv
+ 电影战争片,http://cfss.cc/cdn/hy/21059574.flv
+ 电影搞笑喜剧,http://159.75.85.63:35455/huya/11342423?cdn=txcdn
+ 电影搞笑恐怖,http://159.75.85.63:35455/huya/11601960?cdn=txcdn
+ 电影枪战,http://cfss.cc/cdn/hy/21059579.flv
+ 电影热血,http://159.75.85.63:35455/huya/11352934?cdn=txcdn
+ 电影经典女神,http://159.75.85.63:35455/huya/11352909?cdn=txcdn
+ 电影许氏三杰,http://159.75.85.63:35455/huya/11602033?cdn=txcdn
+ 电影谍战,http://159.75.85.63:35455/huya/21059585?cdn=txcdn
+ 电影谍战片,http://cfss.cc/cdn/hy/21059587.flv
+ 电影贺岁,http://cfss.cc/cdn/hy/11601971.flv
+ 电影贺岁片,http://159.75.85.63:35455/huya/11601986?cdn=txcdn
+ 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+ 河北平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+ 黑龙江哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+ 新疆石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+ 广东影视,http://61.145.208.119:9090/udp/239.77.0.217:5146
+ 鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
+ 雪豹,http://cfss.cc/cdn/hy/29580970.flv
+ 直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+ 哈利波特死神的圣物,https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
+ 哈利波特消失的密室,https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
+ 哈利波特混血王子的背叛,https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
+ 哈利波特火杯的考验,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
+ 女神电影原,http://159.75.85.63:35455/douyu/747764
+ 花卷陪看原,http://159.75.85.63:35455/douyu/52787
+ 狮子王,https://v11.fentvoss.com/sdv11/202406/18/UR1TbMCj2U3/video/index.m3u8
+ 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
+ 嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
+ 95神雕侠侣粤,https://sxtv.cloudns.org/yy/1354926637
 明星频道,#genre#
 刘德华,http://204bae1.123nat.com:35455/yy/1354888726
 刘德华,http://204bae1.123nat.com:35455/yy/1382745111
