@@ -31,6 +31,8 @@ CHC动作电影 ,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+足球比赛,https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
+
 📻┃央视,#genre#
 CCTV1,http://ygbh666.cn/aikmigu.php?id=cctv1
 CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2

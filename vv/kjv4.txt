@@ -8,29 +8,37 @@
 更新2024-10-15,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 已运行330天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
+国足世预赛,https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
+国足世预赛粤语,https://play1nm.hnyongshun.cn/live/ballbar_9120.m3u8
+国足世预赛1,https://xzbonlinepull.pq8.co/live/hd-zh-1-4146371.m3u8?txSecret=caeed493f50039ffb8f5f154e443dda3&txTime=670e60c4
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
+TVBS新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___TVBS.flv
+寰宇新闻,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___global.flv
+
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 
 🐼中央电视,#genre#
 
-CCTV1综合HD,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
-CCTV2财经HD,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
-CCTV3综艺HD,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
-CCTV4中文国际HD,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
-CCTV5体育HD,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
-CCTV5+体育赛事HD,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
-CCTV6电影HD,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
-CCTV7国防军事HD,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
-CCTV8电视剧HD,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
-CCTV9纪录HD,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8
-CCTV10科教HD,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8
-CCTV11戏曲HD,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8
-CCTV12社会与法HD,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8
-CCTV13新闻HD,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8
-CCTV14少儿HD,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8
-CCTV15音乐HD,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8
-CCTV16奥林匹克HD,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8
-CCTV17农业农村HD,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8
+CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
+CCTV2财经,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
+CCTV3综艺,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
+CCTV4中文国际,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
+CCTV5体育,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
+CCTV5+体育赛事,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+CCTV6电影,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
+CCTV7国防军事,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
+CCTV8电视剧,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
+CCTV9纪录,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8
+CCTV10科教,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8
+CCTV11戏曲,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8
+CCTV12社会与法,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8
+CCTV13新闻,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8
+CCTV14少儿,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8
+CCTV15音乐,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8
+CCTV16奥林匹克,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8
+CCTV17农业农村,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8
 
 CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
 CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
@@ -601,6 +609,53 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 
+🐼湖南ID27,#genre#
+
+湖南卫视,http://8.138.7.223/tv/hot.php?id=29$长沙联通
+湖南都市,http://8.138.7.223/tv/hot.php?id=21$长沙联通
+湖南电视剧,http://8.138.7.223/tv/hot.php?id=22$长沙联通
+湖南电影,http://8.138.7.223/tv/hot.php?id=23$长沙联通
+金鹰卡通,http://8.138.7.223/tv/hot.php?id=24$长沙联通
+湖南娱乐,http://8.138.7.223/tv/hot.php?id=25$长沙联通
+金鹰纪实,http://8.138.7.223/tv/hot.php?id=26$长沙联通
+湖南教育,http://8.138.7.223/tv/hot.php?id=27$长沙联通
+湖南经视,http://8.138.7.223/tv/hot.php?id=28$长沙联通
+长沙新闻频道,http://8.138.7.223/tv/hot.php?id=59$长沙联通
+长沙政法频道,http://8.138.7.223/tv/hot.php?id=60$长沙联通
+
+湖南经视,http://tv.tvbox6.icu/tv/mgtv.php?id=280$「芒果TV」
+湖南电影,http://tv.tvbox6.icu/tv/mgtv.php?id=221$「芒果TV」
+湖南都市,http://tv.tvbox6.icu/tv/mgtv.php?id=346$「芒果TV」
+湖南电视剧,http://tv.tvbox6.icu/tv/mgtv.php?id=484$「芒果TV」
+湖南爱晚,http://tv.tvbox6.icu/tv/mgtv.php?id=261$「芒果TV」
+湖南国际,http://tv.tvbox6.icu/tv/mgtv.php?id=229$「芒果TV」
+湖南娱乐,http://tv.tvbox6.icu/tv/mgtv.php?id=344$「芒果TV」
+快乐购,http://tv.tvbox6.icu/tv/mgtv.php?id=267$「芒果TV」
+茶频道,http://tv.tvbox6.icu/tv/mgtv.php?id=578$「芒果TV」
+金鹰纪实,http://tv.tvbox6.icu/tv/mgtv.php?id=316$「芒果TV」
+金鹰卡通,http://tv.tvbox6.icu/tv/mgtv.php?id=287$「芒果TV」
+快乐垂钓,http://tv.tvbox6.icu/tv/mgtv.php?id=218$「芒果TV」
+先锋乒羽,http://tv.tvbox6.icu/tv/mgtv.php?id=329$「芒果TV」
+长沙新闻,http://tv.tvbox6.icu/tv/mgtv.php?id=269$「芒果TV」
+长沙政法,http://tv.tvbox6.icu/tv/mgtv.php?id=254$「芒果TV」
+长沙女性,http://tv.tvbox6.icu/tv/mgtv.php?id=230$「芒果TV」
+
+湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8$「官方」
+湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8$「官方」
+
+湖南卫视,http://222.240.82.92:9901/tsfile/live/0128_1.m3u8$「电信」
+金鹰卡通高清,http://222.240.82.92:9901/tsfile/live/1003_1.m3u8$「电信」
+潇湘电影高清,http://222.240.82.92:9901/tsfile/live/1004_1.m3u8$「电信」
+湖南经视,http://222.240.82.92:9901/tsfile/live/1000_1.m3u8$「电信」
+湖南都市,http://222.240.82.92:9901/tsfile/live/1001_1.m3u8$「电信」
+湖南电视剧,http://222.240.82.92:9901/tsfile/live/1002_1.m3u8$「电信」
+湖南教育,http://222.240.82.92:9901/tsfile/live/1008_1.m3u8$「电信」
+湖南娱乐,http://222.240.82.92:9901/tsfile/live/1012_1.m3u8$「电信」
+湖南公共,http://222.240.82.92:9901/tsfile/live/1009_1.m3u8$「电信」
+长沙新闻高清,http://222.240.82.92:9901/tsfile/live/1005_1.m3u8$「电信」
+长沙政法,http://222.240.82.92:9901/tsfile/live/1006_1.m3u8$「电信」
+长沙女性,http://222.240.82.92:9901/tsfile/live/1007_1.m3u8$「电信」
+
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
@@ -1042,6 +1097,7 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 //02凤凰卫视现拥有中文台、资讯台、欧洲台、美洲台、电影台和香港台等6个电视频道
 
 凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
+凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
 凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
