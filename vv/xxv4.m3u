@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-15 10:56",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-15 11:41",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="西夏影视" tvg-name="西夏影视" tvg-logo="https://live.fanmingming.com/tv/西夏影视.png" group-title="综合",西夏影视
 https://txmov2.a.kwimgs.com/upic/2023/07/05/19/BMjAyMzA3MDUxOTA5MTBfNjY0ODk2ODM3XzEwNzIxMDMwNTgxMF8yXzM=_b_B22cfb872d2296edc625d91bd8f0fdd1d.mp4
