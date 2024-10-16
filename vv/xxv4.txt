@@ -506,7 +506,17 @@ CHC高清电影[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 
 🇭🇰香港卫视频道,#genre#
 凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-
+凤凰中文台,http://58.144.凤凰中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文台,http://110.42.45.20:810/xgpd/xxx.php?id=1
+凤凰资讯台,http://110.42.45.20:810/xgpd/xxx.php?id=2
+凤凰香港台,http://110.42.45.20:810/xgpd/xxx.php?id=3154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文台,http://110.42.45.20:810/xgpd/xxx.php?id=1
+凤凰资讯台,http://110.42.45.20:810/xgpd/xxx.php?id=2
+凤凰香港台,http://110.42.45.20:810/xgpd/xxx.php?id=3
 凤凰资讯台,http://free.xiptv.x10.bz/kudou.php?id=122 
 凤凰香港台,http://free.xiptv.x10.bz/kudou.php?id=123
 凤凰卫视,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -558,8 +568,8 @@ CHC高清电影[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港明珠,http://grandprix2023.asuscomm.com:8892/bysid/2
-
-美亚电影台,p3p://108.181.32.169:54559/642525310003ad3cea72ca2155c734c3
+美亚电影,http://110.42.45.20:810/xgpd/xxx.php?id=27
+PopC,http://110.42.45.20:810/xgpd/xxx.php?id=28
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -575,10 +585,12 @@ CHC高清电影[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.240:4056
 
 🇨🇳湾湾频道,#genre#
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+中天新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv009
+东森新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv652
+TVBS新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv072
+寰宇新闻,http://23.224.49.18:8877/4gtv.php?id=litv-longturn14
+民视新闻,http://23.224.49.18:8877/4gtv.php?id=litv-ftv13
 三立新闻,http://211.72.65.236:8543/.m3u8
-TVBS HD,http://211.72.65.236:8575/.m3u8
-中天新聞 HD,http://211.72.65.236:8541/.m3u8
-年代新聞,http://etv.xhgvip.top/twjd.php?id=live1192
 中天新聞HD,http://etv.xhgvip.top/twjd.php?id=live1015
 民視新聞,http://etv.xhgvip.top/twjd.php?id=live1204
 三立新聞HD,http://etv.xhgvip.top/twjd.php?id=live1016
@@ -588,17 +600,10 @@ TVBS HD,http://211.72.65.236:8575/.m3u8
 东森新闻,http://211.72.65.236:8540/.m3u8
 民视,http://211.72.65.236:8504/.m3u8
 寰宇新聞,http://etv.xhgvip.top/twjd.php?id=live1222
-
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
 📽咪咕直播,#genre#
