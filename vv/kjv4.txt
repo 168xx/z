@@ -599,60 +599,63 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&livemode=1&stbId=4&Contentid=1000000001000009082
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+🔥网络推流,#genre#
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
- 🐼河南ID25,#genre#
+🐼福建ID22,#genre#
 
-河南|周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-河南|郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-河南|登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-河南|范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
-河南|扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-河南|固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-河南|光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-河南|鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
-河南|淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-河南|潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-河南|济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-河南|焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-河南|焦作教育,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-河南|焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-河南|睛彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
-河南|开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-河南|开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
-河南|兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-河南|临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-河南|栾川新闻,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
-河南|洛宁综合,http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
-河南|泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-河南|渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-河南|内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-河南|沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8
-河南|汝南综合,http://tvpull.dxhmt.cn:9081/tv/11727-1.m3u8
-河南|嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
-河南|遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
-河南|唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-河南|桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-河南|息县综合,http://120.194.173.75:6060/0.ts
-河南|淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-河南|项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-河南|新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-河南|新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-河南|新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-河南|鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-河南|偃师新闻,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
-河南|叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-河南|义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-河南|禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-河南|禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-河南|叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-河南|渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-河南|义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-河南|淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-河南|禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-河南|兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-河南|项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-河南|新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5$官方源
+海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3$官方源
+福建综合,http://8.138.7.223/tv/fjtv.php?id=4$官方源
+福建公共,http://8.138.7.223/tv/fjtv.php?id=6$官方源
+福建新闻,http://8.138.7.223/tv/fjtv.php?id=13$官方源
+福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7$官方源
+福建旅游,http://8.138.7.223/tv/fjtv.php?id=8$官方源
+福建经济,http://8.138.7.223/tv/fjtv.php?id=9$官方源
+福建文体,http://8.138.7.223/tv/fjtv.php?id=10$官方源
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2$官方源
+
+//厦门电视台
+厦门卫视,http://8.138.7.223/tv/xmtv.php?id=xmws$厦门电视台
+厦门一套,http://8.138.7.223/tv/xmtv.php?id=xm1$厦门电视台
+厦门二套,http://8.138.7.223/tv/xmtv.php?id=xm2$厦门电视台
+厦门移动,http://8.138.7.223/tv/xmtv.php?id=xmyd$厦门电视台
+
+福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$官方源
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$官方源
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$官方源
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8$官方源
+漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8$官方源
+三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8$官方源
+三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8$官方源
+
+厦门卫视,http://110.80.17.38:9901/tsfile/live/0128_1.m3u8$福建电信
+福建乡村,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
+福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8$福建电信
+福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8$福建电信
+
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
