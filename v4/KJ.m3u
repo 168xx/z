@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="💚更新时间10-16 10:58",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-17 11:39",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="🐼中央电视",CCTV1综合
 http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
@@ -13,6 +13,8 @@ http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
 http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="🐼中央电视",CCTV5+体育赛事
 http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🐼中央电视",CCTV6电影
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方频道
 #EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🐼中央电视",CCTV6电影
 http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事.png" group-title="🐼中央电视",CCTV7国防军事
@@ -135,8 +137,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$移动 | 回看
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村.png" group-title="🐼中央电视",CCTV17农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$移动 | 回看
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🐼中央电视",CCTV6电影
-http://8.138.7.223/tv/cctv6.m3u8$官方频道
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="🐼中央电视",CCTV1综合
 http://183.207.248.71/PLTV/3/224/3221228213/1.m3u8$南京移动
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经.png" group-title="🐼中央电视",CCTV2财经
