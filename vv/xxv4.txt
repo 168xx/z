@@ -31,10 +31,7 @@ CHC动作电影 ,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-足球比赛,https://hls.yjjcfw.com/live/4146371.m3u8?hwSecret=60c6d6bbbef840f365529e7b7b60173612f8dd66712c34d887a860b1d1fc5045&hwTime=670E573E
-🔊国🎙️绿色解说,https://v.infoq.io/live/1766907900245237762_hdp.m3u8?txSecret=0e8271428af090050d22794f874c2f55&txTime=670EC4F3&
-🔊国🎙️臻球解说,https://pullhw.zhaoyangyang.cn/live/8729160.flv?auth_info=8PEJbqlvIm6L%2BET0BAKMTOjMd88%2FrvVr0KBz3R0ga%2FQ%3D.356b64544f766c626e456b76766d6b35
-🔊国🎙️球侠说球,https://v.speechless.pw/live/1801577487925297154_hdp.m3u8?txSecret=1e1b4f8bf7dda1236cdc839fffafa432&txTime=670ECE86&
+
 📻┃央视,#genre#
 CCTV1,http://ygbh666.cn/aikmigu.php?id=cctv1
 CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2
@@ -585,6 +582,27 @@ PopC,http://110.42.45.20:810/xgpd/xxx.php?id=28
 
 🇨🇳湾湾频道,#genre#
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+民视,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv002
+民视,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv655
+中视,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv040
+华视,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv041
+台视,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv066
+寰宇,http://23.224.49.18:8877/4gtv.php?id=litv-longturn15
+TVBS,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv073
+中天新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv009
+东森新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv652
+TVBS新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv072
+寰宇新闻,http://23.224.49.18:8877/4gtv.php?id=litv-longturn14
+非凡新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv010
+闽镜新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv075
+民视新闻,http://23.224.49.18:8877/4gtv.php?id=litv-ftv13
+中视新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv074
+华视新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv052
+台视新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv051
+
+民视台湾,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv001
+民视台湾,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv656
+民视第一,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv003
 中天新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv009
 东森新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv652
 TVBS新闻,http://23.224.49.18:8877/4gtv.php?id=4gtv-4gtv072
