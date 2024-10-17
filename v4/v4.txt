@@ -1,4 +1,4 @@
-💚更新时间10-16,#genre#
+💚更新时间10-17,#genre#
 仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 🐼中央电视,#genre#
 CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
@@ -7,6 +7,7 @@ CCTV3综艺,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
 CCTV4中文国际,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
 CCTV5体育,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
 CCTV5+体育赛事,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方频道
 CCTV6电影,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
 CCTV7国防军事,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
 CCTV8电视剧,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
@@ -68,7 +69,6 @@ CCTV15音乐,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 | 回看
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$移动 | 回看
 CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$移动 | 回看
-CCTV6电影,http://8.138.7.223/tv/cctv6.m3u8$官方频道
 CCTV1综合,http://183.207.248.71/PLTV/3/224/3221228213/1.m3u8$南京移动
 CCTV2财经,http://183.207.248.71/PLTV/3/224/3221228300/1.m3u8$南京移动
 CCTV3综艺,http://183.207.248.71/PLTV/3/224/3221228392/1.m3u8$南京移动
@@ -1761,16 +1761,16 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 成都影视,http://tv.tvbox6.icu/tv/cditv.php?id=cdyswy
 贵州影视,http://tvbox6.com/tv/dl/dl668/gztv.php?id=gzwy
 电影频道,#genre#
- CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-15.ctv
- CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-4.m3u8
- CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-4.m3u8
- 东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
+ CHC动作电影,https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv
+ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-22.ctv
+ CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-1.ctv
+ 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-5.m3u8
  周星驰,http://diyp.zxxoo.work/douyu/122402
  李连杰,http://204bae1.123nat.com:35455/yy/74613175
- 洪金宝,http://204bae1.123nat.com:35455/yy/1354924839
+ 洪金宝,http://204bae1.123nat.com:35455/yy/1382851602
  梁家辉,http://diyp.zxxoo.work/huya/11342429
  许冠英,http://diyp.zxxoo.work/huya/11601972
- 刘德华,http://204bae1.123nat.com:35455/yy/1382745111
+ 刘德华,http://204bae1.123nat.com:35455/yy/1354888726
  成龙,http://204bae1.123nat.com:35455/yy/34460526
  王晶,http://diyp.zxxoo.work/huya/11602058
  东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
@@ -1780,16 +1780,16 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
  菏泽三套影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
  山西影视,https://stream1.freetv.fun/shan-xi-ying-shi-1.ctv
- 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-4.ctv
- 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
- 佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-8.m3u8
+ 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-1.ctv
+ 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+ 佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-6.ctv
  南宁影视娱乐频道,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
  泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=01abefbe1719971096
  绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
  东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
  上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
- 湖北影视,http://20191221.xyz:8888/udp/239.69.1.204:10866
- 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-11.m3u8
+ 湖北影视,http://www.furymax.top:85/udp/239.69.1.204:10866
+ 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-4.m3u8
  辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
  黑龙江影视,https://stream1.freetv.fun/hei-long-jiang-ying-shi-1.m3u8
  哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -1798,16 +1798,14 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  林正英电影,http://cfss.cc/cdn/hy/11342421.flv
  峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
  楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
- 封神榜,http://cfss.cc/cdn/hy/23749096.flv
  西游记1,http://cfss.cc/cdn/hy/23728660.flv
  西游记2,http://cfss.cc/cdn/hy/23735126.flv
- 天龙八部,http://cfss.cc/cdn/hy/23903123.flv
  鹿鼎记,http://cfss.cc/cdn/hy/23865080.flv
  寻秦记,http://cfss.cc/cdn/hy/23864973.flv
  大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
- 神雕侠侣,http://cfss.cc/cdn/hy/11352964.flv
+ 神雕侠侣,http://cfss.cc/cdn/hy/23865171.flv
  射雕英雄传,http://cfss.cc/cdn/hy/23824164.flv
- 倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
+ 倚天屠龙记,http://cfss.cc/cdn/hy/11342403.flv
  笑傲江湖,http://cfss.cc/cdn/hy/26355790.flv
  黄渤电影,http://cfss.cc/cdn/hy/11352876.flv
  强森电影,http://cfss.cc/cdn/hy/21059581.flv
@@ -1828,16 +1826,15 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
  家庭影院,https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
  经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-11.m3u8
- 大话西游至尊宝,https://lunbo.freetv.top/yy/1382736910
  叶问全集,https://lunbo.freetv.top/yy/1382828771
- 哈利波特全集,http://159.75.85.63:35455/yy/1382745105
- 科幻大片,http://204bae1.123nat.com:35455/yy/1354936136
+ 哈利波特全集,http://mitv.ts138.top/yy/1382745105
+ 科幻大片,http://204bae1.123nat.com:35455/yy/1354930209
  倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
  倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
  倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
- 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+ 龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
  寒战1,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
- 人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+ 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
  人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
  人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
  人在囧途之囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
@@ -1846,13 +1843,12 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
  卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
  满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
- 庆余年,http://diyp.zxxoo.work/douyu/5062195
  西游记后传,http://cfss.cc/cdn/yy/1353392400.flv
  伪装者,http://cfss.cc/cdn/yy/1354936244.flv
  陈情令,http://cfss.cc/cdn/hy/29465862.flv
  大时代,http://cfss.cc/cdn/hy/23865161.flv
  陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
- 我的前半生,http://159.75.85.63:35455/yy/1382735564
+ 狂飙,http://cfss.cc/cdn/yy/17981.flv
  与凤行,http://159.75.85.63:35455/huya/26355866
  阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
  哥斯拉大战金刚2帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
@@ -1861,8 +1857,8 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
  鬼舞村诅咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
  魔戒首部曲魔戒现身,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
- 魔戒二部曲双城奇谋,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
- 魔戒三部曲王者再临,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
+ 魔戒二部曲双城奇谋,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
+ 魔戒三部曲王者再临,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
  琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
  知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
  甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
@@ -1871,9 +1867,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  欧美大片原,http://159.75.85.63:35455/douyu/2793084
  贝爷max原,http://159.75.85.63:35455/douyu/4332
  贝爷影厅原,http://159.75.85.63:35455/douyu/252802
- 鱼宝恐怖原,http://159.75.85.63:35455/douyu/1165374
  吃奶滴虫原,http://159.75.85.63:35455/douyu/263824
- 喜剧电影原,http://159.75.85.63:35455/douyu/9292492
  避风影院原,http://159.75.85.63:35455/douyu/9826611
  吃米滴虫原,http://159.75.85.63:35455/douyu/315457
  冰冰经典原,http://159.75.85.63:35455/douyu/74374
@@ -1888,7 +1882,6 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  恐怖惊悚原,http://159.75.85.63:35455/douyu/96577
  电影剧场原,http://159.75.85.63:35455/douyu/7575350
  豆瓣高分原,http://159.75.85.63:35455/douyu/8770422
- 超燃科幻大片明日边缘,https://lunbo.freetv.top/yy/1382736835
  无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
  电影赛车,http://cfss.cc/cdn/hy/11279247.flv
  电影死神来了,http://cfss.cc/cdn/hy/11352903.flv
@@ -1896,7 +1889,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  电影蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
  电影变形金刚,http://cfss.cc/cdn/hy/21059596.flv
  隋唐英雄传,http://cfss.cc/cdn/yy/1352475619.flv
- 林正英,http://204bae1.123nat.com:35455/yy/30668277
+ 林正英,http://diyp.zxxoo.work/huya/11342421
  巨石强森,http://diyp.zxxoo.work/huya/21059581
  杰森斯坦森,http://diyp.zxxoo.work/huya/21059588
  电影成龙,http://cfss.cc/cdn/hy/11342386.flv
@@ -1916,7 +1909,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  电影不挤影院,http://cfss.cc/cdn/hy/11352897.flv
  电影武侠,http://cfss.cc/cdn/hy/11342427.flv
  电影黑帮片,http://cfss.cc/cdn/hy/11336719.flv
- 电影丧尸片,http://cfss.cc/cdn/hy/21059578.flv
+ 电影丧尸片,http://cfss.cc/cdn/hy//21059578.flv
  电影动作电影,http://cfss.cc/cdn/hy/11602077.flv
  电影战争片,http://cfss.cc/cdn/hy/21059574.flv
  电影搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
@@ -1948,8 +1941,6 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  狮子王,https://v11.fentvoss.com/sdv11/202406/18/UR1TbMCj2U3/video/index.m3u8
  无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
  嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
- 95神雕侠侣粤,https://sxtv.cloudns.org/yy/1354926637
- 96笑傲江湖,https://sxtv.cloudns.org/yy/1354930909
 明星频道,#genre#
 刘德华,http://204bae1.123nat.com:35455/yy/1354888726
 刘德华,http://204bae1.123nat.com:35455/yy/1382745111
