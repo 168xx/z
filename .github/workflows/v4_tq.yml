@@ -88,7 +88,7 @@ jobs:
         sed -i '/^\s*$/d' v4/v4.m3u
 
         # 节目源
-        rm -f tv/EPG.xml && wget https://epg.112114.xyz/pp.xml -O tv/EPG.xml
+        rm -f v4/EPG.xml && wget https://epg.112114.xyz/pp.xml -O v4/EPG.xml
 
     - name: Commit 和 push changes
       run: |
