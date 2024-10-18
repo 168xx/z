@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道", CHC动作电影
-https://stream1.freetv.fun/chcdong-zuo-dian-ying-10.ctv
+https://stream1.freetv.fun/chcdong-zuo-dian-ying-32.ctv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-8.ctv
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.ctv
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
-https://stream1.freetv.fun/chcgao-qing-dian-ying-12.ctv
+https://stream1.freetv.fun/chcying-mi-dian-ying-4.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="电影频道", 东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-2.m3u8
+http://101.81.119.90:8888/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="周星驰" tvg-id="周星驰" tvg-logo="" group-title="电影频道", 周星驰
 http://159.75.85.63:35455/yy/1354658049
 #EXTINF:-1 tvg-name="李连杰" tvg-id="李连杰" tvg-logo="" group-title="电影频道", 李连杰
-http://cfss.cc/cdn/hy/11342390.m3u8
+http://204bae1.123nat.com:35455/yy/74613175
 #EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="" group-title="电影频道", 洪金宝
 http://204bae1.123nat.com:35455/yy/1354924839
 #EXTINF:-1 tvg-name="梁家辉" tvg-id="梁家辉" tvg-logo="" group-title="电影频道", 梁家辉
@@ -18,7 +18,7 @@ http://diyp.zxxoo.work/huya/11342429
 #EXTINF:-1 tvg-name="许冠英" tvg-id="许冠英" tvg-logo="" group-title="电影频道", 许冠英
 http://diyp.zxxoo.work/huya/11601972
 #EXTINF:-1 tvg-name="刘德华" tvg-id="刘德华" tvg-logo="" group-title="电影频道", 刘德华
-http://204bae1.123nat.com:35455/yy/1354888726
+http://204bae1.123nat.com:35455/yy/1382745111
 #EXTINF:-1 tvg-name="成龙" tvg-id="成龙" tvg-logo="" group-title="电影频道", 成龙
 https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 #EXTINF:-1 tvg-name="王晶" tvg-id="王晶" tvg-logo="" group-title="电影频道", 王晶
@@ -42,11 +42,11 @@ http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="山西影视" tvg-id="山西影视" tvg-logo="" group-title="电影频道", 山西影视
 https://stream1.freetv.fun/shan-xi-ying-shi-1.ctv
 #EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="电影频道", 广州影视
-https://stream1.freetv.fun/yan-zhou-ying-shi-10.m3u8
+https://stream1.freetv.fun/yan-zhou-ying-shi-9.ctv
 #EXTINF:-1 tvg-name="广州电视台影视频道" tvg-id="广州电视台影视频道" tvg-logo="" group-title="电影频道", 广州电视台影视频道
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
 #EXTINF:-1 tvg-name="佛山影视" tvg-id="佛山影视" tvg-logo="" group-title="电影频道", 佛山影视
-https://stream1.freetv.fun/fo-shan-ying-shi-1.ctv
+https://stream1.freetv.fun/fo-shan-ying-shi-8.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐频道" tvg-id="南宁影视娱乐频道" tvg-logo="" group-title="电影频道", 南宁影视娱乐频道
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-name="泰州三套影视娱乐频道" tvg-id="泰州三套影视娱乐频道" tvg-logo="" group-title="电影频道", 泰州三套影视娱乐频道
@@ -60,7 +60,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="湖北影视" tvg-id="湖北影视" tvg-logo="" group-title="电影频道", 湖北影视
 http://20191221.xyz:8888/udp/239.69.1.204:10866
 #EXTINF:-1 tvg-name="湖南电影" tvg-id="湖南电影" tvg-logo="" group-title="电影频道", 湖南电影
-https://stream1.freetv.fun/hu-nan-dian-ying-11.m3u8
+https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-id="辽宁影视剧" tvg-logo="" group-title="电影频道", 辽宁影视剧
 http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="" group-title="电影频道", 黑龙江影视
@@ -87,18 +87,16 @@ http://cfss.cc/cdn/hy/23749096.flv
 http://cfss.cc/cdn/hy/23728660.flv
 #EXTINF:-1 tvg-name="西游记2" tvg-id="西游记2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 西游记2
 http://cfss.cc/cdn/hy/23735126.flv
+#EXTINF:-1 tvg-name="天龙八部" tvg-id="天龙八部" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 天龙八部
+http://cfss.cc/cdn/hy/23903123.flv
 #EXTINF:-1 tvg-name="寻秦记" tvg-id="寻秦记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 寻秦记
 http://cfss.cc/cdn/hy/23864973.flv
 #EXTINF:-1 tvg-name="大唐双龙传" tvg-id="大唐双龙传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 大唐双龙传
 http://cfss.cc/cdn/hy/23728674.flv
-#EXTINF:-1 tvg-name="神雕侠侣" tvg-id="神雕侠侣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电影频道", 神雕侠侣
-http://cfss.cc/cdn/hy/11352964.flv
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 射雕英雄传
 http://cfss.cc/cdn/hy/23824164.flv
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-id="倚天屠龙记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 倚天屠龙记
-http://cfss.cc/cdn/hy/23734246.flv
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电影频道", 笑傲江湖
-http://cfss.cc/cdn/hy/26355790.flv
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 笑傲江湖
+http://cfss.cc/cdn/hy/23865142.flv
 #EXTINF:-1 tvg-name="黄渤电影" tvg-id="黄渤电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道", 黄渤电影
 http://cfss.cc/cdn/hy/11352876.flv
 #EXTINF:-1 tvg-name="强森电影" tvg-id="强森电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道", 强森电影
@@ -113,6 +111,8 @@ http://cfss.cc/cdn/hy/11342425.flv
 http://cfss.cc/cdn/hy/11336726.flv
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-id="铁齿铜牙纪晓岚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电影频道", 铁齿铜牙纪晓岚
 http://cfss.cc/cdn/hy/11342396.flv
+#EXTINF:-1 tvg-name="士兵突击" tvg-id="士兵突击" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电影频道", 士兵突击
+http://cfss.cc/cdn/hy/11342430.flv
 #EXTINF:-1 tvg-name="康熙王朝" tvg-id="康熙王朝" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png" group-title="电影频道", 康熙王朝
 http://cfss.cc/cdn/hy/11352940.flv
 #EXTINF:-1 tvg-name="鬼吹灯之精绝古城" tvg-id="鬼吹灯之精绝古城" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电影频道", 鬼吹灯之精绝古城
@@ -123,22 +123,22 @@ http://cfss.cc/cdn/hy/11602075.flv
 http://cfss.cc/cdn/hy/29465863.flv
 #EXTINF:-1 tvg-name="鬼吹灯之云南虫谷" tvg-id="鬼吹灯之云南虫谷" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电影频道", 鬼吹灯之云南虫谷
 http://cfss.cc/cdn/hy/11352898.flv
-#EXTINF:-1 tvg-name="星际穿越" tvg-id="星际穿越" tvg-logo="" group-title="电影频道", 星际穿越
-https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
 #EXTINF:-1 tvg-name="变形金刚" tvg-id="变形金刚" tvg-logo="" group-title="电影频道", 变形金刚
-http://159.75.85.63:35455/yy/1382736803
+http://204bae1.123nat.com:35455/yy/1382736803
 #EXTINF:-1 tvg-name="九品芝麻官" tvg-id="九品芝麻官" tvg-logo="" group-title="电影频道", 九品芝麻官
-https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
+https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 #EXTINF:-1 tvg-name="我不是药神" tvg-id="我不是药神" tvg-logo="" group-title="电影频道", 我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 #EXTINF:-1 tvg-name="让子弹飞" tvg-id="让子弹飞" tvg-logo="" group-title="电影频道", 让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-name="家庭影院" tvg-id="家庭影院" tvg-logo="" group-title="电影频道", 家庭影院
-http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="电影频道", 经典电影
 https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8
 #EXTINF:-1 tvg-name="哈利波特全集" tvg-id="哈利波特全集" tvg-logo="" group-title="电影频道", 哈利波特全集
 http://159.75.85.63:35455/yy/1382745105
+#EXTINF:-1 tvg-name="科幻大片" tvg-id="科幻大片" tvg-logo="" group-title="电影频道", 科幻大片
+http://204bae1.123nat.com:35455/yy/1382736836
 #EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-id="倩女幽魂妖魔道" tvg-logo="" group-title="电影频道", 倩女幽魂妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 #EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-id="倩女幽魂人间道" tvg-logo="" group-title="电影频道", 倩女幽魂人间道
@@ -150,7 +150,7 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-name="寒战1" tvg-id="寒战1" tvg-logo="" group-title="电影频道", 寒战1
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途" tvg-id="人在囧途" tvg-logo="" group-title="电影频道", 人在囧途
-https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
 #EXTINF:-1 tvg-name="人在囧途之泰囧" tvg-id="人在囧途之泰囧" tvg-logo="" group-title="电影频道", 人在囧途之泰囧
 https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途之港囧" tvg-id="人在囧途之港囧" tvg-logo="" group-title="电影频道", 人在囧途之港囧
@@ -159,8 +159,6 @@ https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
 https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
 #EXTINF:-1 tvg-name="无间道1" tvg-id="无间道1" tvg-logo="" group-title="电影频道", 无间道1
 https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-#EXTINF:-1 tvg-name="拆弹专家1" tvg-id="拆弹专家1" tvg-logo="" group-title="电影频道", 拆弹专家1
-https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 #EXTINF:-1 tvg-name="拆弹专家2" tvg-id="拆弹专家2" tvg-logo="" group-title="电影频道", 拆弹专家2
 https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 #EXTINF:-1 tvg-name="卧虎藏龙" tvg-id="卧虎藏龙" tvg-logo="" group-title="电影频道", 卧虎藏龙
@@ -171,8 +169,14 @@ https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
 http://159.75.85.63:35455/yy/1382660835
 #EXTINF:-1 tvg-name="西游记后传" tvg-id="西游记后传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电影频道", 西游记后传
 http://cfss.cc/cdn/yy/1353392400.flv
+#EXTINF:-1 tvg-name="伪装者" tvg-id="伪装者" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电影频道", 伪装者
+http://cfss.cc/cdn/yy/1354936244.flv
 #EXTINF:-1 tvg-name="陈情令" tvg-id="陈情令" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电影频道", 陈情令
 http://cfss.cc/cdn/hy/29465862.flv
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="电影频道", 仙剑奇侠传
+http://cfss.cc/cdn/yy/1382749903.flv
+#EXTINF:-1 tvg-name="大时代" tvg-id="大时代" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 大时代
+http://cfss.cc/cdn/hy/23865161.flv
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-id="陀枪师姐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电影频道", 陀枪师姐
 http://cfss.cc/cdn/hy/23860039.flv
 #EXTINF:-1 tvg-name="狂飙" tvg-id="狂飙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电影频道", 狂飙
@@ -219,8 +223,6 @@ http://159.75.85.63:35455/douyu/1165374
 http://159.75.85.63:35455/douyu/263824
 #EXTINF:-1 tvg-name="喜剧电影原" tvg-id="喜剧电影原" tvg-logo="" group-title="电影频道", 喜剧电影原
 http://159.75.85.63:35455/douyu/9292492
-#EXTINF:-1 tvg-name="避风影院原" tvg-id="避风影院原" tvg-logo="" group-title="电影频道", 避风影院原
-http://159.75.85.63:35455/douyu/9826611
 #EXTINF:-1 tvg-name="吃米滴虫原" tvg-id="吃米滴虫原" tvg-logo="" group-title="电影频道", 吃米滴虫原
 http://159.75.85.63:35455/douyu/315457
 #EXTINF:-1 tvg-name="冰冰经典原" tvg-id="冰冰经典原" tvg-logo="" group-title="电影频道", 冰冰经典原
@@ -264,11 +266,13 @@ http://159.75.85.63:35455/yy/1382736806
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-id="隋唐英雄传" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电影频道", 隋唐英雄传
 http://cfss.cc/cdn/yy/1352475619.flv
 #EXTINF:-1 tvg-name="林正英" tvg-id="林正英" tvg-logo="" group-title="电影频道", 林正英
-http://204bae1.123nat.com:35455/yy/1353685311
+http://diyp.zxxoo.work/huya/11342421
 #EXTINF:-1 tvg-name="巨石强森" tvg-id="巨石强森" tvg-logo="" group-title="电影频道", 巨石强森
 http://diyp.zxxoo.work/huya/21059581
 #EXTINF:-1 tvg-name="杰森斯坦森" tvg-id="杰森斯坦森" tvg-logo="" group-title="电影频道", 杰森斯坦森
 http://diyp.zxxoo.work/huya/21059588
+#EXTINF:-1 tvg-name="电影周星星" tvg-id="电影周星星" tvg-logo="" group-title="电影频道", 电影周星星
+http://cfss.cc/cdn/hy/11336587.flv
 #EXTINF:-1 tvg-name="电影成龙" tvg-id="电影成龙" tvg-logo="" group-title="电影频道", 电影成龙
 http://cfss.cc/cdn/hy/11342386.flv
 #EXTINF:-1 tvg-name="电影洪金宝" tvg-id="电影洪金宝" tvg-logo="" group-title="电影频道", 电影洪金宝
@@ -304,7 +308,7 @@ http://cfss.cc/cdn/hy/11342427.flv
 #EXTINF:-1 tvg-name="电影黑帮片" tvg-id="电影黑帮片" tvg-logo="" group-title="电影频道", 电影黑帮片
 http://cfss.cc/cdn/hy/11336719.flv
 #EXTINF:-1 tvg-name="电影丧尸片" tvg-id="电影丧尸片" tvg-logo="" group-title="电影频道", 电影丧尸片
-http://cfss.cc/cdn/hy//21059578.flv
+http://cfss.cc/cdn/hy/21059578.flv
 #EXTINF:-1 tvg-name="电影动作电影" tvg-id="电影动作电影" tvg-logo="" group-title="电影频道", 电影动作电影
 http://cfss.cc/cdn/hy/11602077.flv
 #EXTINF:-1 tvg-name="电影战争片" tvg-id="电影战争片" tvg-logo="" group-title="电影频道", 电影战争片
@@ -327,6 +331,8 @@ http://cfss.cc/cdn/hy/21059585.flv
 http://cfss.cc/cdn/hy/21059587.flv
 #EXTINF:-1 tvg-name="电影贺岁" tvg-id="电影贺岁" tvg-logo="" group-title="电影频道", 电影贺岁
 http://cfss.cc/cdn/hy/11601971.flv
+#EXTINF:-1 tvg-name="24H国漫热播" tvg-id="24H国漫热播" tvg-logo="" group-title="电影频道", 24H国漫热播
+https://lunbo.freetv.top/yy/1353937086
 #EXTINF:-1 tvg-name="安徽影视" tvg-id="安徽影视" tvg-logo="" group-title="电影频道", 安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 #EXTINF:-1 tvg-name="河北平泉影视" tvg-id="河北平泉影视" tvg-logo="" group-title="电影频道", 河北平泉影视
@@ -364,6 +370,6 @@ http://159.75.85.63:35455/douyu/52787
 #EXTINF:-1 tvg-name="狮子王" tvg-id="狮子王" tvg-logo="" group-title="电影频道", 狮子王
 https://v11.fentvoss.com/sdv11/202406/18/UR1TbMCj2U3/video/index.m3u8
 #EXTINF:-1 tvg-name="无间道2" tvg-id="无间道2" tvg-logo="" group-title="电影频道", 无间道2
-https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
+https://vip.ffzy-play6.com/20221017/14_4ab5bf5e/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="嘉兴文化影视" tvg-id="嘉兴文化影视" tvg-logo="" group-title="电影频道", 嘉兴文化影视
 http://play-a2.quklive.com/live/1675149625220101.m3u8
