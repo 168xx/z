@@ -1,100 +1,5 @@
 💚更新时间10-18,#genre#
 仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
-央卫频道,#genre#
-CCTV-01频道,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-02频道,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-03频道,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-04频道,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-05频道,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-5+频道,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-06频道,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-07频道,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-08频道,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-09频道,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-10频道,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-11频道,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-12频道,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-13频道,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-14频道,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-15频道,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-16频道,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV-17频道,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8$涛哥直播•IPV4
-CCTV4欧洲台,http://222.129.34.164:9001/rtp/239.3.1.213:4220$涛哥直播•IPV4
-CCTV4美洲台,http://222.129.34.164:9001/rtp/239.3.1.214:4220$涛哥直播•IPV4
-CGTN_英语台,http://182.104.192.98:8180/TV00000000000000000041@HHZT$涛哥直播•IPV4
-CGTN_纪录台,http://222.129.34.164:9001/rtp/239.3.1.216:4220$涛哥直播•IPV4
-CGTN_西语台,http://222.129.34.164:9001/rtp/239.3.1.217:4220$涛哥直播•IPV4
-CGTN_法语台,http://222.129.34.164:9001/rtp/239.3.1.218:4220$涛哥直播•IPV4
-CGTN_阿语台,http://222.129.34.164:9001/rtp/239.3.1.219:4220$涛哥直播•IPV4
-CGTN_俄语台,http://222.129.34.164:9001/rtp/239.3.1.220:4220$涛哥直播•IPV4
-凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$涛哥直播•IPV4
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$涛哥直播•IPV4
-凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$涛哥直播•IPV4
-凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT$涛哥直播•IPV4
-世界地理频道,http://zhancheng.x3322.net:6699/live/1087/index.m3u8$涛哥直播•IPV4
-兵器科技频道,http://zhancheng.x3322.net:6699/live/1083/index.m3u8$涛哥直播•IPV4
-第一剧场频道,http://zhancheng.x3322.net:6699/live/1081/index.m3u8$涛哥直播•IPV4
-怀旧剧场频道,http://zhancheng.x3322.net:6699/live/1088/index.m3u8$涛哥直播•IPV4
-风云剧场频道,http://zhancheng.x3322.net:6699/live/1082/index.m3u8$涛哥直播•IPV4
-风云音乐频道,http://rihou.cc:555/cqyx.php?id=fyyy$涛哥直播•IPV4
-风云足球频道,http://zhancheng.x3322.net:6699/live/1080/index.m3u8$涛哥直播•IPV4
-女性时尚频道,http://rihou.cc:555/cqyx.php?id=nxss$涛哥直播•IPV4
-文化精品频道,http://zhancheng.x3322.net:6699/live/1079/index.m3u8$涛哥直播•IPV4
-高尔网球频道,http://zhancheng.x3322.net:6699/live/1078/index.m3u8$涛哥直播•IPV4
-央视台球频道,http://zhancheng.x3322.net:6699/live/1077/index.m3u8$涛哥直播•IPV4
-电视指南频道,http://zhancheng.x3322.net:6699/live/1084/index.m3u8$涛哥直播•IPV4
-早期教育频道,http://222.129.34.164:9001/rtp/239.3.1.79:4120$涛哥直播•IPV4
-中国教育频道,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8$涛哥直播•IPV4
-中国教壹频道,http://rihou.cc:555/cqyx.php?id=cetv1$涛哥直播•IPV4
-中国教肆频道,http://rihou.cc:555/cqyx.php?id=cetv4$涛哥直播•IPV4
-中国天气频备,http://zhancheng.x3322.net:6699/live/1072/index.m3u8$涛哥直播•IPV4
-中国书画频道,http://rihou.cc:555/cqyx.php?id=sh$涛哥直播•IPV4
-中国交通频备,http://222.129.34.164:9001/rtp/239.3.1.188:8001$涛哥直播•IPV4
-Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8$涛哥直播•IPV4
-CETV1台频道,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8$涛哥直播•IPV4
-CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8$涛哥直播•IPV4
-五星体育频道,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8$涛哥直播•IPV4
-劲爆体育频道,http://110.84.123.146:3000/itv/bestzb/5000000002000029972$涛哥直播•IPV4
-新视觉hd频道,http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8$涛哥直播•IPV4
-魅力足球频道,http://110.84.123.146:3000/itv/bestzb/5000000011000031207$涛哥直播•IPV4『线路1』
-魅力足球频道,http://117.161.12.124/live/program/live/mlyyhd8m/8000000/mnf.m3u8$涛哥直播•IPV4『线路2』
-重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$涛哥直播•IPV4『线路1』
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$涛哥直播•IPV4『线路2』
-重温经典频道,http://live.dxms.top:80/dwy/cwjd.php$涛哥直播•IPV4『线路3』
-重温经典频道,http://mtw.so/5NPX0U$涛哥直播•IPV4『线路4』
-动作电影频道,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D$涛哥直播•IPV4『线路1』
-动作电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy$涛哥直播•IPV4『线路2』
-家庭影院频道,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D$涛哥直播•IPV4『线路1』
-家庭影院频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy$涛哥直播•IPV4『线路2』
-影迷电影频道,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D$涛哥直播•IPV4
-北京卫视频道,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8$涛哥直播•IPV4
-东方卫视频道,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8$涛哥直播•IPV4
-浙江卫视频道,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8$涛哥直播•IPV4
-江苏卫视频道,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8$涛哥直播•IPV4
-湖南卫视频道,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$涛哥直播•IPV4
-广东卫视频道,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8$涛哥直播•IPV4
-深圳卫视频道,http://beijinglive.online.domybox.com:911/live/SZWShd-8M/live.m3u8$涛哥直播•IPV4
-安徽卫视频道,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8$涛哥直播•IPV4
-山东卫视频道,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8$涛哥直播•IPV4
-东南卫视频道,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8$涛哥直播•IPV4
-天津卫视频道,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8$涛哥直播•IPV4
-辽宁卫视频道,http://zhancheng.x3322.net:6699/live/1030/index.m3u8$涛哥直播•IPV4
-海南卫视频道,http://zhancheng.x3322.net:6699/live/1044/index.m3u8$涛哥直播•IPV4
-江西卫视频道,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8$涛哥直播•IPV4
-湖北卫视频道,http://beijinglive.online.domybox.com:911/live/HuBWShd-8M/live.m3u8$涛哥直播•IPV4
-广西卫视频道,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8$涛哥直播•IPV4
-四川卫视频道,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8$涛哥直播•IPV4
-云南卫视频道,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8$涛哥直播•IPV4
-贵州卫视频道,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8$涛哥直播•IPV4
-宁夏卫视频道,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8$涛哥直播•IPV4
-重庆卫视频道,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8$涛哥直播•IPV4
-西藏卫视频道,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8$涛哥直播•IPV4
-新疆卫视频道,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$涛哥直播•IPV4
-甘肃卫视频道,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8$涛哥直播•IPV4
-内蒙卫视频道,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8$涛哥直播•IPV4
-吉林卫视频道,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8$涛哥直播•IPV4
-兵团卫视频道,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8$涛哥直播•IPV4
-黑龙江视频道,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8$涛哥直播•IPV4
 咪咕频道,#genre#
 CCTV-01咪咕,http://rihou.cc:567/dd.php?id=cctv1$涛哥直播•IPV4
 CCTV-02咪咕,http://rihou.cc:567/dd.php?id=cctv2$涛哥直播•IPV4
@@ -235,6 +140,211 @@ CCTV-17_ITV,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265015$涛�
 iH爱体育_ITV,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630$涛哥直播•IPV4
 劲爆体育_ITV,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972$涛哥直播•IPV4
 魅力足球_ITV,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207$涛哥直播•IPV4
+🐼中央电视,#genre#
+CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
+CCTV2财经,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
+CCTV3综艺,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
+CCTV4中文国际,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
+CCTV5体育,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
+CCTV5+体育赛事,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方频道
+CCTV6电影,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
+CCTV7国防军事,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
+CCTV8电视剧,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
+CCTV9纪录,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8
+CCTV10科教,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8
+CCTV11戏曲,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8
+CCTV12社会与法,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8
+CCTV13新闻,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8
+CCTV14少儿,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8
+CCTV15音乐,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8
+CCTV16奥林匹克,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8
+CCTV17农业农村,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8
+CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
+CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
+CCTV3综艺,http://8.138.7.223/tv/migu.php?id=cctv3$咪咕直播
+CCTV4中文国际,http://8.138.7.223/tv/migu.php?id=cctv4$咪咕直播
+CCTV4美洲,http://8.138.7.223/tv/migu.php?id=cctv4a$咪咕直播
+CCTV4欧洲,http://8.138.7.223/tv/migu.php?id=cctv4o$咪咕直播
+CCTV5体育,http://8.138.7.223/tv/migu.php?id=cctv5$咪咕直播
+CCTV5+体育赛事,http://8.138.7.223/tv/migu.php?id=cctv5p$咪咕直播
+CCTV6电影,http://8.138.7.223/tv/migu.php?id=cctv6$咪咕直播
+CCTV7国防军事,http://8.138.7.223/tv/migu.php?id=cctv7$咪咕直播
+CCTV8电视剧,http://8.138.7.223/tv/migu.php?id=cctv8$咪咕直播
+CCTV9纪录,http://8.138.7.223/tv/migu.php?id=cctv9$咪咕直播
+CCTV10科教,http://8.138.7.223/tv/migu.php?id=cctv10$咪咕直播
+CCTV11戏曲,http://8.138.7.223/tv/migu.php?id=cctv11$咪咕直播
+CCTV12社会与法,http://8.138.7.223/tv/migu.php?id=cctv12$咪咕直播
+CCTV13新闻,http://8.138.7.223/tv/migu.php?id=cctv13$咪咕直播
+CCTV14少儿,http://8.138.7.223/tv/migu.php?id=cctv14$咪咕直播
+CCTV15音乐,http://8.138.7.223/tv/migu.php?id=cctv15$咪咕直播
+CCTV17农业农村,http://8.138.7.223/tv/migu.php?id=cctv17$咪咕直播
+CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$移动 | 回看
+CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
+CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$移动 | 回看
+CCTV2财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$移动 | 回看
+CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$移动 | 回看
+CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$移动 | 回看
+CCTV4中文国际,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$移动 | 回看
+CCTV4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$移动 | 回看
+CCTV5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$移动 | 回看
+CCTV5体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8$移动 | 回看
+CCTV5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$移动 | 回看
+CCTV6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8$移动 | 回看
+CCTV7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$移动 | 回看
+CCTV8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$移动 | 回看
+CCTV9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$移动 | 回看
+CCTV10科教,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8$移动 | 回看
+CCTV10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8$移动 | 回看
+CCTV11戏曲,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$移动 | 回看
+CCTV11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8$移动 | 回看
+CCTV12社会与法,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8$移动 | 回看
+CCTV12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$移动 | 回看
+CCTV13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$移动 | 回看
+CCTV13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$移动 | 回看
+CCTV13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8$移动 | 回看
+CCTV14少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$移动 | 回看
+CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8$移动 | 回看
+CCTV15音乐,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$移动 | 回看
+CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 | 回看
+CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$移动 | 回看
+CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$移动 | 回看
+CCTV1综合,http://183.207.248.71/PLTV/3/224/3221228213/1.m3u8$南京移动
+CCTV2财经,http://183.207.248.71/PLTV/3/224/3221228300/1.m3u8$南京移动
+CCTV3综艺,http://183.207.248.71/PLTV/3/224/3221228392/1.m3u8$南京移动
+CCTV4中文国际,http://183.207.248.71/PLTV/3/224/3221227658/1.m3u8$南京移动
+CCTV5体育,http://183.207.248.71/PLTV/3/224/3221228395/1.m3u8$南京移动
+CCTV5+体育赛事,http://183.207.248.71/PLTV/3/224/3221228277/1.m3u8$南京移动
+CCTV6电影,http://183.207.248.71/PLTV/3/224/3221228280/1.m3u8$南京移动
+CCTV7国防军事,http://183.207.248.71/PLTV/3/224/3221227314/1.m3u8$南京移动
+CCTV8电视剧,http://183.207.248.71/PLTV/3/224/3221228398/1.m3u8$南京移动
+CCTV9纪录,http://183.207.248.71/PLTV/3/224/3221227659/1.m3u8$南京移动
+CCTV10科教,http://183.207.248.71/PLTV/3/224/3221227620/1.m3u8$南京移动
+CCTV11戏曲,http://183.207.248.71/PLTV/3/224/3221227720/1.m3u8$南京移动
+CCTV12社会与法,http://183.207.248.71/PLTV/3/224/3221227655/1.m3u8$南京移动
+CCTV13新闻,http://183.207.248.71/PLTV/3/224/3221228324/1.m3u8$南京移动
+CCTV14少儿,http://183.207.248.71/PLTV/3/224/3221227693/1.m3u8$南京移动
+CCTV15音乐,http://183.207.248.71/PLTV/3/224/3221227723/1.m3u8$南京移动
+CCTV16奥林匹克,http://183.207.248.71/PLTV/3/224/3221228112/1.m3u8$南京移动
+CCTV17农业农村,http://183.207.248.71/PLTV/3/224/3221227578/1.m3u8$南京移动
+CCTV1综合,http://tvbox6.com/tv/bfgd.php?id=488$北方广电
+CCTV2财经,http://tvbox6.com/tv/bfgd.php?id=061$北方广电
+CCTV3综艺,http://tvbox6.com/tv/bfgd.php?id=062$北方广电
+CCTV4中文国际,http://tvbox6.com/tv/bfgd.php?id=063$北方广电
+CCTV5体育,http://tvbox6.com/tv/bfgd.php?id=064$北方广电
+CCTV5+体育赛事,http://tvbox6.com/tv/bfgd.php?id=246$北方广电
+CCTV6电影,http://tvbox6.com/tv/bfgd.php?id=065$北方广电
+CCTV7国防军事,http://tvbox6.com/tv/bfgd.php?id=127$北方广电
+CCTV8电视剧,http://tvbox6.com/tv/bfgd.php?id=066$北方广电
+CCTV9纪录,http://tvbox6.com/tv/bfgd.php?id=128$北方广电
+CCTV10科教,http://tvbox6.com/tv/bfgd.php?id=129$北方广电
+CCTV11戏曲,http://tvbox6.com/tv/bfgd.php?id=130$北方广电
+CCTV12社会与法,http://tvbox6.com/tv/bfgd.php?id=131$北方广电
+CCTV13新闻,http://tvbox6.com/tv/bfgd.php?id=067$北方广电
+CCTV14少儿,http://tvbox6.com/tv/bfgd.php?id=132$北方广电
+CCTV15音乐,http://tvbox6.com/tv/bfgd.php?id=133$北方广电
+CCTV17农业农村,http://tvbox6.com/tv/bfgd.php?id=204$北方广电
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=1$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=2$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=3$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=4$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=5$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=6$mgitv
+CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=7$mgitv
+CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=8$mgitv
+CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=9$mgitv
+CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=10$mgitv
+CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=11$mgitv
+CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=12$mgitv
+CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=13$mgitv
+CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=14$mgitv
+CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=15$mgitv
+CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=16$mgitv
+CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=17$mgitv
+CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=18$mgitv
+CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=19$mgitv
+CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=20$mgitv
+CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=21$mgitv
+CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=22$mgitv
+CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=23$mgitv
+CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=24$mgitv
+CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=25$mgitv
+CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=26$mgitv
+CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=27$mgitv
+CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=28$mgitv
+CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=29$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=30$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=31$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=32$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=33$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=34$mgitv
+CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=35$mgitv
+CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=36$mgitv
+CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=37$mgitv
+CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=38$mgitv
+CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=39$mgitv
+CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=40$mgitv
+CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=41$mgitv
+CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=42$mgitv
+CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=43$mgitv
+CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=44$mgitv
+CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=45$mgitv
+CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=46$mgitv
+CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=47$mgitv
+CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=48$mgitv
+CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=49$mgitv
+CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=50$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=51$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=52$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=53$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=54$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=55$mgitv
+CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=56$mgitv
+CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=57$mgitv
+CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=58$mgitv
+CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=59$mgitv
+CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=60$mgitv
+CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=61$mgitv
+CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=62$mgitv
+CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=63$mgitv
+CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=64$mgitv
+CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=65$mgitv
+CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=66$mgitv
+CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=67$mgitv
+CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=68$mgitv
+CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=69$mgitv
+CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=70$mgitv
+CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=71$mgitv
+CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=72$mgitv
+CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=73$mgitv
+CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=74$mgitv
+CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=75$mgitv
+CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=76$mgitv
+CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=77$mgitv
+CCTV16奥林匹克,http://8.138.7.223/tv/mgitv.php?id=78$mgitv
+CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=79$mgitv
+CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=80$mgitv
+CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=81$mgitv
+CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=82$mgitv
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$移动 | 回看
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$移动 | 回看
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$移动 | 回看
+CETV1,http://8.138.7.223/tv/cetv1.m3u8$央视频
+CETV1,http://8.138.7.223/tv/sdu.php?id=51$山东大学
+CETV3,http://8.138.7.223/tv/sdu.php?id=52$山东大学
+CETV4,http://8.138.7.223/tv/sdu.php?id=53$山东大学
+CETV1,http://8.138.7.223/tv/zb/bjcucc.php?id=27$北京联通组播
+CETV2,http://8.138.7.223/tv/zb/bjcucc.php?id=28$北京联通组播
+CETV3,http://8.138.7.223/tv/zb/bjcucc.php?id=29$北京联通组播
+CETV4,http://8.138.7.223/tv/zb/bjcucc.php?id=30$北京联通组播
+CETV早期教育,#EXTINF:-1 tvg-id=CETV1 tvg-name=CETV1 tvg-logo=https://live.fanmingming.com/tv/CETV1.png group-title=🐼中央电视,CETV1
+CETV2,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
+CETV4,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&livemode=1&stbId=10&Contentid=5000000011000031126
+CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+🐼直播中国,#genre#
+中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+中央电视塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
 🐼全国卫视,#genre#
 北京卫视,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8
 东方卫视,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8
