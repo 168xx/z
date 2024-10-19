@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-20 02:38",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-20 05:26",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
@@ -1196,103 +1196,103 @@ https://vip.taoiptv.cn/source/itv.php?id=NewTV超级电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="NewTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影.png" group-title="NewTV频道",NewTV超级电影
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV超级电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTV超级体育.png" group-title="NewTV频道",NewTV超级体育
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTV超级体育.png" group-title="NewTV频道",NewTV超级体育
 https://vip.taoiptv.cn/source/itv.php?id=NewTV超级体育.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTV超级体育.png" group-title="NewTV频道",NewTV超级体育
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV超级体育.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
 https://vip.taoiptv.cn/source/itv.php?id=NewTV超级综艺.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV超级综艺.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000018/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
 https://vip.taoiptv.cn/source/itv.php?id=NewTV潮妈辣婆.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV潮妈辣婆.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北热剧
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北热剧
 https://vip.taoiptv.cn/source/itv.php?id=NewTV东北热剧.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北热剧
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV东北热剧.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="NewTV频道",NewTV动作电影
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="NewTV频道",NewTV动作电影
 https://vip.taoiptv.cn/source/itv.php?id=NewTV动作电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="NewTV频道",NewTV动作电影
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV动作电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
 https://vip.taoiptv.cn/source/itv.php?id=NewTV古装剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV古装剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
 https://vip.taoiptv.cn/source/itv.php?id=NewTV欢乐剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV欢乐剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
 https://vip.taoiptv.cn/source/itv.php?id=NewTV家庭剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV家庭剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
 https://vip.taoiptv.cn/source/itv.php?id=NewTV金牌综艺.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV金牌综艺.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
 https://vip.taoiptv.cn/source/itv.php?id=NewTV惊悚悬疑.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV惊悚悬疑.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
 https://vip.taoiptv.cn/source/itv.php?id=NewTV军旅剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV军旅剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTV军事评论.png" group-title="NewTV频道",NewTV军事评论
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000022/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTV军事评论.png" group-title="NewTV频道",NewTV军事评论
 https://vip.taoiptv.cn/source/itv.php?id=NewTV军事评论.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTV军事评论.png" group-title="NewTV频道",NewTV军事评论
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV军事评论.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://live.fanmingming.com/tv/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://live.fanmingming.com/tv/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
 https://vip.taoiptv.cn/source/itv.php?id=NewTV魅力潇湘.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://live.fanmingming.com/tv/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV魅力潇湘.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTV明星大片.png" group-title="NewTV频道",NewTV明星大片
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTV明星大片.png" group-title="NewTV频道",NewTV明星大片
 https://vip.taoiptv.cn/source/itv.php?id=NewTV明星大片.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTV明星大片.png" group-title="NewTV频道",NewTV明星大片
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV明星大片.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTV农业致富.png" group-title="NewTV频道",NewTV农业致富
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000003/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTV农业致富.png" group-title="NewTV频道",NewTV农业致富
 https://vip.taoiptv.cn/source/itv.php?id=NewTV农业致富.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTV农业致富.png" group-title="NewTV频道",NewTV农业致富
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV农业致富.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV武博世界" tvg-name="NewTV武博世界" tvg-logo="https://live.fanmingming.com/tv/NewTV武博世界.png" group-title="NewTV频道",NewTV武博世界
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV武博世界" tvg-name="NewTV武博世界" tvg-logo="https://live.fanmingming.com/tv/NewTV武博世界.png" group-title="NewTV频道",NewTV武博世界
 https://vip.taoiptv.cn/source/itv.php?id=NewTV武博世界.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV武博世界" tvg-name="NewTV武博世界" tvg-logo="https://live.fanmingming.com/tv/NewTV武博世界.png" group-title="NewTV频道",NewTV武博世界
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV武博世界.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
@@ -1300,19 +1300,19 @@ https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-xwwl.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
 https://vip.taoiptv.cn/source/itv.php?id=NewTV怡伴健康.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV怡伴健康.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
 https://vip.taoiptv.cn/source/itv.php?id=NewTV中国功夫.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV中国功夫.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
@@ -1320,19 +1320,19 @@ https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-Supermovie.m3u8&sign=06
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
 https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓动画.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV黑莓动画.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-name="NewTV哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000032327/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-name="NewTV哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
 https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵电竞.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-name="NewTV哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV哒啵电竞.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-name="NewTV哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-name="NewTV哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
 https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵赛事.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-name="NewTV哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/NewTV哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
@@ -1624,6 +1624,8 @@ http://cfss.cc/cdn/hy/11352903.flv
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=06zcwd
@@ -1649,6 +1651,8 @@ http://beijinglive.online.domybox.com:91/live/BTVXWhd-8M/live.m3u8$鹏博士
 http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海ICS外语.png" group-title="地方频道",上海ICS外语
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海ICS外语.png" group-title="地方频道",上海ICS外语
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海ICS外语.png" group-title="地方频道",上海ICS外语
 https://vip.taoiptv.cn/source/itv.php?id=上海ICS外语.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://live.fanmingming.com/tv/上海ICS外语.png" group-title="地方频道",上海ICS外语
@@ -1693,6 +1697,8 @@ http://114.55.117.163:8081/iptv/itv.php?id=上海哈哈炫动.m3u8&sign=06zcwd
 http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
 https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
