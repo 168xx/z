@@ -5,8 +5,8 @@
 拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 如已付费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2024-10-19,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行334天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+更新2024-10-20,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+已运行335天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
 翡翠台,https://test.ttvb.eu.org/stream/tvb/null/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 无线新闻台,https://test.ttvb.eu.org/stream/tvb/null-1/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
@@ -589,6 +589,55 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 
+🐼云南ID34,#genre#
+
+云南卫视,http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
+云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
+云南生活,http://ynxsj.7766.org:9901/tsfile/live/1001_1.m3u8
+云南娱乐,,http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
+云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
+云南康旅,http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
+云南少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
+昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
+昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
+昆明科教,http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
+昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8
+
+丽江新闻综合频道,https://play.live.lijiangtv.com/live/tvzh_720p.m3u8
+丽江公共频道,https://play.live.lijiangtv.com/live/tvgg_720p.m3u8
+
+
+云南|QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
+云南|保山三套,http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-
+云南|峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8
+云南|福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+云南|广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+云南|江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8
+云南|金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8
+云南|梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8
+云南|陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+云南|麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+云南|麻栗坡台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+云南|马关电视台,http://live.ynurl.com/video/s10046-001/index.m3u8
+云南|芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+云南|蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
+云南|怒江新闻,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
+云南|普洱公共,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel27/playlist.m3u8
+云南|普洱科教,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel28/playlist.m3u8
+云南|普洱新闻,http://file.pebtv.cn:8101/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
+云南|丘北新闻,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+云南|瑞丽频道,http://live.ynurl.com/video/s10021-rltv/index.m3u8
+云南|施甸综合,http://live.ynurl.com/video/s10048-SDTV/index.m3u8
+云南|文山电视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+云南|文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+云南|文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+云南|文山综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+云南|西双版纳1,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+云南|西双版纳2,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+云南|新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+云南|砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8
+云南|砚山频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+云南|镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
