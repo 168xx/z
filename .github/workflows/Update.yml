@@ -1,41 +1,55 @@
-name: 更新
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0/3 * * *'
-
-env:
-  TZ: Asia/Shanghai
-
-jobs:
-  Update:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-          token: ${{ secrets.LIVELIST }}
-
-    - name: GetTime
-      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
-
-    - name: 更新
-      run: |
-        # 频道
-        rm -f vv/kjv4.txt && wget http://tvbox6.icu/11.php?all=1 -O vv/kjv4.txt
-        rm -f vv/wkv4.txt && wget https://pan.beecld.com/f/1rjfK/BO.txt -O vv/wkv4.txt
-        rm -f vv/xxv4.txt && wget https://2912.kstore.space/520.txt -O vv/xxv4.txt
-
-        # 节目单
-        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-
-    - name: Clean
-      run: |
-          git config --local user.email "actions@126.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          # 即使没有文件改变，也会提交一个空的提交
-          git commit --allow-empty -m "Scheduled workflow run"
-          git pull --rebase
-          git push -f
+name: 更新  
+  
+on:  
+  workflow_dispatch:  
+  schedule:  
+    - cron: '0 0/3 * * *'  
+  
+env:  
+  TZ: Asia/Shanghai  
+  
+jobs:  
+  Update:  
+    runs-on: ubuntu-latest  
+    steps:  
+    - name: Checkout  
+      uses: actions/checkout@v4  
+      with:  
+          token: ${{ secrets.LIVELIST }}  
+  
+    - name: GetTime  
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV  
+  
+    - name: 更新  
+      run: |  
+        # 频道  
+        (  
+          rm -f vv/kjv4.txt && wget http://tvbox6.icu/11.php?all=1 -O vv/kjv4.txt || echo "Failed to download kjv4.txt"  
+        )  
+        (  
+          rm -f vv/wkv4.txt && wget https://pan.beecld.com/f/1rjfK/BO.txt -O vv/wkv4.txt || echo "Failed to download wkv4.txt"  
+        )  
+        (  
+          rm -f vv/xxv4.txt && wget https://2912.kstore.space/520.txt -O vv/xxv4.txt || echo "Failed to download xxv4.txt"  
+        )  
+  
+        # 节目单  
+        (  
+          rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml || echo "Failed to download EPG.xml"  
+        )  
+  
+    - name: Clean and Commit  
+      run: |  
+          git config --local user.email "actions@126.com"  
+          git config --local user.name "GitHub Action"  
+            
+          # 检查是否有文件被修改（由于可能下载失败没有新文件）  
+          if git diff-index --quiet HEAD --; then  
+            echo "No changes to commit"  
+          else  
+            git add .  
+            # 即使没有文件改变（实际上这里由于前面的下载尝试，至少会有echo的输出），也会提交一个包含错误信息的提交  
+            git commit -m "Scheduled workflow run with potential download failures: $(date +'%Y-%m-%d %H:%M:%S CST')"  
+            git pull --rebase  
+            git push -f  
+          fi
