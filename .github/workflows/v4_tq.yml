@@ -33,7 +33,7 @@ jobs:
         # 酷九源
         rm -f v4/KJ.m3u && touch v4/KJ.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV.m3u && sed -i -n '/仅供学习使用/,+1p' CNTV.m3u
-        wget https://raw.githubusercontent.com/168xx/lm/refs/heads/main/lv/live.m3u -O CNTV0.m3u && sed -i -n '/咪咕频道/,+1p' CNTV0.m3u
+        wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/migu.m3u -O CNTV0.m3u && sed -i -n '/咪咕频道/,+1p' CNTV0.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV1.m3u && sed -i -n '/中央电视/,+1p' CNTV1.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV2.m3u && sed -i -n '/全国卫视/,+1p' CNTV2.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV3.m3u && sed -i -n '/数字电视/,+1p' CNTV3.m3u
