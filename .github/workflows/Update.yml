@@ -27,7 +27,7 @@ jobs:
           rm -f vv/kjv4.txt && wget http://tvbox6.icu/11.php?all=1 -O vv/kjv4.txt || echo "Failed to download kjv4.txt"  
         )  
         (  
-          rm -f vv/wkv4.txt && wget https://pan.beecld.com/f/1rjfK/BO.txt -O vv/wkv4.txt || echo "Failed to download wkv4.txt"  
+          rm -f vv/wkv4.txt && wget https://gongdian.top/tv/gongdian.txt -O vv/wkv4.txt || echo "Failed to download wkv4.txt"  
         )  
         (  
           rm -f vv/xxv4.txt && wget https://2912.kstore.space/520.txt -O vv/xxv4.txt || echo "Failed to download xxv4.txt"  
