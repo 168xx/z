@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-20 11:02",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-20 14:41",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
@@ -1728,6 +1728,8 @@ http://114.55.117.163:8081/iptv/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png" group-title="地方频道",湖南金鹰纪实
 http://beijinglive.online.domybox.com:91/live/JYJShd-8M/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="地方频道",湖南金鹰卡通
+https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
+#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="地方频道",湖南金鹰卡通
 http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
@@ -1737,8 +1739,6 @@ https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&
 https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
 http://114.55.117.163:8081/iptv/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png" group-title="地方频道",湖南茶频道
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png" group-title="地方频道",湖南茶频道
