@@ -589,6 +589,25 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 
+🐼甘肃地区,#genre#
+
+甘肃卫视,https://hlss.gstv.com.cn/49048r/y3nga4.flv
+经济频道,https://hlss.gstv.com.cn/49048r/9kzvr5.flv
+文化影视,https://hlss.gstv.com.cn/49048r/068vw9.flv
+公共应急,https://hlss.gstv.com.cn/49048r/2v86i8.flv
+都市频道,https://hlss.gstv.com.cn/49048r/4o7e76.flv
+少儿频道,https://hlss.gstv.com.cn/49048r/oj57of.flv
+移动电视,https://hlss.gstv.com.cn/49048r/y72q36.flv
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+经济频道,rtmp://livein.gstv.com.cn/49048r/9kzvr5.flv
+文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9.flv
+公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
+少儿频道,rtmp://livein.gstv.com.cn/49048r/4o7e76.flv
+都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of.flv
+移动电视,rtmp://livein.gstv.com.cn/49048r/y72q36.flv
+
+白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
+白银综合,http://live.bygd.cn/byzh/sd/live.m3u8
 🐼数字电视,#genre#
 
 纪实人文,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$移动 | 回看
@@ -3271,16 +3290,16 @@ IPTV少儿动画,http://tvbox6.cn/tv/zb/bjcucc.php?id=44$北京联通组播
 辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/1.m3u8$海南移动IPV6
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$黑龙江移动
 
-辽宁高清,http://8.138.7.223/tv/zb/lncucc.php?id=16
-辽宁经济,http://8.138.7.223/tv/zb/lncucc.php?id=59
-辽宁公共,http://8.138.7.223/tv/zb/lncucc.php?id=60
-辽宁都市,http://8.138.7.223/tv/zb/lncucc.php?id=61
-辽宁影视剧,http://8.138.7.223/tv/zb/lncucc.php?id=62
-辽宁教育青少,http://8.138.7.223/tv/zb/lncucc.php?id=63
-辽宁生活,http://8.138.7.223/tv/zb/lncucc.php?id=64
-辽宁体育,http://8.138.7.223/tv/zb/lncucc.php?id=65
-辽宁北方,http://8.138.7.223/tv/zb/lncucc.php?id=66
-辽宁宜佳购物,http://8.138.7.223/tv/zb/lncucc.php?id=67
+辽宁高清,http://8.138.7.223/tv/zb/lncucc.php?id=16$葫芦岛联通
+辽宁经济,http://8.138.7.223/tv/zb/lncucc.php?id=59$葫芦岛联通
+辽宁公共,http://8.138.7.223/tv/zb/lncucc.php?id=60$葫芦岛联通
+辽宁都市,http://8.138.7.223/tv/zb/lncucc.php?id=61$葫芦岛联通
+辽宁影视剧,http://8.138.7.223/tv/zb/lncucc.php?id=62$葫芦岛联通
+辽宁教育青少,http://8.138.7.223/tv/zb/lncucc.php?id=63$葫芦岛联通
+辽宁生活,http://8.138.7.223/tv/zb/lncucc.php?id=64$葫芦岛联通
+辽宁体育,http://8.138.7.223/tv/zb/lncucc.php?id=65$葫芦岛联通
+辽宁北方,http://8.138.7.223/tv/zb/lncucc.php?id=66$葫芦岛联通
+辽宁宜佳购物,http://8.138.7.223/tv/zb/lncucc.php?id=67$葫芦岛联通
 
 
 辽宁卫视,http://b.tvbox6.icu/tv/bfgd.php?id=058$北方广电

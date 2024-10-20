@@ -977,12 +977,12 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 湖南金鹰纪实,https://vip.taoiptv.cn/source/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 湖南金鹰纪实,http://114.55.117.163:8081/iptv/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 湖南金鹰纪实,http://beijinglive.online.domybox.com:91/live/JYJShd-8M/live.m3u8$鹏博士
+湖南金鹰卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
 湖南金鹰卡通,http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8$鹏博士
 湖南快乐垂钓,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 湖南快乐垂钓,https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&sign=06zcwd
 湖南快乐垂钓,https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
 湖南快乐垂钓,http://114.55.117.163:8081/iptv/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
-金鹰卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
 湖南茶频道,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 湖南茶频道,https://vip.taoiptv.cn/source/itv.php?id=湖南茶频道.m3u8&sign=06zcwd
 湖南茶频道,http://114.55.117.163:8081/iptv/itv.php?id=湖南茶频道.m3u8&sign=06zcwd
