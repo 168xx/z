@@ -1,18 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-20 17:28",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-20 21:01",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV1hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-https://vip.taoiptv.cn/source/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=06zcwd$4K 50FPS
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=06zcwd$4K
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV1hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV150FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
@@ -26,13 +18,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
@@ -46,15 +32,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV3hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV3hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-https://vip.taoiptv.cn/source/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
 https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=06zcwd$4K
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV3hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV3HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
@@ -68,15 +46,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV4hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV4hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-https://vip.taoiptv.cn/source/gzyx.php?id=0ad5b86534e39cb9a77b00a76ac9fe12.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
 https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV4hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV450FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
@@ -95,12 +65,6 @@ https://vip.taoiptv.cn/iptv2.php?id=100125&num=2&sign=06zcwd
 https://vip.taoiptv.cn/iptv3.php?id=100125&num=3&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
 http://ygbh666.cn/aikmigu.php?id=cctv4o$咪咕源
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-https://jump.taoiptv.cn/iptv1.php?id=100125&num=1&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-https://jump.taoiptv.cn/iptv2.php?id=100125&num=2&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-https://jump.taoiptv.cn/iptv3.php?id=100125&num=3&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
 https://vip.taoiptv.cn/iptv1.php?id=100130&num=1&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
@@ -109,24 +73,10 @@ https://vip.taoiptv.cn/iptv2.php?id=100130&num=2&sign=06zcwd
 https://vip.taoiptv.cn/iptv3.php?id=100130&num=3&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
 http://ygbh666.cn/aikmigu.php?id=cctv4a$咪咕源
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-https://jump.taoiptv.cn/iptv1.php?id=100130&num=1&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-https://jump.taoiptv.cn/iptv2.php?id=100130&num=2&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-https://jump.taoiptv.cn/iptv3.php?id=100130&num=3&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV5hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV5hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-https://vip.taoiptv.cn/source/gzyx.php?id=4f8e268f178c3b0d2cf82c2997b0346b.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
 https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=06zcwd$4K
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV5hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV5HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
@@ -140,15 +90,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV5+hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV5%2Bhd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-https://vip.taoiptv.cn/source/gzyx.php?id=33cf15c8ece66fe3c41d2e4ec707ef59.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV5phd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV5pHEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+
@@ -166,15 +108,7 @@ https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV6hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV6hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-https://vip.taoiptv.cn/source/gzyx.php?id=f590aa425023d9a327fa1b69678f51e7.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
 https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-AVS-4K264.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV6hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV650FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
@@ -190,15 +124,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV7hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV7hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-https://vip.taoiptv.cn/source/gzyx.php?id=3fa4584c5de70fde94692563299e998c.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
 https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-7-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV7hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV750FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV7
@@ -212,15 +138,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV8hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV8hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-https://vip.taoiptv.cn/source/gzyx.php?id=b755332610506fe4746830b72438ae86.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
 https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-AVS-4K264.m3u8&sign=06zcwd$4K
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV8hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV8HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
@@ -232,15 +150,7 @@ http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv88m
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV8
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3$易视腾
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV9hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-https://vip.taoiptv.cn/source/gzyx.php?id=0f8ce350b1250e8e50f4d1b10042b1c5.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
 https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-9.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV9hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV950FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
@@ -254,15 +164,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV10hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV10hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-https://vip.taoiptv.cn/source/gzyx.php?id=a1a56acc29d03965227b40ff665e2377.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-10-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV10hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1050FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV10
@@ -276,15 +178,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV11hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV11hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-https://vip.taoiptv.cn/source/gzyx.php?id=f73d2482318583c3ba7513b4e21d4a48.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-11-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV11hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1150FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV11
@@ -298,17 +192,9 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV12hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV12hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1250FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV12hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-https://vip.taoiptv.cn/source/gzyx.php?id=113eb2f0bd0ca6cf1779140bd1bb525f.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv12.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
 http://ygbh666.cn/aikmigu.php?id=cctv12$咪咕源
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV12
@@ -320,13 +206,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV13-1500k/live.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-https://vip.taoiptv.cn/source/gzyx.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-13-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV13-1500k.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1350FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
@@ -340,15 +220,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV14hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV14hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-https://vip.taoiptv.cn/source/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv14.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV14hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1450FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV14
@@ -362,15 +234,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channe
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV15hd-8M/live.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV15hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-https://vip.taoiptv.cn/source/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 https://vip.taoiptv.cn/source/itv.php?id=CCTV1550FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-15.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
-http://114.55.117.163:8081/iptv/gitv.php?id=CCTV15hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV1550FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
@@ -382,11 +246,7 @@ http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv15h
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV15
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3$易视腾
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
-https://vip.taoiptv.cn/source/gzyx.php?id=d521eba18ca2907befce170828004cbe.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
 https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=06zcwd$4K HEVC
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-16-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV164KHEVC.m3u8&sign=06zcwd$4K HEVC
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
@@ -399,8 +259,6 @@ http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv16h
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$4K
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-17-HD.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://114.55.117.163:8081/iptv/itv.php?id=CCTV17HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
@@ -434,11 +292,7 @@ http://114.55.117.163:8081/iptv/itv.php?id=CGTN记录.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视",CGTN记录
 http://ygbh666.cn/aikmigu.php?id=cgtnjl$咪咕源
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
-https://vip.taoiptv.cn/source/gitv.php?id=CETV1hd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
 https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
-http://114.55.117.163:8081/iptv/gitv.php?id=CETV1hd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
 http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台1.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
@@ -462,41 +316,27 @@ http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视",CETV4
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3$易视腾
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="央视",CCTV兵器科技
-https://vip.taoiptv.cn/source/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="央视",CCTV兵器科技
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-bingqikeji.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="央视",CCTV兵器科技
 https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGQIKJ-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="央视",CCTV第一剧场
-https://vip.taoiptv.cn/source/gzyx.php?id=155774022270441e808f7fe34a461113.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="央视",CCTV第一剧场
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-diyijuchang.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="央视",CCTV风云剧场
-https://vip.taoiptv.cn/source/gzyx.php?id=28b3dfac03626525db867cfe5efa6c08.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="央视",CCTV风云剧场
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunjuchang.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="央视",CCTV风云剧场
 https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNJC-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="央视",CCTV风云音乐
-https://vip.taoiptv.cn/source/gzyx.php?id=55aa4e6799e5cf2e016d25ea298df515.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="央视",CCTV风云音乐
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunyinyue.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="央视",CCTV风云音乐
 https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNYY-CQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视",CCTV风云足球
-https://vip.taoiptv.cn/source/gzyx.php?id=9a4447cf2f6ad5e48a273929e3e12d79.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视",CCTV风云足球
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunzuqiu.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视",CCTV风云足球
 https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGSHANGZQ-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="央视",CCTV高尔夫网球
-https://vip.taoiptv.cn/source/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-gaoerfuwangqiu.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-GOLF-CQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="央视",CCTV怀旧剧场
-https://vip.taoiptv.cn/source/gzyx.php?id=7a2b1c83b212fa4e2a68ce0c1c25c9f0.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="央视",CCTV怀旧剧场
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-huaijiujuchang.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="央视",CCTV怀旧剧场
@@ -506,23 +346,15 @@ https://vip.taoiptv.cn/source/ysp.php?id=cctv-nvxingshishang.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="央视",CCTV女性时尚
 https://vip.taoiptv.cn/source/jsyd.php?id=G_NVXINGSS-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="央视",CCTV世界地理
-https://vip.taoiptv.cn/source/gzyx.php?id=6e407aeb2256f118cbc7500efb69ea37.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="央视",CCTV世界地理
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-shijiedili.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="央视",CCTV世界地理
 https://vip.taoiptv.cn/source/jsyd.php?id=G_SHIJIEDL-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="https://live.fanmingming.com/tv/CCTV卫生健康.png" group-title="央视",CCTV卫生健康
-https://vip.taoiptv.cn/source/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="https://live.fanmingming.com/tv/CCTV卫生健康.png" group-title="央视",CCTV卫生健康
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-weishengjiankang.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="央视",CCTV文化精品
-https://vip.taoiptv.cn/source/gzyx.php?id=df2c3d5ea40de75807e926c8764da0d0.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="央视",CCTV文化精品
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-wenhuajingpin.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="央视",CCTV文化精品
 https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-WENHUA-CQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="央视",CCTV央视台球
-https://vip.taoiptv.cn/source/gzyx.php?id=db5ba3a40c2d5867978cc2db30f662a9.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="央视",CCTV央视台球
 https://vip.taoiptv.cn/source/ysp.php?id=cctv-yangshitaiqiu.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="央视",CCTV央视台球
@@ -534,15 +366,7 @@ https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/AHWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://vip.taoiptv.cn/source/gitv.php?id=AHWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 https://vip.taoiptv.cn/source/itv.php?id=安徽卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_ANHUI-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=AHWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://114.55.117.163:8081/iptv/itv.php?id=安徽卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
@@ -554,15 +378,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/BJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://vip.taoiptv.cn/source/gitv.php?id=BJWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 https://vip.taoiptv.cn/source/itv.php?id=北京卫视HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_BEIJING-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=BJWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://114.55.117.163:8081/iptv/itv.php?id=北京卫视HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
@@ -574,23 +390,13 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGTUAN.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/CQWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://vip.taoiptv.cn/source/gitv.php?id=CQWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 https://vip.taoiptv.cn/source/itv.php?id=重庆卫视HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-chongqingstv.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=CQWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://114.55.117.163:8081/iptv/itv.php?id=重庆卫视HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
@@ -602,13 +408,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/DFWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://vip.taoiptv.cn/source/gitv.php?id=DFWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_DONGFANG-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=DFWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://114.55.117.163:8081/iptv/itv.php?id=上海东方卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
@@ -622,13 +422,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/DNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://vip.taoiptv.cn/source/gitv.php?id=DNWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 https://vip.taoiptv.cn/source/itv.php?id=东南卫视HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=DNWS.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=DNWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 http://114.55.117.163:8081/iptv/itv.php?id=东南卫视HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
@@ -640,8 +434,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
 https://vip.taoiptv.cn/source/itv.php?id=甘肃卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_GANSU.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://114.55.117.163:8081/iptv/itv.php?id=甘肃卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8$鹏博士
@@ -652,15 +444,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/GDWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://vip.taoiptv.cn/source/gitv.php?id=GDWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=02f45209e8dab92899920d74157fe58b.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 https://vip.taoiptv.cn/source/itv.php?id=广东卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_GUANGDONG-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=GDWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://114.55.117.163:8081/iptv/itv.php?id=广东卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
@@ -672,11 +456,7 @@ http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gdwshd8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$易视腾
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
 https://vip.taoiptv.cn/source/itv.php?id=广西卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=GXWS.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
 http://114.55.117.163:8081/iptv/itv.php?id=广西卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
@@ -688,15 +468,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/GZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://vip.taoiptv.cn/source/gitv.php?id=GZWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=9245676006cb79b03798b89fa05576b1.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 https://vip.taoiptv.cn/source/itv.php?id=贵州卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_GUIZHOU.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=GZWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://114.55.117.163:8081/iptv/itv.php?id=贵州卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
@@ -708,8 +480,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 https://vip.taoiptv.cn/source/itv.php?id=海南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=LYWS.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://114.55.117.163:8081/iptv/itv.php?id=海南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8$鹏博士
@@ -720,13 +490,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/HeBWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://vip.taoiptv.cn/source/gitv.php?id=HeBWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
 https://vip.taoiptv.cn/source/itv.php?id=河北卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_HEBEI.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=HeBWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
 http://114.55.117.163:8081/iptv/itv.php?id=河北卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
@@ -738,8 +502,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 https://vip.taoiptv.cn/source/itv.php?id=河南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=HENAN.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://114.55.117.163:8081/iptv/itv.php?id=河南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
@@ -750,15 +512,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/HLJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://vip.taoiptv.cn/source/gitv.php?id=HLJWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_HEILONGJIANG-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=HLJWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://114.55.117.163:8081/iptv/itv.php?id=黑龙江卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
@@ -770,15 +524,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/HuBWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://vip.taoiptv.cn/source/gitv.php?id=HuBWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 https://vip.taoiptv.cn/source/itv.php?id=湖北卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_HUBEI-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=HuBWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
 http://114.55.117.163:8081/iptv/itv.php?id=湖北卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
@@ -792,15 +538,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/HuNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://vip.taoiptv.cn/source/gitv.php?id=HuNWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=HuNWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://114.55.117.163:8081/iptv/itv.php?id=湖南卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -812,13 +550,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/JLWS-1500k/live.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=27975dec3d5bb0158291c75402d4a691.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 https://vip.taoiptv.cn/source/itv.php?id=吉林卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_JILIN.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=JLWS-1500k.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://114.55.117.163:8081/iptv/itv.php?id=吉林卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
@@ -832,15 +564,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/JSWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://vip.taoiptv.cn/source/gitv.php?id=JSWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 https://vip.taoiptv.cn/source/itv.php?id=江苏卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_JIANGSU-HD-265-5M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=JSWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://114.55.117.163:8081/iptv/itv.php?id=江苏卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
@@ -854,13 +578,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/JXWS-1500k/live.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
 https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=JXWS-1500k.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
 http://114.55.117.163:8081/iptv/itv.php?id=江西卫视HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
@@ -876,15 +594,7 @@ http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/LNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://vip.taoiptv.cn/source/gitv.php?id=LNWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
 https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视HEVC.m3u8&sign=06zcwd$HEVC
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_LIAONING-HD-265-5M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=LNWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://114.55.117.163:8081/iptv/itv.php?id=辽宁卫视HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -896,8 +606,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_NEIMENGGU.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
@@ -907,8 +615,6 @@ https://vip.taoiptv.cn/source/jsyd.php?id=G_NINGXIA.m3u8&sign=06zcwd
 http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
 https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
 http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
@@ -920,15 +626,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/SDWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://vip.taoiptv.cn/source/gitv.php?id=SDWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=1db177c7492ad2769a93e3746f25f701.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 https://vip.taoiptv.cn/source/itv.php?id=山东卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANDONG-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=SDWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://114.55.117.163:8081/iptv/itv.php?id=山东卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
@@ -948,13 +646,7 @@ http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/SZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://vip.taoiptv.cn/source/gitv.php?id=SZWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://vip.taoiptv.cn/source/itv.php?id=深圳卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_SHENZHEN-HQ.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=SZWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://114.55.117.163:8081/iptv/itv.php?id=深圳卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
@@ -964,11 +656,7 @@ http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/szwshd8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3$易视腾
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
 https://vip.taoiptv.cn/source/itv.php?id=四川卫视.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=SCWS.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
 http://114.55.117.163:8081/iptv/itv.php?id=四川卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
@@ -980,15 +668,7 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/TJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://vip.taoiptv.cn/source/gitv.php?id=TJWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 https://vip.taoiptv.cn/source/itv.php?id=天津卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_TIANJIN-HD-265-5M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=TJWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
 http://114.55.117.163:8081/iptv/itv.php?id=天津卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
@@ -1012,8 +692,6 @@ http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
 https://vip.taoiptv.cn/source/itv.php?id=云南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_YUNNAN.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
 http://114.55.117.163:8081/iptv/itv.php?id=云南卫视.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
 http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8$鹏博士
@@ -1026,15 +704,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/ZJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://vip.taoiptv.cn/source/gitv.php?id=ZJWShd-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://vip.taoiptv.cn/source/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 https://vip.taoiptv.cn/source/itv.php?id=浙江卫视50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHEJIANG-HD-265-8M.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=ZJWShd-8M.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://114.55.117.163:8081/iptv/itv.php?id=浙江卫视50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
@@ -1051,8 +721,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8?sign=06zcwd
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhhongkong5s.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
@@ -1064,11 +732,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://122.224.232.218:8888/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhzixun5s.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?sign=06zcwd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
-https://vip.taoiptv.cn/source/gzyx.php?id=4ea97af53693ae02392251697dbb52fd.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
 http://146.56.153.245:20121/bysid/258
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
@@ -1076,11 +740,7 @@ http://122.224.232.218:8888/rtp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=06zcwd
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
-https://vip.taoiptv.cn/source/gzyx.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="面包台" tvg-name="面包台" tvg-logo="https://live.fanmingming.com/tv/面包台.png" group-title="港澳台",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://live.fanmingming.com/tv/点掌财经.png" group-title="港澳台",点掌财经
@@ -1296,8 +956,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/10000000010000
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-xwwl.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
@@ -1315,8 +973,6 @@ http://114.55.117.163:8081/iptv/itv.php?id=NewTV中国功夫.m3u8&sign=06zcwd
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-Supermovie.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
@@ -1340,23 +996,17 @@ http://114.55.117.163:8081/iptv/itv.php?id=NewTV哒啵赛事.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
-https://vip.taoiptv.cn/source/gzyx.php?id=57e09be91d8b2f208e407b5abfa23b05.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
 https://vip.taoiptv.cn/source/itv.php?id=SiTV动漫秀场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
 http://114.55.117.163:8081/iptv/itv.php?id=SiTV动漫秀场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="SiTV频道",SiTV都市剧场
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="SiTV频道",SiTV都市剧场
-https://vip.taoiptv.cn/source/gzyx.php?id=45cd7a20f72e4333e9aaaa95884fd0b8.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="SiTV频道",SiTV都市剧场
 https://vip.taoiptv.cn/source/itv.php?id=SiTV都市剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="SiTV频道",SiTV都市剧场
 http://114.55.117.163:8081/iptv/itv.php?id=SiTV都市剧场.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV法治天地" tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="SiTV频道",SiTV法治天地
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="SiTV法治天地" tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="SiTV频道",SiTV法治天地
-https://vip.taoiptv.cn/source/gzyx.php?id=581721a464fa6469a63c0781da576703.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV法治天地" tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="SiTV频道",SiTV法治天地
 https://vip.taoiptv.cn/source/itv.php?id=SiTV法治天地.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV法治天地" tvg-name="SiTV法治天地" tvg-logo="https://live.fanmingming.com/tv/SiTV法治天地.png" group-title="SiTV频道",SiTV法治天地
@@ -1370,15 +1020,11 @@ http://114.55.117.163:8081/iptv/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=06zcwd$
 #EXTINF:-1 tvg-id="SiTV金色学堂" tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="SiTV频道",SiTV金色学堂
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SiTV金色学堂" tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="SiTV频道",SiTV金色学堂
-https://vip.taoiptv.cn/source/gzyx.php?id=9f6c9fc0d4db981b4a6da770e3e2a163.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="SiTV金色学堂" tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="SiTV频道",SiTV金色学堂
 https://vip.taoiptv.cn/source/itv.php?id=SiTV金色学堂.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV金色学堂" tvg-name="SiTV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="SiTV频道",SiTV金色学堂
 http://114.55.117.163:8081/iptv/itv.php?id=SiTV金色学堂.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV劲爆体育" tvg-name="SiTV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SiTV劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="SiTV劲爆体育" tvg-name="SiTV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SiTV劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
-https://vip.taoiptv.cn/source/gzyx.php?id=5502a25d87fb30c220433805c239d7df.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV劲爆体育" tvg-name="SiTV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SiTV劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
 https://vip.taoiptv.cn/source/itv.php?id=SiTV劲爆体育.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV劲爆体育" tvg-name="SiTV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SiTV劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
@@ -1407,8 +1053,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/50000000020000
 https://vip.taoiptv.cn/source/itv.php?id=SiTV生活时尚.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV生活时尚" tvg-name="SiTV生活时尚" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚.png" group-title="SiTV频道",SiTV生活时尚
 http://114.55.117.163:8081/iptv/itv.php?id=SiTV生活时尚.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="SiTV游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="SiTV频道",SiTV游戏风云
-https://vip.taoiptv.cn/source/gzyx.php?id=2abb8a699d8073134830e425164d7f6d.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="SiTV频道",SiTV游戏风云
 https://vip.taoiptv.cn/source/itv.php?id=SiTV游戏风云.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="SiTV游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="SiTV频道",SiTV游戏风云
@@ -1628,15 +1272,11 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=06zcwd$HEVC
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
 http://beijinglive.online.domybox.com:91/live/BTVKJhd-8M/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="地方频道",北京卡酷少儿
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="地方频道",北京卡酷少儿
 https://vip.taoiptv.cn/source/itv.php?id=北京卡酷少儿.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="地方频道",北京卡酷少儿
-https://vip.taoiptv.cn/source/jsyd.php?id=G_KAKU.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方频道",北京文艺
 http://beijinglive.online.domybox.com:91/live/BTVWYhd-8M/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="地方频道",北京影视
@@ -1690,8 +1330,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/50000000110000
 #EXTINF:-1 tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动.png" group-title="地方频道",上海哈哈炫动
 https://vip.taoiptv.cn/source/itv.php?id=上海哈哈炫动.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动.png" group-title="地方频道",上海哈哈炫动
-https://vip.taoiptv.cn/source/jsyd.php?id=G_XUANDONG.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动.png" group-title="地方频道",上海哈哈炫动
 http://114.55.117.163:8081/iptv/itv.php?id=上海哈哈炫动.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="上海哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/上海哈哈炫动.png" group-title="地方频道",上海哈哈炫动
 http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8$鹏博士
@@ -1701,8 +1339,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/10000000050002
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
 https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文50FPS.m3u8&sign=06zcwd$50FPS
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
-https://vip.taoiptv.cn/source/jsyd.php?id=H265-5500k-1080P-shanghaijishi.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
 http://114.55.117.163:8081/iptv/itv.php?id=上海纪实人文50FPS.m3u8&sign=06zcwd$50FPS
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="地方频道",上海纪实人文
@@ -1728,13 +1364,9 @@ http://114.55.117.163:8081/iptv/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png" group-title="地方频道",湖南金鹰纪实
 http://beijinglive.online.domybox.com:91/live/JYJShd-8M/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="地方频道",湖南金鹰卡通
-https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="地方频道",湖南金鹰卡通
 http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8$鹏博士
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
-https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
 https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png" group-title="地方频道",湖南快乐垂钓
@@ -1754,8 +1386,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/10000000040000
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 https://vip.taoiptv.cn/source/itv.php?id=纯享4K.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-20M-2160P-chunxiang4k.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://114.55.117.163:8081/iptv/itv.php?id=纯享4K.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="咪咕4K1" tvg-name="咪咕4K1" tvg-logo="https://live.fanmingming.com/tv/咪咕4K1.png" group-title="4K频道",咪咕4K1
 https://vip.taoiptv.cn/source/itv.php?id=咪咕4K1.m3u8&sign=06zcwd
@@ -1765,8 +1395,6 @@ http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K1.m3u8&sign=06zcwd
 https://vip.taoiptv.cn/source/itv.php?id=咪咕4K2.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="咪咕4K2" tvg-name="咪咕4K2" tvg-logo="https://live.fanmingming.com/tv/咪咕4K2.png" group-title="4K频道",咪咕4K2
 http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K2.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="其他频道",睛彩青少
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-quanminrl.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="其他频道",睛彩青少
 https://vip.taoiptv.cn/source/itv.php?id=咪咕全民热练.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="其他频道",睛彩青少
@@ -1791,29 +1419,3 @@ http://114.55.117.163:8081/iptv/itv.php?id=求索科学.m3u8&sign=06zcwd
 https://vip.taoiptv.cn/source/itv.php?id=求索生活.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="其他频道",求索生活
 http://114.55.117.163:8081/iptv/itv.php?id=求索生活.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="其他频道",CHC家庭影院
-https://vip.taoiptv.cn/source/gzyx.php?id=548e8018101d7fa134d91615728a5a93.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="其他频道",CHC动作电影
-https://vip.taoiptv.cn/source/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="其他频道",重温经典
-https://vip.taoiptv.cn/source/gzyx.php?id=4c9fa17591dfd8dd736c80e87d6dc72b.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="影视剧场" tvg-name="影视剧场" tvg-logo="https://live.fanmingming.com/tv/影视剧场.png" group-title="其他频道",影视剧场
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-1.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="第一院线" tvg-name="第一院线" tvg-logo="https://live.fanmingming.com/tv/第一院线.png" group-title="其他频道",第一院线
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-2.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="高分电影" tvg-name="高分电影" tvg-logo="https://live.fanmingming.com/tv/高分电影.png" group-title="其他频道",高分电影
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-14.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="美食美味" tvg-name="美食美味" tvg-logo="https://live.fanmingming.com/tv/美食美味.png" group-title="其他频道",美食美味
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-17.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://live.fanmingming.com/tv/动物世界.png" group-title="其他频道",动物世界
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-19.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="奥特曼" tvg-name="奥特曼" tvg-logo="https://live.fanmingming.com/tv/奥特曼.png" group-title="其他频道",奥特曼
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-9.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="熊出没" tvg-name="熊出没" tvg-logo="https://live.fanmingming.com/tv/熊出没.png" group-title="其他频道",熊出没
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-10.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="汪汪队" tvg-name="汪汪队" tvg-logo="https://live.fanmingming.com/tv/汪汪队.png" group-title="其他频道",汪汪队
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-13.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="超级飞侠" tvg-name="超级飞侠" tvg-logo="https://live.fanmingming.com/tv/超级飞侠.png" group-title="其他频道",超级飞侠
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-11.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://live.fanmingming.com/tv/小猪佩奇.png" group-title="其他频道",小猪佩奇
-https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-12.m3u8&sign=06zcwd
