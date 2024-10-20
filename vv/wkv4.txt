@@ -1,10 +1,6 @@
 央视,#genre#
 CCTV1,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
-CCTV1,https://vip.taoiptv.cn/source/gitv.php?id=CCTV1hd-8M.m3u8&sign=06zcwd
-CCTV1,https://vip.taoiptv.cn/source/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df.m3u8&sign=06zcwd
 CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=06zcwd$4K 50FPS
-CCTV1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=06zcwd$4K
-CCTV1,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV1hd-8M.m3u8&sign=06zcwd
 CCTV1,http://114.55.117.163:8081/iptv/itv.php?id=CCTV150FPS.m3u8&sign=06zcwd$50FPS
 CCTV1,http://ygbh666.cn/aikmigu.php?id=cctv1$咪咕源
 CCTV1,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8$鹏博士
@@ -12,10 +8,7 @@ CCTV1,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3$易视腾
 
 CCTV2,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8
-CCTV2,https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=06zcwd
-CCTV2,https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=06zcwd
 CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$50FPS
-CCTV2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=06zcwd
 CCTV2,http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$50FPS
 CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2$咪咕源
 CCTV2,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$鹏博士
@@ -23,11 +16,7 @@ CCTV2,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV2,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$易视腾
 
 CCTV3,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV3hd-8M/live.m3u8
-CCTV3,https://vip.taoiptv.cn/source/gitv.php?id=CCTV3hd-8M.m3u8&sign=06zcwd
-CCTV3,https://vip.taoiptv.cn/source/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf.m3u8&sign=06zcwd
 CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=06zcwd$HEVC
-CCTV3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=06zcwd$4K
-CCTV3,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV3hd-8M.m3u8&sign=06zcwd
 CCTV3,http://114.55.117.163:8081/iptv/itv.php?id=CCTV3HEVC.m3u8&sign=06zcwd$HEVC
 CCTV3,http://ygbh666.cn/aikmigu.php?id=cctv3$咪咕源
 CCTV3,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8$鹏博士
@@ -35,11 +24,7 @@ CCTV3,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV3,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$易视腾
 
 CCTV4,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV4hd-8M/live.m3u8
-CCTV4,https://vip.taoiptv.cn/source/gitv.php?id=CCTV4hd-8M.m3u8&sign=06zcwd
-CCTV4,https://vip.taoiptv.cn/source/gzyx.php?id=0ad5b86534e39cb9a77b00a76ac9fe12.m3u8&sign=06zcwd
 CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=06zcwd$50FPS
-CCTV4,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4-HD-265-8M.m3u8&sign=06zcwd
-CCTV4,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV4hd-8M.m3u8&sign=06zcwd
 CCTV4,http://114.55.117.163:8081/iptv/itv.php?id=CCTV450FPS.m3u8&sign=06zcwd$50FPS
 CCTV4,http://ygbh666.cn/aikmigu.php?id=cctv4$咪咕源
 CCTV4,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8$鹏博士
@@ -50,24 +35,14 @@ CCTV4欧洲,https://vip.taoiptv.cn/iptv1.php?id=100125&num=1&sign=06zcwd
 CCTV4欧洲,https://vip.taoiptv.cn/iptv2.php?id=100125&num=2&sign=06zcwd
 CCTV4欧洲,https://vip.taoiptv.cn/iptv3.php?id=100125&num=3&sign=06zcwd
 CCTV4欧洲,http://ygbh666.cn/aikmigu.php?id=cctv4o$咪咕源
-CCTV4欧洲,https://jump.taoiptv.cn/iptv1.php?id=100125&num=1&sign=06zcwd
-CCTV4欧洲,https://jump.taoiptv.cn/iptv2.php?id=100125&num=2&sign=06zcwd
-CCTV4欧洲,https://jump.taoiptv.cn/iptv3.php?id=100125&num=3&sign=06zcwd
 
 CCTV4美洲,https://vip.taoiptv.cn/iptv1.php?id=100130&num=1&sign=06zcwd
 CCTV4美洲,https://vip.taoiptv.cn/iptv2.php?id=100130&num=2&sign=06zcwd
 CCTV4美洲,https://vip.taoiptv.cn/iptv3.php?id=100130&num=3&sign=06zcwd
 CCTV4美洲,http://ygbh666.cn/aikmigu.php?id=cctv4a$咪咕源
-CCTV4美洲,https://jump.taoiptv.cn/iptv1.php?id=100130&num=1&sign=06zcwd
-CCTV4美洲,https://jump.taoiptv.cn/iptv2.php?id=100130&num=2&sign=06zcwd
-CCTV4美洲,https://jump.taoiptv.cn/iptv3.php?id=100130&num=3&sign=06zcwd
 
 CCTV5,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV5hd-8M/live.m3u8
-CCTV5,https://vip.taoiptv.cn/source/gitv.php?id=CCTV5hd-8M.m3u8&sign=06zcwd
-CCTV5,https://vip.taoiptv.cn/source/gzyx.php?id=4f8e268f178c3b0d2cf82c2997b0346b.m3u8&sign=06zcwd
 CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=06zcwd$HEVC
-CCTV5,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=06zcwd$4K
-CCTV5,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV5hd-8M.m3u8&sign=06zcwd
 CCTV5,http://114.55.117.163:8081/iptv/itv.php?id=CCTV5HEVC.m3u8&sign=06zcwd$HEVC
 CCTV5,http://ygbh666.cn/aikmigu.php?id=cctv5$咪咕源
 CCTV5,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8$鹏博士
@@ -75,11 +50,7 @@ CCTV5,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$易视腾
 
 CCTV5+,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV5+hd-8M/live.m3u8
-CCTV5+,https://vip.taoiptv.cn/source/gitv.php?id=CCTV5%2Bhd-8M.m3u8&sign=06zcwd
-CCTV5+,https://vip.taoiptv.cn/source/gzyx.php?id=33cf15c8ece66fe3c41d2e4ec707ef59.m3u8&sign=06zcwd
 CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=06zcwd$HEVC
-CCTV5+,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M.m3u8&sign=06zcwd
-CCTV5+,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV5phd-8M.m3u8&sign=06zcwd
 CCTV5+,http://114.55.117.163:8081/iptv/itv.php?id=CCTV5pHEVC.m3u8&sign=06zcwd$HEVC
 CCTV5+,http://ygbh666.cn/aikmigu.php?id=cctv5p$咪咕源
 CCTV5+,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8$鹏博士
@@ -89,11 +60,7 @@ CCTV5+,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 CCTV6,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV6hd-8M/live.m3u8
-CCTV6,https://vip.taoiptv.cn/source/gitv.php?id=CCTV6hd-8M.m3u8&sign=06zcwd
-CCTV6,https://vip.taoiptv.cn/source/gzyx.php?id=f590aa425023d9a327fa1b69678f51e7.m3u8&sign=06zcwd
 CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=06zcwd$50FPS
-CCTV6,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-AVS-4K264.m3u8&sign=06zcwd
-CCTV6,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV6hd-8M.m3u8&sign=06zcwd
 CCTV6,http://114.55.117.163:8081/iptv/itv.php?id=CCTV650FPS.m3u8&sign=06zcwd$50FPS
 CCTV6,http://114.55.117.163:8085/ysp/cctv6?id=.m3u8&sign=06zcwd
 CCTV6,http://ygbh666.cn/aikmigu.php?id=cctv6$咪咕源
@@ -102,11 +69,7 @@ CCTV6,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV6,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3$易视腾
 
 CCTV7,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV7hd-8M/live.m3u8
-CCTV7,https://vip.taoiptv.cn/source/gitv.php?id=CCTV7hd-8M.m3u8&sign=06zcwd
-CCTV7,https://vip.taoiptv.cn/source/gzyx.php?id=3fa4584c5de70fde94692563299e998c.m3u8&sign=06zcwd
 CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=06zcwd$50FPS
-CCTV7,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-7-HQ.m3u8&sign=06zcwd
-CCTV7,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV7hd-8M.m3u8&sign=06zcwd
 CCTV7,http://114.55.117.163:8081/iptv/itv.php?id=CCTV750FPS.m3u8&sign=06zcwd$50FPS
 CCTV7,http://ygbh666.cn/aikmigu.php?id=cctv7$咪咕源
 CCTV7,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8$鹏博士
@@ -114,22 +77,14 @@ CCTV7,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV7,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3$易视腾
 
 CCTV8,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV8hd-8M/live.m3u8
-CCTV8,https://vip.taoiptv.cn/source/gitv.php?id=CCTV8hd-8M.m3u8&sign=06zcwd
-CCTV8,https://vip.taoiptv.cn/source/gzyx.php?id=b755332610506fe4746830b72438ae86.m3u8&sign=06zcwd
 CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=06zcwd$HEVC
-CCTV8,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-AVS-4K264.m3u8&sign=06zcwd$4K
-CCTV8,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV8hd-8M.m3u8&sign=06zcwd
 CCTV8,http://114.55.117.163:8081/iptv/itv.php?id=CCTV8HEVC.m3u8&sign=06zcwd$HEVC
 CCTV8,http://ygbh666.cn/aikmigu.php?id=cctv8$咪咕源
 CCTV8,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8$鹏博士
 CCTV8,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv88m/8000000/mnf.m3u8$可回看
 CCTV8,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3$易视腾
 
-CCTV9,https://vip.taoiptv.cn/source/gitv.php?id=CCTV9hd-8M.m3u8&sign=06zcwd
-CCTV9,https://vip.taoiptv.cn/source/gzyx.php?id=0f8ce350b1250e8e50f4d1b10042b1c5.m3u8&sign=06zcwd
 CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=06zcwd$50FPS
-CCTV9,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-9.m3u8&sign=06zcwd
-CCTV9,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV9hd-8M.m3u8&sign=06zcwd
 CCTV9,http://114.55.117.163:8081/iptv/itv.php?id=CCTV950FPS.m3u8&sign=06zcwd$50FPS
 CCTV9,http://ygbh666.cn/aikmigu.php?id=cctv9$咪咕源
 CCTV9,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8$鹏博士
@@ -137,11 +92,7 @@ CCTV9,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/c
 CCTV9,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3$易视腾
 
 CCTV10,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV10hd-8M/live.m3u8
-CCTV10,https://vip.taoiptv.cn/source/gitv.php?id=CCTV10hd-8M.m3u8&sign=06zcwd
-CCTV10,https://vip.taoiptv.cn/source/gzyx.php?id=a1a56acc29d03965227b40ff665e2377.m3u8&sign=06zcwd
 CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=06zcwd$50FPS
-CCTV10,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-10-HQ.m3u8&sign=06zcwd
-CCTV10,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV10hd-8M.m3u8&sign=06zcwd
 CCTV10,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1050FPS.m3u8&sign=06zcwd$50FPS
 CCTV10,http://ygbh666.cn/aikmigu.php?id=cctv10$咪咕源
 CCTV10,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8$鹏博士
@@ -149,11 +100,7 @@ CCTV10,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV10,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$易视腾
 
 CCTV11,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV11hd-8M/live.m3u8
-CCTV11,https://vip.taoiptv.cn/source/gitv.php?id=CCTV11hd-8M.m3u8&sign=06zcwd
-CCTV11,https://vip.taoiptv.cn/source/gzyx.php?id=f73d2482318583c3ba7513b4e21d4a48.m3u8&sign=06zcwd
 CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=06zcwd$50FPS
-CCTV11,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-11-HQ.m3u8&sign=06zcwd
-CCTV11,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV11hd-8M.m3u8&sign=06zcwd
 CCTV11,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1150FPS.m3u8&sign=06zcwd$50FPS
 CCTV11,http://ygbh666.cn/aikmigu.php?id=cctv11$咪咕源
 CCTV11,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8$鹏博士
@@ -161,22 +108,15 @@ CCTV11,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV11,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3$易视腾
 
 CCTV12,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV12hd-8M/live.m3u8
-CCTV12,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV12hd-8M.m3u8&sign=06zcwd
 CCTV12,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1250FPS.m3u8&sign=06zcwd$50FPS
-CCTV12,https://vip.taoiptv.cn/source/gitv.php?id=CCTV12hd-8M.m3u8&sign=06zcwd
-CCTV12,https://vip.taoiptv.cn/source/gzyx.php?id=113eb2f0bd0ca6cf1779140bd1bb525f.m3u8&sign=06zcwd
 CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=06zcwd$50FPS
-CCTV12,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv12.m3u8&sign=06zcwd
 CCTV12,http://ygbh666.cn/aikmigu.php?id=cctv12$咪咕源
 CCTV12,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8$鹏博士
 CCTV12,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8$可回看
 CCTV12,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3$易视腾
 
 CCTV13,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV13-1500k/live.m3u8
-CCTV13,https://vip.taoiptv.cn/source/gzyx.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e.m3u8&sign=06zcwd
 CCTV13,https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=06zcwd$50FPS
-CCTV13,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-13-HQ.m3u8&sign=06zcwd
-CCTV13,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV13-1500k.m3u8&sign=06zcwd
 CCTV13,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1350FPS.m3u8&sign=06zcwd$50FPS
 CCTV13,http://ygbh666.cn/aikmigu.php?id=cctv13$咪咕源
 CCTV13,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8$鹏博士
@@ -184,11 +124,7 @@ CCTV13,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV13,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3$易视腾
 
 CCTV14,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV14hd-8M/live.m3u8
-CCTV14,https://vip.taoiptv.cn/source/gitv.php?id=CCTV14hd-8M.m3u8&sign=06zcwd
-CCTV14,https://vip.taoiptv.cn/source/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4.m3u8&sign=06zcwd
 CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=06zcwd$50FPS
-CCTV14,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv14.m3u8&sign=06zcwd
-CCTV14,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV14hd-8M.m3u8&sign=06zcwd
 CCTV14,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1450FPS.m3u8&sign=06zcwd$50FPS
 CCTV14,http://ygbh666.cn/aikmigu.php?id=cctv14$咪咕源
 CCTV14,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8$鹏博士
@@ -196,20 +132,14 @@ CCTV14,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV14,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3$易视腾
 
 CCTV15,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV15hd-8M/live.m3u8
-CCTV15,https://vip.taoiptv.cn/source/gitv.php?id=CCTV15hd-8M.m3u8&sign=06zcwd
-CCTV15,https://vip.taoiptv.cn/source/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3.m3u8&sign=06zcwd
 CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV1550FPS.m3u8&sign=06zcwd$50FPS
-CCTV15,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-15.m3u8&sign=06zcwd
-CCTV15,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV15hd-8M.m3u8&sign=06zcwd
 CCTV15,http://114.55.117.163:8081/iptv/itv.php?id=CCTV1550FPS.m3u8&sign=06zcwd$50FPS
 CCTV15,http://ygbh666.cn/aikmigu.php?id=cctv15$咪咕源
 CCTV15,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8$鹏博士
 CCTV15,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8$可回看
 CCTV15,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3$易视腾
 
-CCTV16,https://vip.taoiptv.cn/source/gzyx.php?id=d521eba18ca2907befce170828004cbe.m3u8&sign=06zcwd
 CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=06zcwd$4K HEVC
-CCTV16,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-16-CQ.m3u8&sign=06zcwd
 CCTV16,http://114.55.117.163:8081/iptv/itv.php?id=CCTV164KHEVC.m3u8&sign=06zcwd$4K HEVC
 CCTV16,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8$鹏博士
 CCTV16,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8$可回看
@@ -217,7 +147,6 @@ CCTV16,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$4K
 
 CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=06zcwd$HEVC
-CCTV17,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-17-HD.m3u8&sign=06zcwd
 CCTV17,http://114.55.117.163:8081/iptv/itv.php?id=CCTV17HEVC.m3u8&sign=06zcwd$HEVC
 CCTV17,http://ygbh666.cn/aikmigu.php?id=cctv17$咪咕源
 CCTV17,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8$鹏博士
@@ -238,9 +167,7 @@ CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=06zcwd
 CGTN记录,http://114.55.117.163:8081/iptv/itv.php?id=CGTN记录.m3u8&sign=06zcwd
 CGTN记录,http://ygbh666.cn/aikmigu.php?id=cgtnjl$咪咕源
 
-CETV1,https://vip.taoiptv.cn/source/gitv.php?id=CETV1hd-8M.m3u8&sign=06zcwd
 CETV1,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=06zcwd
-CETV1,http://114.55.117.163:8081/iptv/gitv.php?id=CETV1hd-8M.m3u8&sign=06zcwd
 CETV1,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台1.m3u8&sign=06zcwd
 CETV1,http://beijinglive.online.domybox.com:91/live/CETV1hd-8M/live.m3u8$鹏博士
 CETV1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3$易视腾
@@ -256,48 +183,37 @@ CETV4,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台4.m3u8&sig
 CETV4,http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8$鹏博士
 CETV4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3$易视腾
 
-CCTV兵器科技,https://vip.taoiptv.cn/source/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8&sign=06zcwd
 CCTV兵器科技,https://vip.taoiptv.cn/source/ysp.php?id=cctv-bingqikeji.m3u8&sign=06zcwd
 CCTV兵器科技,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGQIKJ-CQ.m3u8&sign=06zcwd
 
-CCTV第一剧场,https://vip.taoiptv.cn/source/gzyx.php?id=155774022270441e808f7fe34a461113.m3u8&sign=06zcwd
 CCTV第一剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-diyijuchang.m3u8&sign=06zcwd
 
-CCTV风云剧场,https://vip.taoiptv.cn/source/gzyx.php?id=28b3dfac03626525db867cfe5efa6c08.m3u8&sign=06zcwd
 CCTV风云剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunjuchang.m3u8&sign=06zcwd
 CCTV风云剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNJC-CQ.m3u8&sign=06zcwd
 
-CCTV风云音乐,https://vip.taoiptv.cn/source/gzyx.php?id=55aa4e6799e5cf2e016d25ea298df515.m3u8&sign=06zcwd
 CCTV风云音乐,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunyinyue.m3u8&sign=06zcwd
 CCTV风云音乐,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNYY-CQ.m3u8&sign=06zcwd
 
-CCTV风云足球,https://vip.taoiptv.cn/source/gzyx.php?id=9a4447cf2f6ad5e48a273929e3e12d79.m3u8&sign=06zcwd
 CCTV风云足球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunzuqiu.m3u8&sign=06zcwd
 CCTV风云足球,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGSHANGZQ-CQ.m3u8&sign=06zcwd
 
-CCTV高尔夫网球,https://vip.taoiptv.cn/source/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d.m3u8&sign=06zcwd
 CCTV高尔夫网球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-gaoerfuwangqiu.m3u8&sign=06zcwd
 CCTV高尔夫网球,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-GOLF-CQ.m3u8&sign=06zcwd
 
-CCTV怀旧剧场,https://vip.taoiptv.cn/source/gzyx.php?id=7a2b1c83b212fa4e2a68ce0c1c25c9f0.m3u8&sign=06zcwd
 CCTV怀旧剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-huaijiujuchang.m3u8&sign=06zcwd
 CCTV怀旧剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUAIJIUJC-CQ.m3u8&sign=06zcwd
 
 CCTV女性时尚,https://vip.taoiptv.cn/source/ysp.php?id=cctv-nvxingshishang.m3u8&sign=06zcwd
 CCTV女性时尚,https://vip.taoiptv.cn/source/jsyd.php?id=G_NVXINGSS-CQ.m3u8&sign=06zcwd
 
-CCTV世界地理,https://vip.taoiptv.cn/source/gzyx.php?id=6e407aeb2256f118cbc7500efb69ea37.m3u8&sign=06zcwd
 CCTV世界地理,https://vip.taoiptv.cn/source/ysp.php?id=cctv-shijiedili.m3u8&sign=06zcwd
 CCTV世界地理,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHIJIEDL-CQ.m3u8&sign=06zcwd
 
-CCTV卫生健康,https://vip.taoiptv.cn/source/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd.m3u8&sign=06zcwd
 CCTV卫生健康,https://vip.taoiptv.cn/source/ysp.php?id=cctv-weishengjiankang.m3u8&sign=06zcwd
 
-CCTV文化精品,https://vip.taoiptv.cn/source/gzyx.php?id=df2c3d5ea40de75807e926c8764da0d0.m3u8&sign=06zcwd
 CCTV文化精品,https://vip.taoiptv.cn/source/ysp.php?id=cctv-wenhuajingpin.m3u8&sign=06zcwd
 CCTV文化精品,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-WENHUA-CQ.m3u8&sign=06zcwd
 
-CCTV央视台球,https://vip.taoiptv.cn/source/gzyx.php?id=db5ba3a40c2d5867978cc2db30f662a9.m3u8&sign=06zcwd
 CCTV央视台球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-yangshitaiqiu.m3u8&sign=06zcwd
 CCTV央视台球,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIQIU-CQ.m3u8&sign=06zcwd
 
@@ -306,48 +222,32 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 
 卫视,#genre#
 安徽卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/AHWShd-8M/live.m3u8
-安徽卫视,https://vip.taoiptv.cn/source/gitv.php?id=AHWShd-8M.m3u8&sign=06zcwd
-安徽卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=06zcwd
 安徽卫视,https://vip.taoiptv.cn/source/itv.php?id=安徽卫视50FPS.m3u8&sign=06zcwd$50FPS
-安徽卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ANHUI-HD-265-8M.m3u8&sign=06zcwd
-安徽卫视,http://114.55.117.163:8081/iptv/gitv.php?id=AHWShd-8M.m3u8&sign=06zcwd
 安徽卫视,http://114.55.117.163:8081/iptv/itv.php?id=安徽卫视50FPS.m3u8&sign=06zcwd$50FPS
 安徽卫视,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8$鹏博士
 安徽卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8$可回看
 安徽卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3$易视腾
 
 北京卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/BJWShd-8M/live.m3u8
-北京卫视,https://vip.taoiptv.cn/source/gitv.php?id=BJWShd-8M.m3u8&sign=06zcwd
-北京卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52.m3u8&sign=06zcwd
 北京卫视,https://vip.taoiptv.cn/source/itv.php?id=北京卫视HEVC.m3u8&sign=06zcwd$HEVC
-北京卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BEIJING-HD-265-8M.m3u8&sign=06zcwd
-北京卫视,http://114.55.117.163:8081/iptv/gitv.php?id=BJWShd-8M.m3u8&sign=06zcwd
 北京卫视,http://114.55.117.163:8081/iptv/itv.php?id=北京卫视HEVC.m3u8&sign=06zcwd$HEVC
 北京卫视,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8$鹏博士
 北京卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8$可回看
 北京卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3$易视腾
 
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
-兵团卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGTUAN.m3u8&sign=06zcwd
 兵团卫视,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8$鹏博士
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 重庆卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/CQWShd-8M/live.m3u8
-重庆卫视,https://vip.taoiptv.cn/source/gitv.php?id=CQWShd-8M.m3u8&sign=06zcwd
-重庆卫视,https://vip.taoiptv.cn/source/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9.m3u8&sign=06zcwd
 重庆卫视,https://vip.taoiptv.cn/source/itv.php?id=重庆卫视HEVC.m3u8&sign=06zcwd$HEVC
-重庆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-chongqingstv.m3u8&sign=06zcwd
-重庆卫视,http://114.55.117.163:8081/iptv/gitv.php?id=CQWShd-8M.m3u8&sign=06zcwd
 重庆卫视,http://114.55.117.163:8081/iptv/itv.php?id=重庆卫视HEVC.m3u8&sign=06zcwd$HEVC
 重庆卫视,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8$鹏博士
 重庆卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8$可回看
 重庆卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3$易视腾
 
 东方卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/DFWShd-8M/live.m3u8
-东方卫视,https://vip.taoiptv.cn/source/gitv.php?id=DFWShd-8M.m3u8&sign=06zcwd
 东方卫视,https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视50FPS.m3u8&sign=06zcwd$50FPS
-东方卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_DONGFANG-HD-265-8M.m3u8&sign=06zcwd
-东方卫视,http://114.55.117.163:8081/iptv/gitv.php?id=DFWShd-8M.m3u8&sign=06zcwd
 东方卫视,http://114.55.117.163:8081/iptv/itv.php?id=上海东方卫视50FPS.m3u8&sign=06zcwd$50FPS
 东方卫视,http://ygbh666.cn/aikmigu.php?id=dfws$咪咕源
 东方卫视,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8$鹏博士
@@ -355,94 +255,67 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 东方卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3$易视腾
 
 东南卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/DNWShd-8M/live.m3u8
-东南卫视,https://vip.taoiptv.cn/source/gitv.php?id=DNWShd-8M.m3u8&sign=06zcwd
 东南卫视,https://vip.taoiptv.cn/source/itv.php?id=东南卫视HEVC.m3u8&sign=06zcwd$HEVC
-东南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=DNWS.m3u8&sign=06zcwd
-东南卫视,http://114.55.117.163:8081/iptv/gitv.php?id=DNWShd-8M.m3u8&sign=06zcwd
 东南卫视,http://114.55.117.163:8081/iptv/itv.php?id=东南卫视HEVC.m3u8&sign=06zcwd$HEVC
 东南卫视,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8$鹏博士
 东南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8$可回看
 东南卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3$易视腾
 
 甘肃卫视,https://vip.taoiptv.cn/source/itv.php?id=甘肃卫视.m3u8&sign=06zcwd
-甘肃卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GANSU.m3u8&sign=06zcwd
 甘肃卫视,http://114.55.117.163:8081/iptv/itv.php?id=甘肃卫视.m3u8&sign=06zcwd
 甘肃卫视,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8$鹏博士
 甘肃卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8$可回看
 甘肃卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$易视腾
 
 广东卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/GDWShd-8M/live.m3u8
-广东卫视,https://vip.taoiptv.cn/source/gitv.php?id=GDWShd-8M.m3u8&sign=06zcwd
-广东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=02f45209e8dab92899920d74157fe58b.m3u8&sign=06zcwd
 广东卫视,https://vip.taoiptv.cn/source/itv.php?id=广东卫视50FPS.m3u8&sign=06zcwd$50FPS
-广东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUANGDONG-HQ.m3u8&sign=06zcwd
-广东卫视,http://114.55.117.163:8081/iptv/gitv.php?id=GDWShd-8M.m3u8&sign=06zcwd
 广东卫视,http://114.55.117.163:8081/iptv/itv.php?id=广东卫视50FPS.m3u8&sign=06zcwd$50FPS
 广东卫视,http://ygbh666.cn/aikmigu.php?id=gdws$咪咕源
 广东卫视,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8$鹏博士
 广东卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8$可回看
 广东卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$易视腾
 
-广西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a.m3u8&sign=06zcwd
 广西卫视,https://vip.taoiptv.cn/source/itv.php?id=广西卫视.m3u8&sign=06zcwd
-广西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=GXWS.m3u8&sign=06zcwd
 广西卫视,http://114.55.117.163:8081/iptv/itv.php?id=广西卫视.m3u8&sign=06zcwd
 广西卫视,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8$鹏博士
 广西卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8$可回看
 广西卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3$易视腾
 
 贵州卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/GZWShd-8M/live.m3u8
-贵州卫视,https://vip.taoiptv.cn/source/gitv.php?id=GZWShd-8M.m3u8&sign=06zcwd
-贵州卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9245676006cb79b03798b89fa05576b1.m3u8&sign=06zcwd
 贵州卫视,https://vip.taoiptv.cn/source/itv.php?id=贵州卫视.m3u8&sign=06zcwd
-贵州卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUIZHOU.m3u8&sign=06zcwd
-贵州卫视,http://114.55.117.163:8081/iptv/gitv.php?id=GZWShd-8M.m3u8&sign=06zcwd
 贵州卫视,http://114.55.117.163:8081/iptv/itv.php?id=贵州卫视.m3u8&sign=06zcwd
 贵州卫视,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8$鹏博士
 贵州卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8$可回看
 贵州卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3$易视腾
 
 海南卫视,https://vip.taoiptv.cn/source/itv.php?id=海南卫视.m3u8&sign=06zcwd
-海南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=LYWS.m3u8&sign=06zcwd
 海南卫视,http://114.55.117.163:8081/iptv/itv.php?id=海南卫视.m3u8&sign=06zcwd
 海南卫视,http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8$鹏博士
 海南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8$可回看
 海南卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3$易视腾
 
 河北卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/HeBWShd-8M/live.m3u8
-河北卫视,https://vip.taoiptv.cn/source/gitv.php?id=HeBWShd-8M.m3u8&sign=06zcwd
 河北卫视,https://vip.taoiptv.cn/source/itv.php?id=河北卫视.m3u8&sign=06zcwd
-河北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEBEI.m3u8&sign=06zcwd
-河北卫视,http://114.55.117.163:8081/iptv/gitv.php?id=HeBWShd-8M.m3u8&sign=06zcwd
 河北卫视,http://114.55.117.163:8081/iptv/itv.php?id=河北卫视.m3u8&sign=06zcwd
 河北卫视,http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8$鹏博士
 河北卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8$可回看
 河北卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3$易视腾
 
 河南卫视,https://vip.taoiptv.cn/source/itv.php?id=河南卫视.m3u8&sign=06zcwd
-河南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HENAN.m3u8&sign=06zcwd
 河南卫视,http://114.55.117.163:8081/iptv/itv.php?id=河南卫视.m3u8&sign=06zcwd
 河南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
 河南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8$可回看
 河南卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$易视腾
 
 黑龙江卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/HLJWShd-8M/live.m3u8
-黑龙江卫视,https://vip.taoiptv.cn/source/gitv.php?id=HLJWShd-8M.m3u8&sign=06zcwd
-黑龙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e.m3u8&sign=06zcwd
 黑龙江卫视,https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视50FPS.m3u8&sign=06zcwd$50FPS
-黑龙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEILONGJIANG-HQ.m3u8&sign=06zcwd
-黑龙江卫视,http://114.55.117.163:8081/iptv/gitv.php?id=HLJWShd-8M.m3u8&sign=06zcwd
 黑龙江卫视,http://114.55.117.163:8081/iptv/itv.php?id=黑龙江卫视50FPS.m3u8&sign=06zcwd$50FPS
 黑龙江卫视,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8$鹏博士
 黑龙江卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8$可回看
 黑龙江卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3$易视腾
 
 湖北卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/HuBWShd-8M/live.m3u8
-湖北卫视,https://vip.taoiptv.cn/source/gitv.php?id=HuBWShd-8M.m3u8&sign=06zcwd
-湖北卫视,https://vip.taoiptv.cn/source/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca.m3u8&sign=06zcwd
 湖北卫视,https://vip.taoiptv.cn/source/itv.php?id=湖北卫视50FPS.m3u8&sign=06zcwd$50FPS
-湖北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUBEI-HD-265-8M.m3u8&sign=06zcwd
-湖北卫视,http://114.55.117.163:8081/iptv/gitv.php?id=HuBWShd-8M.m3u8&sign=06zcwd
 湖北卫视,http://114.55.117.163:8081/iptv/itv.php?id=湖北卫视50FPS.m3u8&sign=06zcwd$50FPS
 湖北卫视,http://ygbh666.cn/aikmigu.php?id=hubws$咪咕源
 湖北卫视,http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8$鹏博士
@@ -450,21 +323,14 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 湖北卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$易视腾
 
 湖南卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/HuNWShd-8M/live.m3u8
-湖南卫视,https://vip.taoiptv.cn/source/gitv.php?id=HuNWShd-8M.m3u8&sign=06zcwd
-湖南卫视,https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=06zcwd
 湖南卫视,https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=06zcwd$50FPS
-湖南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=06zcwd
-湖南卫视,http://114.55.117.163:8081/iptv/gitv.php?id=HuNWShd-8M.m3u8&sign=06zcwd
 湖南卫视,http://114.55.117.163:8081/iptv/itv.php?id=湖南卫视50FPS.m3u8&sign=06zcwd$50FPS
 湖南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$鹏博士
 湖南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8$可回看
 湖南卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3$易视腾
 
 吉林卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/JLWS-1500k/live.m3u8
-吉林卫视,https://vip.taoiptv.cn/source/gzyx.php?id=27975dec3d5bb0158291c75402d4a691.m3u8&sign=06zcwd
 吉林卫视,https://vip.taoiptv.cn/source/itv.php?id=吉林卫视.m3u8&sign=06zcwd
-吉林卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JILIN.m3u8&sign=06zcwd
-吉林卫视,http://114.55.117.163:8081/iptv/gitv.php?id=JLWS-1500k.m3u8&sign=06zcwd
 吉林卫视,http://114.55.117.163:8081/iptv/itv.php?id=吉林卫视.m3u8&sign=06zcwd
 吉林卫视,http://ygbh666.cn/aikmigu.php?id=jlws$咪咕源
 吉林卫视,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8$鹏博士
@@ -472,11 +338,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 吉林卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3$易视腾
 
 江苏卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/JSWShd-8M/live.m3u8
-江苏卫视,https://vip.taoiptv.cn/source/gitv.php?id=JSWShd-8M.m3u8&sign=06zcwd
-江苏卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24.m3u8&sign=06zcwd
 江苏卫视,https://vip.taoiptv.cn/source/itv.php?id=江苏卫视50FPS.m3u8&sign=06zcwd$50FPS
-江苏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JIANGSU-HD-265-5M.m3u8&sign=06zcwd
-江苏卫视,http://114.55.117.163:8081/iptv/gitv.php?id=JSWShd-8M.m3u8&sign=06zcwd
 江苏卫视,http://114.55.117.163:8081/iptv/itv.php?id=江苏卫视50FPS.m3u8&sign=06zcwd$50FPS
 江苏卫视,http://ygbh666.cn/aikmigu.php?id=jsws$咪咕源
 江苏卫视,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8$鹏博士
@@ -484,10 +346,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 江苏卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3$易视腾
 
 江西卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/JXWS-1500k/live.m3u8
-江西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=06zcwd
 江西卫视,https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=06zcwd$HEVC
-江西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=06zcwd
-江西卫视,http://114.55.117.163:8081/iptv/gitv.php?id=JXWS-1500k.m3u8&sign=06zcwd
 江西卫视,http://114.55.117.163:8081/iptv/itv.php?id=江西卫视HEVC.m3u8&sign=06zcwd$HEVC
 江西卫视,http://ygbh666.cn/aikmigu.php?id=jxws$咪咕源
 江西卫视,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8$鹏博士
@@ -496,18 +355,13 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 
 辽宁卫视,http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/LNWShd-8M/live.m3u8
-辽宁卫视,https://vip.taoiptv.cn/source/gitv.php?id=LNWShd-8M.m3u8&sign=06zcwd
-辽宁卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=06zcwd
 辽宁卫视,https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视HEVC.m3u8&sign=06zcwd$HEVC
-辽宁卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_LIAONING-HD-265-5M.m3u8&sign=06zcwd
-辽宁卫视,http://114.55.117.163:8081/iptv/gitv.php?id=LNWShd-8M.m3u8&sign=06zcwd
 辽宁卫视,http://114.55.117.163:8081/iptv/itv.php?id=辽宁卫视HEVC.m3u8&sign=06zcwd$HEVC
 辽宁卫视,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8$鹏博士
 辽宁卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/lnws8m/8000000/mnf.m3u8$可回看
 辽宁卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3$易视腾
 
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NEIMENGGU.m3u8&sign=06zcwd
 内蒙古卫视,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8$鹏博士
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
@@ -515,18 +369,13 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 宁夏卫视,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8$鹏博士
 
 青海卫视,https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=06zcwd
-青海卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=06zcwd
 青海卫视,http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=06zcwd
 青海卫视,http://ygbh666.cn/aikmigu.php?id=qhws$咪咕源
 青海卫视,http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8$鹏博士
 青海卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3$易视腾
 
 山东卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/SDWShd-8M/live.m3u8
-山东卫视,https://vip.taoiptv.cn/source/gitv.php?id=SDWShd-8M.m3u8&sign=06zcwd
-山东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1db177c7492ad2769a93e3746f25f701.m3u8&sign=06zcwd
 山东卫视,https://vip.taoiptv.cn/source/itv.php?id=山东卫视50FPS.m3u8&sign=06zcwd$50FPS
-山东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANDONG-HQ.m3u8&sign=06zcwd
-山东卫视,http://114.55.117.163:8081/iptv/gitv.php?id=SDWShd-8M.m3u8&sign=06zcwd
 山东卫视,http://114.55.117.163:8081/iptv/itv.php?id=山东卫视50FPS.m3u8&sign=06zcwd$50FPS
 山东卫视,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8$鹏博士
 山东卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3$易视腾
@@ -539,29 +388,20 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$鹏博士
 
 深圳卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/SZWShd-8M/live.m3u8
-深圳卫视,https://vip.taoiptv.cn/source/gitv.php?id=SZWShd-8M.m3u8&sign=06zcwd
 深圳卫视,https://vip.taoiptv.cn/source/itv.php?id=深圳卫视50FPS.m3u8&sign=06zcwd$50FPS
-深圳卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHENZHEN-HQ.m3u8&sign=06zcwd
-深圳卫视,http://114.55.117.163:8081/iptv/gitv.php?id=SZWShd-8M.m3u8&sign=06zcwd
 深圳卫视,http://114.55.117.163:8081/iptv/itv.php?id=深圳卫视50FPS.m3u8&sign=06zcwd$50FPS
 深圳卫视,http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8$鹏博士
 深圳卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8$可回看
 深圳卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3$易视腾
 
-四川卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca.m3u8&sign=06zcwd
 四川卫视,https://vip.taoiptv.cn/source/itv.php?id=四川卫视.m3u8&sign=06zcwd
-四川卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SCWS.m3u8&sign=06zcwd
 四川卫视,http://114.55.117.163:8081/iptv/itv.php?id=四川卫视.m3u8&sign=06zcwd
 四川卫视,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8$鹏博士
 四川卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/scws8m/8000000/mnf.m3u8$可回看
 四川卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3$易视腾
 
 天津卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/TJWShd-8M/live.m3u8
-天津卫视,https://vip.taoiptv.cn/source/gitv.php?id=TJWShd-8M.m3u8&sign=06zcwd
-天津卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683.m3u8&sign=06zcwd
 天津卫视,https://vip.taoiptv.cn/source/itv.php?id=天津卫视50FPS.m3u8&sign=06zcwd$50FPS
-天津卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_TIANJIN-HD-265-5M.m3u8&sign=06zcwd
-天津卫视,http://114.55.117.163:8081/iptv/gitv.php?id=TJWShd-8M.m3u8&sign=06zcwd
 天津卫视,http://114.55.117.163:8081/iptv/itv.php?id=天津卫视50FPS.m3u8&sign=06zcwd$50FPS
 天津卫视,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8$鹏博士
 天津卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/tjws8m/8000000/mnf.m3u8$可回看
@@ -577,7 +417,6 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$鹏博士
 
 云南卫视,https://vip.taoiptv.cn/source/itv.php?id=云南卫视.m3u8&sign=06zcwd
-云南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_YUNNAN.m3u8&sign=06zcwd
 云南卫视,http://114.55.117.163:8081/iptv/itv.php?id=云南卫视.m3u8&sign=06zcwd
 云南卫视,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8$鹏博士
 云南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8$可回看
@@ -585,11 +424,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/ZJWShd-8M/live.m3u8
-浙江卫视,https://vip.taoiptv.cn/source/gitv.php?id=ZJWShd-8M.m3u8&sign=06zcwd
-浙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69.m3u8&sign=06zcwd
 浙江卫视,https://vip.taoiptv.cn/source/itv.php?id=浙江卫视50FPS.m3u8&sign=06zcwd$50FPS
-浙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHEJIANG-HD-265-8M.m3u8&sign=06zcwd
-浙江卫视,http://114.55.117.163:8081/iptv/gitv.php?id=ZJWShd-8M.m3u8&sign=06zcwd
 浙江卫视,http://114.55.117.163:8081/iptv/itv.php?id=浙江卫视50FPS.m3u8&sign=06zcwd$50FPS
 浙江卫视,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8$鹏博士
 浙江卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8$可回看
@@ -601,23 +436,18 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 凤凰卫视香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰卫视香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰卫视香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8?sign=06zcwd
-凤凰卫视香港台,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhhongkong5s.m3u8&sign=06zcwd
 
 凤凰卫视资讯台,http://146.56.153.245:20121/bysid/257
 凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰卫视资讯台,http://122.224.232.218:8888/rtp/233.50.200.192:5140
-凤凰卫视资讯台,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhzixun5s.m3u8&sign=06zcwd
 凤凰卫视资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?sign=06zcwd
-凤凰卫视资讯台,https://vip.taoiptv.cn/source/gzyx.php?id=4ea97af53693ae02392251697dbb52fd.m3u8&sign=06zcwd
 
 凤凰卫视中文台,http://146.56.153.245:20121/bysid/258
 凤凰卫视中文台,http://122.224.232.218:8888/rtp/233.50.200.191:5140
 凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视中文台,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=06zcwd
 凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=06zcwd
-凤凰卫视中文台,https://vip.taoiptv.cn/source/gzyx.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5.m3u8&sign=06zcwd
 
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -749,7 +579,6 @@ NewTV武博世界,https://vip.taoiptv.cn/source/itv.php?id=NewTV武博世界.m3u
 NewTV武博世界,http://114.55.117.163:8081/iptv/itv.php?id=NewTV武博世界.m3u8&sign=06zcwd
 NewTV炫舞未来,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 NewTV炫舞未来,https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
-NewTV炫舞未来,https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-xwwl.m3u8&sign=06zcwd
 NewTV炫舞未来,http://114.55.117.163:8081/iptv/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 NewTV怡伴健康,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
 NewTV怡伴健康,https://vip.taoiptv.cn/source/itv.php?id=NewTV怡伴健康.m3u8&sign=06zcwd
@@ -759,7 +588,6 @@ NewTV中国功夫,https://vip.taoiptv.cn/source/itv.php?id=NewTV中国功夫.m3u
 NewTV中国功夫,http://114.55.117.163:8081/iptv/itv.php?id=NewTV中国功夫.m3u8&sign=06zcwd
 NewTV黑莓电影,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 NewTV黑莓电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
-NewTV黑莓电影,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-Supermovie.m3u8&sign=06zcwd
 NewTV黑莓电影,http://114.55.117.163:8081/iptv/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
 NewTV黑莓动画,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 NewTV黑莓动画,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓动画.m3u8&sign=06zcwd
@@ -773,26 +601,21 @@ NewTV哒啵赛事,http://114.55.117.163:8081/iptv/itv.php?id=NewTV哒啵赛事.m
 
 SiTV频道,#genre#
 SiTV动漫秀场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-SiTV动漫秀场,https://vip.taoiptv.cn/source/gzyx.php?id=57e09be91d8b2f208e407b5abfa23b05.m3u8&sign=06zcwd
 SiTV动漫秀场,https://vip.taoiptv.cn/source/itv.php?id=SiTV动漫秀场.m3u8&sign=06zcwd
 SiTV动漫秀场,http://114.55.117.163:8081/iptv/itv.php?id=SiTV动漫秀场.m3u8&sign=06zcwd
 SiTV都市剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-SiTV都市剧场,https://vip.taoiptv.cn/source/gzyx.php?id=45cd7a20f72e4333e9aaaa95884fd0b8.m3u8&sign=06zcwd
 SiTV都市剧场,https://vip.taoiptv.cn/source/itv.php?id=SiTV都市剧场.m3u8&sign=06zcwd
 SiTV都市剧场,http://114.55.117.163:8081/iptv/itv.php?id=SiTV都市剧场.m3u8&sign=06zcwd
 SiTV法治天地,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-SiTV法治天地,https://vip.taoiptv.cn/source/gzyx.php?id=581721a464fa6469a63c0781da576703.m3u8&sign=06zcwd
 SiTV法治天地,https://vip.taoiptv.cn/source/itv.php?id=SiTV法治天地.m3u8&sign=06zcwd
 SiTV法治天地,http://114.55.117.163:8081/iptv/itv.php?id=SiTV法治天地.m3u8&sign=06zcwd
 SiTV欢笑剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$4K
 SiTV欢笑剧场,https://vip.taoiptv.cn/source/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=06zcwd$4K
 SiTV欢笑剧场,http://114.55.117.163:8081/iptv/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=06zcwd$4K
 SiTV金色学堂,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
-SiTV金色学堂,https://vip.taoiptv.cn/source/gzyx.php?id=9f6c9fc0d4db981b4a6da770e3e2a163.m3u8&sign=06zcwd
 SiTV金色学堂,https://vip.taoiptv.cn/source/itv.php?id=SiTV金色学堂.m3u8&sign=06zcwd
 SiTV金色学堂,http://114.55.117.163:8081/iptv/itv.php?id=SiTV金色学堂.m3u8&sign=06zcwd
 SiTV劲爆体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-SiTV劲爆体育,https://vip.taoiptv.cn/source/gzyx.php?id=5502a25d87fb30c220433805c239d7df.m3u8&sign=06zcwd
 SiTV劲爆体育,https://vip.taoiptv.cn/source/itv.php?id=SiTV劲爆体育.m3u8&sign=06zcwd
 SiTV劲爆体育,http://114.55.117.163:8081/iptv/itv.php?id=SiTV劲爆体育.m3u8&sign=06zcwd
 SiTV乐游,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
@@ -807,7 +630,6 @@ SiTV七彩戏剧,http://114.55.117.163:8081/iptv/itv.php?id=SiTV七彩戏剧.m3u
 SiTV生活时尚,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 SiTV生活时尚,https://vip.taoiptv.cn/source/itv.php?id=SiTV生活时尚.m3u8&sign=06zcwd
 SiTV生活时尚,http://114.55.117.163:8081/iptv/itv.php?id=SiTV生活时尚.m3u8&sign=06zcwd
-SiTV游戏风云,https://vip.taoiptv.cn/source/gzyx.php?id=2abb8a699d8073134830e425164d7f6d.m3u8&sign=06zcwd
 SiTV游戏风云,https://vip.taoiptv.cn/source/itv.php?id=SiTV游戏风云.m3u8&sign=06zcwd
 SiTV游戏风云,http://114.55.117.163:8081/iptv/itv.php?id=SiTV游戏风云.m3u8&sign=06zcwd
 
@@ -925,11 +747,9 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 北京纪实科教,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
 北京纪实科教,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 北京纪实科教,https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=06zcwd$HEVC
-北京纪实科教,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=06zcwd
 北京纪实科教,http://beijinglive.online.domybox.com:91/live/BTVKJhd-8M/live.m3u8$鹏博士
 北京卡酷少儿,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 北京卡酷少儿,https://vip.taoiptv.cn/source/itv.php?id=北京卡酷少儿.m3u8&sign=06zcwd
-北京卡酷少儿,https://vip.taoiptv.cn/source/jsyd.php?id=G_KAKU.m3u8&sign=06zcwd
 北京文艺,http://beijinglive.online.domybox.com:91/live/BTVWYhd-8M/live.m3u8$鹏博士
 北京影视,http://beijinglive.online.domybox.com:91/live/BTVYShd-8M/live.m3u8$鹏博士
 北京财经,http://beijinglive.online.domybox.com:91/live/BTVCJ-1500k/live.m3u8$鹏博士
@@ -957,13 +777,11 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 上海法治天地,http://114.55.117.163:8081/iptv/itv.php?id=上海法治天地.m3u8&sign=06zcwd
 上海哈哈炫动,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 上海哈哈炫动,https://vip.taoiptv.cn/source/itv.php?id=上海哈哈炫动.m3u8&sign=06zcwd
-上海哈哈炫动,https://vip.taoiptv.cn/source/jsyd.php?id=G_XUANDONG.m3u8&sign=06zcwd
 上海哈哈炫动,http://114.55.117.163:8081/iptv/itv.php?id=上海哈哈炫动.m3u8&sign=06zcwd
 上海哈哈炫动,http://beijinglive.online.domybox.com:91/live/XDKT-1500k/live.m3u8$鹏博士
 上海纪实人文,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
 上海纪实人文,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 上海纪实人文,https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文50FPS.m3u8&sign=06zcwd$50FPS
-上海纪实人文,https://vip.taoiptv.cn/source/jsyd.php?id=H265-5500k-1080P-shanghaijishi.m3u8&sign=06zcwd
 上海纪实人文,http://114.55.117.163:8081/iptv/itv.php?id=上海纪实人文50FPS.m3u8&sign=06zcwd$50FPS
 上海纪实人文,http://beijinglive.online.domybox.com:91/live/JSRWhd-8M/live.m3u8$鹏博士oiptv.cn/source/itv.php?id=上海五星体育.m3u8&sign=06zcwd
 上海五星体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -977,32 +795,26 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 湖南金鹰纪实,https://vip.taoiptv.cn/source/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 湖南金鹰纪实,http://114.55.117.163:8081/iptv/itv.php?id=湖南金鹰纪实.m3u8&sign=06zcwd
 湖南金鹰纪实,http://beijinglive.online.domybox.com:91/live/JYJShd-8M/live.m3u8$鹏博士
-湖南金鹰卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=06zcwd
 湖南金鹰卡通,http://beijinglive.online.domybox.com:91/live/JYKT-1500k/live.m3u8$鹏博士
 湖南快乐垂钓,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-湖南快乐垂钓,https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&sign=06zcwd
 湖南快乐垂钓,https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
 湖南快乐垂钓,http://114.55.117.163:8081/iptv/itv.php?id=湖南快乐垂钓.m3u8&sign=06zcwd
 湖南茶频道,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 湖南茶频道,https://vip.taoiptv.cn/source/itv.php?id=湖南茶频道.m3u8&sign=06zcwd
 湖南茶频道,http://114.55.117.163:8081/iptv/itv.php?id=湖南茶频道.m3u8&sign=06zcwd
 
-
 4K频道,#genre#
 华数4K,https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=06zcwd
 华数4K,http://114.55.117.163:8081/iptv/itv.php?id=华数4K.m3u8&sign=06zcwd
 纯享4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K,https://vip.taoiptv.cn/source/itv.php?id=纯享4K.m3u8&sign=06zcwd
-纯享4K,https://vip.taoiptv.cn/source/jsyd.php?id=HD-20M-2160P-chunxiang4k.m3u8&sign=06zcwd
 纯享4K,http://114.55.117.163:8081/iptv/itv.php?id=纯享4K.m3u8&sign=06zcwd
 咪咕4K1,https://vip.taoiptv.cn/source/itv.php?id=咪咕4K1.m3u8&sign=06zcwd
 咪咕4K1,http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K1.m3u8&sign=06zcwd
 咪咕4K2,https://vip.taoiptv.cn/source/itv.php?id=咪咕4K2.m3u8&sign=06zcwd
 咪咕4K2,http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K2.m3u8&sign=06zcwd
 
-
 其他频道,#genre#
-睛彩青少,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-quanminrl.m3u8&sign=06zcwd
 睛彩青少,https://vip.taoiptv.cn/source/itv.php?id=咪咕全民热练.m3u8&sign=06zcwd
 睛彩青少,http://114.55.117.163:8081/iptv/itv.php?id=咪咕全民热练.m3u8&sign=06zcwd
 睛彩篮球,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-miguaoyun1.m3u8&sign=06zcwd
@@ -1015,16 +827,3 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 求索科学,http://114.55.117.163:8081/iptv/itv.php?id=求索科学.m3u8&sign=06zcwd
 求索生活,https://vip.taoiptv.cn/source/itv.php?id=求索生活.m3u8&sign=06zcwd
 求索生活,http://114.55.117.163:8081/iptv/itv.php?id=求索生活.m3u8&sign=06zcwd
-CHC家庭影院,https://vip.taoiptv.cn/source/gzyx.php?id=548e8018101d7fa134d91615728a5a93.m3u8&sign=06zcwd
-CHC动作电影,https://vip.taoiptv.cn/source/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf.m3u8&sign=06zcwd
-重温经典,https://vip.taoiptv.cn/source/gzyx.php?id=4c9fa17591dfd8dd736c80e87d6dc72b.m3u8&sign=06zcwd
-影视剧场,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-1.m3u8&sign=06zcwd
-第一院线,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-2.m3u8&sign=06zcwd
-高分电影,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-14.m3u8&sign=06zcwd
-美食美味,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-17.m3u8&sign=06zcwd
-动物世界,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-19.m3u8&sign=06zcwd
-奥特曼,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-9.m3u8&sign=06zcwd
-熊出没,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-10.m3u8&sign=06zcwd
-汪汪队,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-13.m3u8&sign=06zcwd
-超级飞侠,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-11.m3u8&sign=06zcwd
-小猪佩奇,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-12.m3u8&sign=06zcwd
