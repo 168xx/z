@@ -148,8 +148,6 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/10000000010000
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-xwwl.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV炫舞未来.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
@@ -167,8 +165,6 @@ http://114.55.117.163:8081/iptv/itv.php?id=NewTV中国功夫.m3u8&sign=06zcwd
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
-#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-Supermovie.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 http://114.55.117.163:8081/iptv/itv.php?id=NewTV黑莓电影.m3u8&sign=06zcwd
 #EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
