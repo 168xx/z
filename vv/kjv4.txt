@@ -1038,17 +1038,20 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 //02凤凰卫视现拥有中文台、资讯台、欧洲台、美洲台、电影台和香港台等6个电视频道
 
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
+凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv,爬虫波
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+
 凤凰中文,http://8.138.7.223/tv/bj3w.php?id=31
-凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰中文,http://211.72.65.236:8577/.m3u8
 凤凰资讯,http://211.72.65.236:8576/.m3u8
-凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+
+
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass 
 
 凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
@@ -1066,7 +1069,6 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 
 //03香港电视广播有限公司(TVB)
 //免费频道 翡翠台、Plus、无线新闻台、明珠台、凤凰香港台
-翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -1075,9 +1077,6 @@ TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 无线新闻台,http://ali.hlspull.yximgs.com/live/9c54a164d1ee6d0693947649a2560d0d.flv
 
-18台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-天映频道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
-天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
@@ -1146,6 +1145,9 @@ TVB星河,http://8.138.7.223/tv/gdmzyd.php?id=2$梅州移动
 客家电视,http://8.138.7.223/tv/hakkatv.m3u8
 原视,http://8.138.7.223/tv/titv.m3u8
 台视新闻台,http://8.138.7.223/tv/ttvnews.m3u8
+
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti.flv,爬虫波
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti2.flv,爬虫波
 
 三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -4163,6 +4165,10 @@ MAX极速汽车,http://tvbox6.cn/tv/zb/shctcc.php?id=34$上海电信组播
 福建乡村,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8$福建电信
 福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8$福建电信
+
+莆田1套,http://8.138.7.223/tv/ptbtv.php?id=4
+莆田2套,http://8.138.7.223/tv/ptbtv.php?id=5
+莆田仙游,http://8.138.7.223/tv/ptbtv.php?id=6
 
 🐼江西ID23,#genre#
 
