@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-22 02:43",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-22 10:59",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -5087,44 +5087,36 @@ http://120.76.248.139/live/bfgd/4200000296.m3u8
 http://120.76.248.139/live/bfgd/4200000297.m3u8
 #EXTINF:-1 tvg-id="甘肃|轮播" tvg-name="甘肃|轮播" tvg-logo="https://live.fanmingming.com/tv/甘肃|轮播.png" group-title="🐼北方广电",甘肃|轮播
 http://120.76.248.139/live/bfgd/4200000298.m3u8
-#EXTINF:-1 tvg-id="CCTV6电影频道" tvg-name="CCTV6电影频道" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影频道.png" group-title="🐼电影频道",CCTV6电影频道
-http://tvbox6.cn/tv/cctv6.m3u8#http://tvbox6.cn/tv/cctv6-1.m3u8
-#EXTINF:-1 tvg-id="1905电影1" tvg-name="1905电影1" tvg-logo="https://live.fanmingming.com/tv/1905电影1.png" group-title="🐼电影频道",1905电影1
-http://tvbox6.cn/tv/1905.php?id=1905a
-#EXTINF:-1 tvg-id="1905电影2" tvg-name="1905电影2" tvg-logo="https://live.fanmingming.com/tv/1905电影2.png" group-title="🐼电影频道",1905电影2
-http://tvbox6.cn/tv/1905.php?id=1905b
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="🐼电影频道",CCTV6电影
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 tvg-id="1905电影(内)" tvg-name="1905电影(内)" tvg-logo="https://live.fanmingming.com/tv/1905电影(内).png" group-title="🐼电影频道",1905电影(内)
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-id="1905电影(外)" tvg-name="1905电影(外)" tvg-logo="https://live.fanmingming.com/tv/1905电影(外).png" group-title="🐼电影频道",1905电影(外)
+http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="🐼电影频道",莲花卫视
+http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐼电影频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$移动 | 回看
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="🐼电影频道",重温经典
-http://117.114.153.18:8180/TV00000000000000000007@HHZT
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🐼电影频道",星空卫视
-http://117.114.153.18:8180/TV00000000000000000071@HHZT
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🐼电影频道",凤凰资讯
-http://117.114.153.18:8180/TV00000000000000000068@HHZT
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🐼电影频道",凤凰中文
-http://117.114.153.18:8180/TV00000000000000000069@HHZT
+#EXTINF:-1 tvg-id="星光综合台" tvg-name="星光综合台" tvg-logo="https://live.fanmingming.com/tv/星光综合台.png" group-title="🐼电影频道",星光综合台
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://live.fanmingming.com/tv/金马影院.png" group-title="🐼电影频道",金马影院
+http://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="🐼电影频道",北京影视
+http://117.114.153.18:8180/TV00000000000000000022@HHZT
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="🐼电影频道",凤凰电影
 http://117.114.153.18:8180/TV00000000000000000072@HHZT
+#EXTINF:-1 tvg-id="HBO(美)" tvg-name="HBO(美)" tvg-logo="https://live.fanmingming.com/tv/HBO(美).png" group-title="🐼电影频道",HBO(美)
+http://117.114.153.18:8180/TV00000000000000000074@HHZT
 #EXTINF:-1 tvg-id="STARmovies" tvg-name="STARmovies" tvg-logo="https://live.fanmingming.com/tv/STARmovies.png" group-title="🐼电影频道",STARmovies
 http://117.114.153.18:8180/TV00000000000000000075@HHZT
 #EXTINF:-1 tvg-id="axn电影" tvg-name="axn电影" tvg-logo="https://live.fanmingming.com/tv/axn电影.png" group-title="🐼电影频道",axn电影
 http://117.114.153.18:8180/TV00000000000000000076@HHZT
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🐼电影频道",CHC影迷电影
+http://117.114.153.18:8180/TV00000000000000000092@HHZT
 #EXTINF:-1 tvg-id="CINEMAX电影" tvg-name="CINEMAX电影" tvg-logo="https://live.fanmingming.com/tv/CINEMAX电影.png" group-title="🐼电影频道",CINEMAX电影
 http://117.114.153.18:8180/TV00000000000000000109@HHZT
-#EXTINF:-1 tvg-id="HBO（美）" tvg-name="HBO（美）" tvg-logo="https://live.fanmingming.com/tv/HBO（美）.png" group-title="🐼电影频道",HBO（美）
-http://117.114.153.18:8180/TV00000000000000000074@HHZT
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘电影.png" group-title="🐼电影频道",北京IPTV淘电影
-http://webmail.axxe.top:4022/udp/239.3.1.250:8001$北京联通组播
-#EXTINF:-1 tvg-id="经典影视台1" tvg-name="经典影视台1" tvg-logo="https://live.fanmingming.com/tv/经典影视台1.png" group-title="🐼电影频道",经典影视台1
-http://ali.hlspull.yximgs.com/live/asdfg32516.flv
-#EXTINF:-1 tvg-id="经典影视台2" tvg-name="经典影视台2" tvg-logo="https://live.fanmingming.com/tv/经典影视台2.png" group-title="🐼电影频道",经典影视台2
-http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-#EXTINF:-1 tvg-id="星光视界" tvg-name="星光视界" tvg-logo="https://live.fanmingming.com/tv/星光视界.png" group-title="🐼电影频道",星光视界
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://live.fanmingming.com/tv/金马影院.png" group-title="🐼电影频道",金马影院
-http://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="🐼电影频道",莲花卫视
-http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🐼电影频道",CHC影迷电影
+http://117.114.153.18:8180/TV00000000000000000195@HHZT
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="🐼电影频道",邵氏影院
 http://lxajh.top/tv/douyu.php?id=4246519
 #EXTINF:-1 tvg-id="刘德华电影" tvg-name="刘德华电影" tvg-logo="https://live.fanmingming.com/tv/刘德华电影.png" group-title="🐼电影频道",刘德华电影
@@ -5141,144 +5133,6 @@ mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a$MITV
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="🐼电影频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://live.fanmingming.com/tv/BesTV.png" group-title="🐼电影频道",BesTV
-http://118.114.168.57:8888/udp/239.93.0.151:5140$$成都电信组播
-#EXTINF:-1 tvg-id="BesTV剧集" tvg-name="BesTV剧集" tvg-logo="https://live.fanmingming.com/tv/BesTV剧集.png" group-title="🐼电影频道",BesTV剧集
-http://118.114.168.57:8888/udp/239.93.42.91:5140$$成都电信组播
-#EXTINF:-1 tvg-id="BesTV电影" tvg-name="BesTV电影" tvg-logo="https://live.fanmingming.com/tv/BesTV电影.png" group-title="🐼电影频道",BesTV电影
-http://118.114.168.57:8888/udp/239.93.0.105:5140$$成都电信组
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://live.fanmingming.com/tv/BesTV.png" group-title="🐼电影频道",BesTV
-http://118.122.103.228:4022/udp/239.93.0.151:5140$四川成都电信
-#EXTINF:-1 tvg-id="BesTV剧集" tvg-name="BesTV剧集" tvg-logo="https://live.fanmingming.com/tv/BesTV剧集.png" group-title="🐼电影频道",BesTV剧集
-http://118.122.103.228:4022/udp/239.93.42.91:5140$四川成都电信
-#EXTINF:-1 tvg-id="BesTV电影" tvg-name="BesTV电影" tvg-logo="https://live.fanmingming.com/tv/BesTV电影.png" group-title="🐼电影频道",BesTV电影
-http://118.122.103.228:4022/udp/239.93.0.105:5140$四川成都电信
-#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="🐼电影频道",爱怀旧
-http:/iptv.028028.xyz:8/udp/239.93.42.21:5140\
-#EXTINF:-1 tvg-id="爱记录" tvg-name="爱记录" tvg-logo="https://live.fanmingming.com/tv/爱记录.png" group-title="🐼电影频道",爱记录
-http://iptv.028028.xyz:8/udp/239.93.42.13:5140$锦江电信组播
-#EXTINF:-1 tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="🐼电影频道",爱美食
-http://iptv.028028.xyz:8/udp/239.93.42.16:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/iHOT爱悬疑.png" group-title="🐼电影频道",iHOT爱悬疑
-http://iptv.028028.xyz:8/udp/239.93.42.12:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/iHOT爱谍战.png" group-title="🐼电影频道",iHOT爱谍战
-http://iptv.028028.xyz:8/udp/239.93.42.14:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/iHOT爱动漫.png" group-title="🐼电影频道",iHOT爱动漫
-http://iptv.028028.xyz:8/udp/239.93.42.23:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/iHOT爱科幻.png" group-title="🐼电影频道",iHOT爱科幻
-http://iptv.028028.xyz:8/udp/239.93.42.10:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/iHOT爱奇谈.png" group-title="🐼电影频道",iHOT爱奇谈
-http://iptv.028028.xyz:8/udp/239.93.42.22:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/iHOT爱喜剧.png" group-title="🐼电影频道",iHOT爱喜剧
-http://iptv.028028.xyz:8/udp/239.93.42.9:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/iHOT爱幼教.png" group-title="🐼电影频道",iHOT爱幼教
-http://iptv.028028.xyz:8/udp/239.93.42.17:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/iHOT爱院线.png" group-title="🐼电影频道",iHOT爱院线
-http://iptv.028028.xyz:8/udp/239.93.42.11:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/iHOT爱赛车.png" group-title="🐼电影频道",iHOT爱赛车
-http://iptv.028028.xyz:8/udp/239.93.42.20:5140$锦江电信组播
-#EXTINF:-1 tvg-id="iHOT爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/iHOT爱玩具.png" group-title="🐼电影频道",iHOT爱玩具
-http://iptv.028028.xyz:8/udp/239.93.42.18:5140$锦江电信组播
-#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="🐼电影频道",爱怀旧
-http://118.114.168.57:8888/udp/239.93.42.21:5140$成都电信组播
-#EXTINF:-1 tvg-id="爱记录" tvg-name="爱记录" tvg-logo="https://live.fanmingming.com/tv/爱记录.png" group-title="🐼电影频道",爱记录
-http://118.114.168.57:8888/udp/239.93.42.13:5140$成都电信组播
-#EXTINF:-1 tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="🐼电影频道",爱美食
-http://118.114.168.57:8888/udp/239.93.42.16:5140$成都电信组播
-#EXTINF:-1 tvg-id="HKOT爱喜剧" tvg-name="HKOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/HKOT爱喜剧.png" group-title="🐼电影频道",HKOT爱喜剧
-http://118.114.168.57:8888/udp/239.93.42.9:5140$成都电信组播
-#EXTINF:-1 tvg-id="IKOT爱奇谈" tvg-name="IKOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IKOT爱奇谈.png" group-title="🐼电影频道",IKOT爱奇谈
-http://118.114.168.57:8888/udp/239.93.42.22:5140$成都电信组播
-#EXTINF:-1 tvg-id="IKOT爱悬疑" tvg-name="IKOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IKOT爱悬疑.png" group-title="🐼电影频道",IKOT爱悬疑
-http://118.114.168.57:8888/udp/239.93.42.12:5140$成都电信组播
-#EXTINF:-1 tvg-id="IKOT爱谍战" tvg-name="IKOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IKOT爱谍战.png" group-title="🐼电影频道",IKOT爱谍战
-http://118.114.168.57:8888/udp/239.93.42.14:5140$成都电信组播
-#EXTINF:-1 tvg-id="IKOT爱院线" tvg-name="IKOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IKOT爱院线.png" group-title="🐼电影频道",IKOT爱院线
-http://118.114.168.57:8888/udp/239.93.42.11:5140$成都电信组播
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="🐼电影频道",都市剧场
-http://118.114.168.57:8888/udp/239.93.42.14:5140$成都电信组播
-#EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="🐼电影频道",爱怀旧
-http://118.122.103.228:4022/udp/239.93.42.21:5140$四川成都电信
-#EXTINF:-1 tvg-id="爱记录" tvg-name="爱记录" tvg-logo="https://live.fanmingming.com/tv/爱记录.png" group-title="🐼电影频道",爱记录
-http://118.122.103.228:4022/udp/239.93.42.13:5140$四川成都电信
-#EXTINF:-1 tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="🐼电影频道",爱美食
-http://118.122.103.228:4022/udp/239.93.42.16:5140$四川成都电信
-#EXTINF:-1 tvg-id="HKOT爱喜剧" tvg-name="HKOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/HKOT爱喜剧.png" group-title="🐼电影频道",HKOT爱喜剧
-http://118.122.103.228:4022/udp/239.93.42.9:5140$四川成都电信
-#EXTINF:-1 tvg-id="IKOT爱奇谈" tvg-name="IKOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IKOT爱奇谈.png" group-title="🐼电影频道",IKOT爱奇谈
-http://118.122.103.228:4022/udp/239.93.42.22:5140$四川成都电信
-#EXTINF:-1 tvg-id="IKOT爱悬疑" tvg-name="IKOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IKOT爱悬疑.png" group-title="🐼电影频道",IKOT爱悬疑
-http://118.122.103.228:4022/udp/239.93.42.12:5140$四川成都电信
-#EXTINF:-1 tvg-id="IKOT爱谍战" tvg-name="IKOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IKOT爱谍战.png" group-title="🐼电影频道",IKOT爱谍战
-http://118.122.103.228:4022/udp/239.93.42.14:5140$四川成都电信
-#EXTINF:-1 tvg-id="IKOT爱院线" tvg-name="IKOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IKOT爱院线.png" group-title="🐼电影频道",IKOT爱院线
-http://118.122.103.228:4022/udp/239.93.42.11:5140$四川成都电信
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="🐼电影频道",都市剧场
-http://118.122.103.228:4022/udp/239.93.42.14:5140$四川成都电信
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://live.fanmingming.com/tv/东北热剧.png" group-title="🐼电影频道",东北热剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="🐼电影频道",古装剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="🐼电影频道",惊悚悬疑
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png" group-title="🐼电影频道",欢乐剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png" group-title="🐼电影频道",爱情喜剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="🐼电影频道",军旅剧场
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="🐼电影频道",动作电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="🐼电影频道",精品大剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://live.fanmingming.com/tv/精品记录.png" group-title="🐼电影频道",精品记录
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐼电影频道",超级电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png" group-title="🐼电影频道",超级电视剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐼电影频道",黑莓电影
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐼电影频道",黑莓电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$海南移动V6
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="🐼电影频道",动作电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="🐼电影频道",古装剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="宏伟巨献" tvg-name="宏伟巨献" tvg-logo="https://live.fanmingming.com/tv/宏伟巨献.png" group-title="🐼电影频道",宏伟巨献
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="🐼电影频道",惊悚悬疑
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="爱情剧场" tvg-name="爱情剧场" tvg-logo="https://live.fanmingming.com/tv/爱情剧场.png" group-title="🐼电影频道",爱情剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="🐼电影频道",精品大剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="我看电影" tvg-name="我看电影" tvg-logo="https://live.fanmingming.com/tv/我看电影.png" group-title="🐼电影频道",我看电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="🐼电影频道",军旅剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="🐼电影频道",家庭剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐼电影频道",超级电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png" group-title="🐼电影频道",超级电视剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://live.fanmingming.com/tv/东北热剧.png" group-title="🐼电影频道",东北热剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png" group-title="🐼电影频道",欢乐剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐼电影频道",黑莓电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
-#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品" tvg-logo="https://live.fanmingming.com/tv/长城精品.png" group-title="🐼电影频道",长城精品
-http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="🐼电影频道",精彩影视
-http://www.8700956.top:18888/rtp/239.81.0.152:4056$广西钦州电信
-#EXTINF:-1 tvg-id="韩国电影1" tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.com/tv/韩国电影1.png" group-title="🐼电影频道",韩国电影1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 tvg-id="韩国电影2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/韩国电影2.png" group-title="🐼电影频道",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-id="私人影院" tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png" group-title="🐼电影频道",私人影院
-mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 #EXTINF:-1 tvg-id="科幻电影" tvg-name="科幻电影" tvg-logo="https://live.fanmingming.com/tv/科幻电影.png" group-title="🐼电影频道",科幻电影
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🐼电影频道",CHC影迷电影
