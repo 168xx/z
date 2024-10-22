@@ -33,7 +33,7 @@ jobs:
         # 酷九源
         rm -f v4/KJ.m3u && touch v4/KJ.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV.m3u && sed -i -n '/仅供学习使用/,+1p' CNTV.m3u
-        wget https://raw.githubusercontent.com/168xx/lm/refs/heads/main/lv/live.m3u -O CNTV0.m3u && sed -i -n '/咪咕频道/,+1p' CNTV0.m3u
+        wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/migu.m3u -O CNTV0.m3u && sed -i -n '/咪咕频道/,+1p' CNTV0.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV1.m3u && sed -i -n '/中央电视/,+1p' CNTV1.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV2.m3u && sed -i -n '/全国卫视/,+1p' CNTV2.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/kjv4.m3u -O CNTV3.m3u && sed -i -n '/数字电视/,+1p' CNTV3.m3u
@@ -60,13 +60,15 @@ jobs:
 
         # 电影源
         rm -f v4/DY.m3u && touch v4/DY.m3u
-        wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/wkv4.m3u -O DYTV1.m3u && sed -i -n '/YY轮播频道/,+1p' DYTV1.m3u
+        wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/wkv4.m3u -O DYTV0.m3u && sed -i -n '/NewTV频道/,+1p' DYTV0.m3u
+        wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/wkv4.m3u -O DYTV1.m3u && sed -i -n '/iHOT频道/,+1p' DYTV1.m3u
         wget https://raw.githubusercontent.com/168xx/z/refs/heads/main/vv/v4.m3u -O DYTV2.m3u && sed -i -n '/明星频道/,+1p' DYTV2.m3u
         wget https://raw.githubusercontent.com/360vip/v4/refs/heads/main/tv/v4.m3u -O DYTV3.m3u && sed -i -n '/主题频道/,+1p' DYTV3.m3u
         wget https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u -O DYTV4.m3u && sed -i -n '/咪咕直播/,+1p' DYTV4.m3u
         wget https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u -O DYTV5.m3u && sed -i -n '/湖北频道/,+1p' DYTV5.m3u
         wget https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u -O DYTV6.m3u && sed -i -n '/专享源/,+1p' DYTV6.m3u
         wget https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u -O DYTV7.m3u && sed -i -n '/明星/,+1p' DYTV7.m3u
+        cat DYTV0.m3u >> v4/DY.m3u
         cat DYTV1.m3u >> v4/DY.m3u
         cat DYTV2.m3u >> v4/DY.m3u
         cat DYTV3.m3u >> v4/DY.m3u
@@ -74,7 +76,7 @@ jobs:
         cat DYTV5.m3u >> v4/DY.m3u
         cat DYTV6.m3u >> v4/DY.m3u
         cat DYTV7.m3u >> v4/DY.m3u
-        rm -f DYTV1.m3u DYTV2.m3u DYTV3.m3u DYTV4.m3u DYTV5.m3u DYTV6.m3u DYTV7.m3u
+        rm -f DYTV0.m3u DYTV1.m3u DYTV2.m3u DYTV3.m3u DYTV4.m3u DYTV5.m3u DYTV6.m3u DYTV7.m3u
         sed -i '1i #EXTM3U' v4/DY.m3u
         sed -i '/^\s*$/d' v4/DY.m3u
 

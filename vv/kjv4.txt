@@ -5,38 +5,22 @@
 拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 如已付费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2024-10-18,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行333天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+更新2024-10-22,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+已运行337天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
 翡翠台,https://test.ttvb.eu.org/stream/tvb/null/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 无线新闻台,https://test.ttvb.eu.org/stream/tvb/null-1/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 美亚电影台,https://test.ttvb.eu.org/stream/tvb/null-2/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+天映电影,https://astro.ttvb.eu.org/stream/astro/qzpnbg1y/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+天映电影,https://astro.ttvb.eu.org/stream/astro/iejgl7gb/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 
 🐼中央电视,#genre#
-
-CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8
-CCTV2财经,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8
-CCTV3综艺,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8
-CCTV4中文国际,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8
-CCTV5体育,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8
-CCTV5+体育赛事,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
-CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方频道
-CCTV6电影,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8
-CCTV7国防军事,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8
-CCTV8电视剧,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8
-CCTV9纪录,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8
-CCTV10科教,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8
-CCTV11戏曲,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8
-CCTV12社会与法,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8
-CCTV13新闻,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8
-CCTV14少儿,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8
-CCTV15音乐,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8
-CCTV16奥林匹克,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8
-CCTV17农业农村,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8
 
 CCTV1综合,http://8.138.7.223/tv/migu.php?id=cctv1$咪咕直播
 CCTV2财经,http://8.138.7.223/tv/migu.php?id=cctv2$咪咕直播
@@ -57,6 +41,44 @@ CCTV13新闻,http://8.138.7.223/tv/migu.php?id=cctv13$咪咕直播
 CCTV14少儿,http://8.138.7.223/tv/migu.php?id=cctv14$咪咕直播
 CCTV15音乐,http://8.138.7.223/tv/migu.php?id=cctv15$咪咕直播
 CCTV17农业农村,http://8.138.7.223/tv/migu.php?id=cctv17$咪咕直播
+
+CCTV1综合,http://8.138.7.223/tv/gitv.php?id=1$银河电视
+CCTV2财经,http://8.138.7.223/tv/gitv.php?id=2$银河电视
+CCTV3综艺,http://8.138.7.223/tv/gitv.php?id=3$银河电视
+CCTV4中文国际,http://8.138.7.223/tv/gitv.php?id=4$银河电视
+CCTV4美洲,http://8.138.7.223/tv/cctv4m.m3u8
+CCTV5体育,http://8.138.7.223/tv/gitv.php?id=5$银河电视
+CCTV5+体育赛事,http://8.138.7.223/tv/gitv.php?id=6$银河电视
+CCTV6电影,http://8.138.7.223/tv/gitv.php?id=7$银河电视
+CCTV7国防军事,http://8.138.7.223/tv/gitv.php?id=8$银河电视
+CCTV8电视剧,http://8.138.7.223/tv/gitv.php?id=9$银河电视
+CCTV9纪录,http://8.138.7.223/tv/gitv.php?id=10$银河电视
+CCTV10科教,http://8.138.7.223/tv/gitv.php?id=11$银河电视
+CCTV11戏曲,http://8.138.7.223/tv/gitv.php?id=12$银河电视
+CCTV12社会与法,http://8.138.7.223/tv/gitv.php?id=13$银河电视
+CCTV13新闻,http://8.138.7.223/tv/gitv.php?id=14$银河电视
+CCTV14少儿,http://8.138.7.223/tv/gitv.php?id=15$银河电视
+CCTV15音乐,http://8.138.7.223/tv/gitv.php?id=16$银河电视
+
+CCTV1综合,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8$北京阿里云
+CCTV2财经,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$北京阿里云
+CCTV3综艺,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8$北京阿里云
+CCTV4中文国际,http://beijinglive.online.domybox.com:91/live/CCTV4hd-8M/live.m3u8$北京阿里云
+CCTV5体育,http://beijinglive.online.domybox.com:91/live/CCTV5hd-8M/live.m3u8$北京阿里云
+CCTV5+体育赛事,http://beijinglive.online.domybox.com:91/live/CCTV5+hd-8M/live.m3u8$北京阿里云
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方频道
+CCTV6电影,http://beijinglive.online.domybox.com:91/live/CCTV6hd-8M/live.m3u8$北京阿里云
+CCTV7国防军事,http://beijinglive.online.domybox.com:91/live/CCTV7hd-8M/live.m3u8$北京阿里云
+CCTV8电视剧,http://beijinglive.online.domybox.com:91/live/CCTV8hd-8M/live.m3u8$北京阿里云
+CCTV9纪录,http://beijinglive.online.domybox.com:91/live/CCTV9hd-8M/live.m3u8$北京阿里云
+CCTV10科教,http://beijinglive.online.domybox.com:91/live/CCTV10hd-8M/live.m3u8$北京阿里云
+CCTV11戏曲,http://beijinglive.online.domybox.com:91/live/CCTV11hd-8M/live.m3u8$北京阿里云
+CCTV12社会与法,http://beijinglive.online.domybox.com:91/live/CCTV12hd-8M/live.m3u8$北京阿里云
+CCTV13新闻,http://beijinglive.online.domybox.com:91/live/CCTV13hd-8M/live.m3u8$北京阿里云
+CCTV14少儿,http://beijinglive.online.domybox.com:91/live/CCTV14hd-8M/live.m3u8$北京阿里云
+CCTV15音乐,http://beijinglive.online.domybox.com:91/live/CCTV15hd-8M/live.m3u8$北京阿里云
+CCTV16奥林匹克,http://beijinglive.online.domybox.com:91/live/CCTV16hd-8M/live.m3u8$北京阿里云
+CCTV17农业农村,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8$北京阿里云
 
 CCTV1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$移动 | 回看
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 | 回看
@@ -108,115 +130,30 @@ CCTV15音乐,http://183.207.248.71/PLTV/3/224/3221227723/1.m3u8$南京移动
 CCTV16奥林匹克,http://183.207.248.71/PLTV/3/224/3221228112/1.m3u8$南京移动
 CCTV17农业农村,http://183.207.248.71/PLTV/3/224/3221227578/1.m3u8$南京移动
 
-CCTV1综合,http://tvbox6.com/tv/bfgd.php?id=488$北方广电
-CCTV2财经,http://tvbox6.com/tv/bfgd.php?id=061$北方广电
-CCTV3综艺,http://tvbox6.com/tv/bfgd.php?id=062$北方广电
-CCTV4中文国际,http://tvbox6.com/tv/bfgd.php?id=063$北方广电
-CCTV5体育,http://tvbox6.com/tv/bfgd.php?id=064$北方广电
-CCTV5+体育赛事,http://tvbox6.com/tv/bfgd.php?id=246$北方广电
-CCTV6电影,http://tvbox6.com/tv/bfgd.php?id=065$北方广电
-CCTV7国防军事,http://tvbox6.com/tv/bfgd.php?id=127$北方广电
-CCTV8电视剧,http://tvbox6.com/tv/bfgd.php?id=066$北方广电
-CCTV9纪录,http://tvbox6.com/tv/bfgd.php?id=128$北方广电
-CCTV10科教,http://tvbox6.com/tv/bfgd.php?id=129$北方广电
-CCTV11戏曲,http://tvbox6.com/tv/bfgd.php?id=130$北方广电
-CCTV12社会与法,http://tvbox6.com/tv/bfgd.php?id=131$北方广电
-CCTV13新闻,http://tvbox6.com/tv/bfgd.php?id=067$北方广电
-CCTV14少儿,http://tvbox6.com/tv/bfgd.php?id=132$北方广电
-CCTV15音乐,http://tvbox6.com/tv/bfgd.php?id=133$北方广电
-CCTV17农业农村,http://tvbox6.com/tv/bfgd.php?id=204$北方广电
+CCTV1综合,http://8.138.7.223/tv/bfgd.php?id=488$北方广电
+CCTV2财经,http://8.138.7.223/tv/bfgd.php?id=061$北方广电
+CCTV3综艺,http://8.138.7.223/tv/bfgd.php?id=062$北方广电
+CCTV4中文国际,http://8.138.7.223/tv/bfgd.php?id=063$北方广电
+CCTV5体育,http://8.138.7.223/tv/bfgd.php?id=064$北方广电
+CCTV5+体育赛事,http://8.138.7.223/tv/bfgd.php?id=246$北方广电
+CCTV6电影,http://8.138.7.223/tv/bfgd.php?id=065$北方广电
+CCTV7国防军事,http://8.138.7.223/tv/bfgd.php?id=127$北方广电
+CCTV8电视剧,http://8.138.7.223/tv/bfgd.php?id=066$北方广电
+CCTV9纪录,http://8.138.7.223/tv/bfgd.php?id=128$北方广电
+CCTV10科教,http://8.138.7.223/tv/bfgd.php?id=129$北方广电
+CCTV11戏曲,http://8.138.7.223/tv/bfgd.php?id=130$北方广电
+CCTV12社会与法,http://8.138.7.223/tv/bfgd.php?id=131$北方广电
+CCTV13新闻,http://8.138.7.223/tv/bfgd.php?id=067$北方广电
+CCTV14少儿,http://8.138.7.223/tv/bfgd.php?id=132$北方广电
+CCTV15音乐,http://8.138.7.223/tv/bfgd.php?id=133$北方广电
+CCTV17农业农村,http://8.138.7.223/tv/bfgd.php?id=204$北方广电
 
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=1$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=2$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=3$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=4$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=5$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=6$mgitv
-CCTV1综合,http://8.138.7.223/tv/mgitv.php?id=7$mgitv
-CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=8$mgitv
-CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=9$mgitv
-CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=10$mgitv
-CCTV2财经,http://8.138.7.223/tv/mgitv.php?id=11$mgitv
-CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=12$mgitv
-CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=13$mgitv
-CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=14$mgitv
-CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=15$mgitv
-CCTV3综艺,http://8.138.7.223/tv/mgitv.php?id=16$mgitv
-CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=17$mgitv
-CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=18$mgitv
-CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=19$mgitv
-CCTV4中文国际,http://8.138.7.223/tv/mgitv.php?id=20$mgitv
-CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=21$mgitv
-CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=22$mgitv
-CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=23$mgitv
-CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=24$mgitv
-CCTV5体育,http://8.138.7.223/tv/mgitv.php?id=25$mgitv
-CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=26$mgitv
-CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=27$mgitv
-CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=28$mgitv
-CCTV5+体育赛事,http://8.138.7.223/tv/mgitv.php?id=29$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=30$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=31$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=32$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=33$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=34$mgitv
-CCTV6电影,http://8.138.7.223/tv/mgitv.php?id=35$mgitv
-CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=36$mgitv
-CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=37$mgitv
-CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=38$mgitv
-CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=39$mgitv
-CCTV7国防军事,http://8.138.7.223/tv/mgitv.php?id=40$mgitv
-CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=41$mgitv
-CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=42$mgitv
-CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=43$mgitv
-CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=44$mgitv
-CCTV8电视剧,http://8.138.7.223/tv/mgitv.php?id=45$mgitv
-CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=46$mgitv
-CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=47$mgitv
-CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=48$mgitv
-CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=49$mgitv
-CCTV9纪录,http://8.138.7.223/tv/mgitv.php?id=50$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=51$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=52$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=53$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=54$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=55$mgitv
-CCTV10科教,http://8.138.7.223/tv/mgitv.php?id=56$mgitv
-CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=57$mgitv
-CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=58$mgitv
-CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=59$mgitv
-CCTV11戏曲,http://8.138.7.223/tv/mgitv.php?id=60$mgitv
-CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=61$mgitv
-CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=62$mgitv
-CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=63$mgitv
-CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=64$mgitv
-CCTV12社会与法,http://8.138.7.223/tv/mgitv.php?id=65$mgitv
-CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=66$mgitv
-CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=67$mgitv
-CCTV13新闻,http://8.138.7.223/tv/mgitv.php?id=68$mgitv
-CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=69$mgitv
-CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=70$mgitv
-CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=71$mgitv
-CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=72$mgitv
-CCTV14少儿,http://8.138.7.223/tv/mgitv.php?id=73$mgitv
-CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=74$mgitv
-CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=75$mgitv
-CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=76$mgitv
-CCTV15音乐,http://8.138.7.223/tv/mgitv.php?id=77$mgitv
-CCTV16奥林匹克,http://8.138.7.223/tv/mgitv.php?id=78$mgitv
-CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=79$mgitv
-CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=80$mgitv
-CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=81$mgitv
-CCTV17农业农村,http://8.138.7.223/tv/mgitv.php?id=82$mgitv
+
 //中国教育电视台
-
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$移动 | 回看
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$移动 | 回看
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$移动 | 回看
 CETV1,http://8.138.7.223/tv/cetv1.m3u8$央视频
-CETV1,http://8.138.7.223/tv/sdu.php?id=51$山东大学
-CETV3,http://8.138.7.223/tv/sdu.php?id=52$山东大学
-CETV4,http://8.138.7.223/tv/sdu.php?id=53$山东大学
 CETV1,http://8.138.7.223/tv/zb/bjcucc.php?id=27$北京联通组播
 CETV2,http://8.138.7.223/tv/zb/bjcucc.php?id=28$北京联通组播
 CETV3,http://8.138.7.223/tv/zb/bjcucc.php?id=29$北京联通组播
@@ -228,44 +165,6 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031126/index
 CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 🐼全国卫视,#genre#
-
-北京卫视,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8
-东方卫视,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8
-天津卫视,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8
-重庆卫视,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8
-黑龙江卫视,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8
-吉林卫视,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8
-辽宁卫视,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8
-河北卫视,http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8
-山东卫视,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8
-安徽卫视,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8
-河南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
-湖北卫视,http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8
-湖南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8
-江西卫视,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8
-江苏卫视,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8
-浙江卫视,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8
-东南卫视,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8
-广东卫视,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8
-深圳卫视,http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8
-贵州卫视,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8
-广西卫视,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8
-云南卫视,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8
-四川卫视,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8
-新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8
-兵团卫视,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8
-西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8
-海南卫视,http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8
-三沙卫视,http://beijinglive.online.domybox.com:91/live/SSWS-1500k/live.m3u8
-农林卫视,http://beijinglive.online.domybox.com:91/live/NLWS-1500k/live.m3u8
-大湾区卫视,http://beijinglive.online.domybox.com:91/live/NFWS-1500k/live.m3u8
-内蒙古卫视,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8
-厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8
-宁夏卫视,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8
-甘肃卫视,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8
-青海卫视,http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8
-山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8
-陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8
 
 东方卫视,http://8.138.7.223/tv/migu.php?id=dfws$咪咕直播
 吉林卫视,http://8.138.7.223/tv/migu.php?id=jlws$咪咕直播
@@ -288,6 +187,68 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 新疆卫视,http://8.138.7.223/tv/migu.php?id=xjws$咪咕直播
 西藏卫视,http://8.138.7.223/tv/migu.php?id=xzws$咪咕直播
 海南卫视,http://8.138.7.223/tv/migu.php?id=hinws$咪咕直播
+
+安徽卫视,http://8.138.7.223/tv/gitv.php?id=17$银河电视
+北京卫视,http://8.138.7.223/tv/gitv.php?id=18$银河电视
+重庆卫视,http://8.138.7.223/tv/gitv.php?id=19$银河电视
+东方卫视,http://8.138.7.223/tv/gitv.php?id=20$银河电视
+东南卫视,http://8.138.7.223/tv/gitv.php?id=21$银河电视
+广东卫视,http://8.138.7.223/tv/gitv.php?id=22$银河电视
+贵州卫视,http://8.138.7.223/tv/gitv.php?id=23$银河电视
+河北卫视,http://8.138.7.223/tv/gitv.php?id=24$银河电视
+黑龙江卫视,http://8.138.7.223/tv/gitv.php?id=25$银河电视
+湖北卫视,http://8.138.7.223/tv/gitv.php?id=26$银河电视
+湖南卫视,http://8.138.7.223/tv/gitv.php?id=27$银河电视
+吉林卫视,http://8.138.7.223/tv/gitv.php?id=28$银河电视
+江苏卫视,http://8.138.7.223/tv/gitv.php?id=29$银河电视
+江西卫视,http://8.138.7.223/tv/gitv.php?id=30$银河电视
+辽宁卫视,http://8.138.7.223/tv/gitv.php?id=31$银河电视
+山东卫视,http://8.138.7.223/tv/gitv.php?id=32$银河电视
+天津卫视,http://8.138.7.223/tv/gitv.php?id=33$银河电视
+深圳卫视,http://8.138.7.223/tv/gitv.php?id=34$银河电视
+浙江卫视,http://8.138.7.223/tv/gitv.php?id=35$银河电视
+
+大湾区卫视,http://8.138.7.223/tv/dwqws.m3u8
+云南卫视,http://8.138.7.223/tv/ynws.m3u8
+广东卫视,http://8.138.7.223/tv/gdws.m3u8
+
+北京卫视,http://beijinglive.online.domybox.com:91/live/BJWShd-8M/live.m3u8$北京阿里云
+东方卫视,http://beijinglive.online.domybox.com:91/live/DFWShd-8M/live.m3u8$北京阿里云
+天津卫视,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8$北京阿里云
+重庆卫视,http://beijinglive.online.domybox.com:91/live/CQWShd-8M/live.m3u8$北京阿里云
+黑龙江卫视,http://beijinglive.online.domybox.com:91/live/HLJWShd-8M/live.m3u8$北京阿里云
+吉林卫视,http://beijinglive.online.domybox.com:91/live/JLWShd-8M/live.m3u8$北京阿里云
+辽宁卫视,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8$北京阿里云
+河北卫视,http://beijinglive.online.domybox.com:91/live/HeBWShd-8M/live.m3u8$北京阿里云
+山东卫视,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8$北京阿里云
+安徽卫视,http://beijinglive.online.domybox.com:91/live/AHWShd-8M/live.m3u8$北京阿里云
+河南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$北京阿里云
+湖北卫视,http://beijinglive.online.domybox.com:91/live/HuBWShd-8M/live.m3u8$北京阿里云
+湖南卫视,http://beijinglive.online.domybox.com:91/live/HuNWShd-8M/live.m3u8$北京阿里云
+江西卫视,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8$北京阿里云
+江苏卫视,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8$北京阿里云
+浙江卫视,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8$北京阿里云
+东南卫视,http://beijinglive.online.domybox.com:91/live/DNWShd-8M/live.m3u8$北京阿里云
+广东卫视,http://beijinglive.online.domybox.com:91/live/GDWShd-8M/live.m3u8$北京阿里云
+深圳卫视,http://beijinglive.online.domybox.com:91/live/SZWShd-8M/live.m3u8$北京阿里云
+贵州卫视,http://beijinglive.online.domybox.com:91/live/GZWShd-8M/live.m3u8$北京阿里云
+广西卫视,http://beijinglive.online.domybox.com:91/live/GXWS-1500k/live.m3u8$北京阿里云
+云南卫视,http://beijinglive.online.domybox.com:91/live/YNWS-1500k/live.m3u8$北京阿里云
+四川卫视,http://beijinglive.online.domybox.com:91/live/SCWS-1500k/live.m3u8$北京阿里云
+新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$北京阿里云
+兵团卫视,http://beijinglive.online.domybox.com:91/live/BTWS-1500k/live.m3u8$北京阿里云
+西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8$北京阿里云
+海南卫视,http://beijinglive.online.domybox.com:91/live/LYWS-1500k/live.m3u8$北京阿里云
+三沙卫视,http://beijinglive.online.domybox.com:91/live/SSWS-1500k/live.m3u8$北京阿里云
+农林卫视,http://beijinglive.online.domybox.com:91/live/NLWS-1500k/live.m3u8$北京阿里云
+大湾区卫视,http://beijinglive.online.domybox.com:91/live/NFWS-1500k/live.m3u8$北京阿里云
+内蒙古卫视,http://beijinglive.online.domybox.com:91/live/NMGWS-1500k/live.m3u8$北京阿里云
+厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8$北京阿里云
+宁夏卫视,http://beijinglive.online.domybox.com:91/live/NXWS-1500k/live.m3u8$北京阿里云
+甘肃卫视,http://beijinglive.online.domybox.com:91/live/GSWS-1500k/live.m3u8$北京阿里云
+青海卫视,http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8$北京阿里云
+山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8$北京阿里云
+陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$北京阿里云
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
@@ -604,511 +565,32 @@ CETV4,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031126/1.m3u8?channel-id=
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&livemode=1&stbId=4&Contentid=1000000001000009082
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+
 🔥网络推流,#genre#
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-🐼广东ID28,#genre#
-//广东
-
-
-大湾区卫视,http://113.71.148.237:5555/udp/239.77.0.215:5146
-大湾区卫视,http://183.30.201.130:10002/udp/239.77.0.215:5146
-大湾区卫视,http://tv.tvbox6.icu/tv/dwqws.m3u8
-广东新闻,http://tv.tvbox6.icu/tv/iptv2.php?id=35
-嘉佳卡通,http://tv.tvbox6.icu/tv/iptv2.php?id=36
-广东卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=37
-广东体育,http://tv.tvbox6.icu/tv/iptv2.php?id=38
-广东珠江,http://tv.tvbox6.icu/tv/iptv2.php?id=39
-广东经济科教,http://tv.tvbox6.icu/tv/iptv2.php?id=40
-广东少儿,http://tv.tvbox6.icu/tv/iptv2.php?id=41
-广东影视,http://tv.tvbox6.icu/tv/iptv2.php?id=42
-大湾区卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=43
-广东公共,http://tv.tvbox6.icu/tv/iptv2.php?id=44
-岭南戏曲,http://tv.tvbox6.icu/tv/iptv2.php?id=6
-广东移动,http://183.11.239.36:808/hls/14/index.m3u8
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
-广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
-岭南戏曲,http://183.11.239.36:808/hls/16/index.m3u8
-经济科教,http://183.11.239.36:808/hls/4/index.m3u8
-广东影视,http://183.11.239.36:808/hls/6/index.m3u8
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
-广东综艺,http://183.11.239.36:808/hls/9/index.m3u8$4K高清
-广东公共,http://183.11.239.36:808/hls/1/index.m3u8
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
-广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8
-广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8
-
-广东卫视高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=8
-广东珠江高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=9
-广东新闻高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=10
-广东公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=11
-广东体育高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=12
-广东经济高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=13
-广东南方高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=14
-广东影视高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=15
-广东少儿高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=16
-现代教育,http://tv.tvbox6.icu/tv/gdmzyd.php?id=102
-
-//01广州
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
-广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
-广州南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-广州南国都市4K,http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-广州综合高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=17
-广州新闻高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=18
-
-//02深圳
-深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
-深圳电视剧,http://183.11.239.36:808/hls/141/index.m3u8
-深圳财经生活,http://183.11.239.36:808/hls/151/index.m3u8
-深圳娱乐,http://183.11.239.36:808/hls/155/index.m3u8
-深圳公共,http://183.11.239.36:808/hls/156/index.m3u8
-深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
-深圳体育健康,http://183.11.239.36:808/hls/158/index.m3u8
-深圳卫视,http://61.141.202.118:9901/tsfile/live/0126_1.m3u8
-深圳都市,http://61.141.202.118:9901/tsfile/live/0126_2.m3u8
-深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8
-深圳电视剧,http://jxtv3.gdsz.eu.org:8081/hls/18/index.m3u8
-深圳都市,http://jxtv3.gdsz.eu.org:8081/hls/68/index.m3u8
-深圳电视剧,http://jxtv3.gdsz.eu.org:8081/hls/69/index.m3u8
-深圳体育健康,http://jxtv3.gdsz.eu.org:8081/hls/70/index.m3u8
-深圳电视剧,http://jxtv3.gdsz.eu.org:8081/hls/141/index.m3u8
-深圳体育健康,ttp://jxtv3.gdsz.eu.org:8081/hls/142/index.m3u8
-
-//03珠海
-潮州综合,http://tv.tvbox6.icu/tv/iptv2.php?id=1
-潮州公共,http://tv.tvbox6.icu/tv/iptv2.php?id=2
-
-//04汕头
-汕头综合,http://113.92.165.182:60000/udp/239.77.1.130:5146
-汕头综合,http://113.92.165.182:60000/udp/239.253.43.45:5146
-汕头经济生活,http://113.92.165.182:60000/udp/239.77.1.131:5146
-汕头经济生活,http://113.92.165.182:60000/udp/239.253.43.46:5146
-汕头文旅体育,http://113.92.165.182:60000/udp/239.77.1.132:5146
-汕头文旅体育,http://113.92.165.182:60000/udp/239.253.43.47:5146
-汕头综合,http://tv.tvbox6.icu/tv/iptv2.php?id=3
-汕头经济生活,http://tv.tvbox6.icu/tv/iptv2.php?id=4
-汕头文旅体育,http://tv.tvbox6.icu/tv/iptv2.php?id=5
-汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
-汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
-汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
-汕头综合,http://120.234.5.28:6000/udp/239.21.0.101:3744
-汕头经济生活,http://120.234.5.28:6000/udp/239.21.0.102:3748
-汕头文旅体育,http://120.234.5.28:6000/udp/239.21.0.103:3752
-汕头综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=115
-汕头经济生活,http://tv.tvbox6.icu/tv/gdmzyd.php?id=116
-汕头文旅体育,http://tv.tvbox6.icu/tv/gdmzyd.php?id=117
-
-//05佛山
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-
-//06韶关
-深圳卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=45
-深圳都市,http://tv.tvbox6.icu/tv/iptv2.php?id=46
-深圳电视剧,http://tv.tvbox6.icu/tv/iptv2.php?id=47
-深圳体育,http://tv.tvbox6.icu/tv/iptv2.php?id=48
-深圳公共,http://tv.tvbox6.icu/tv/iptv2.php?id=49
-深圳娱乐,http://tv.tvbox6.icu/tv/iptv2.php?id=50
-深圳少儿,http://tv.tvbox6.icu/tv/iptv2.php?id=51
-
-//07河源
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源综合,http://120.234.5.28:6000/udp/239.21.0.48:3532
-河源公共,http://120.234.5.28:6000/udp/239.21.0.49:3536
-河源新闻综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=108
-河源公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=63
-
-//08梅州
-梅州综合,http://1b6467f415.iok.la:9931/tsfile/live/1003_1.m3u8
-梅州综合,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv1.m3u8
-梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv2.m3u8
-五华1高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=84
-梅县综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=85
-梅州1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=86
-梅州2,http://tv.tvbox6.icu/tv/gdmzyd.php?id=87
-蕉岭综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=88
-优优宝贝,http://tv.tvbox6.icu/tv/gdmzyd.php?id=89
-平远综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=90
-丰顺综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=91
-DBTV-1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=92
-梅州导视,http://tv.tvbox6.icu/tv/gdmzyd.php?id=93
-
-//09惠州
-惠州综合,http://120.234.5.28:6000/udp/239.21.0.27:3448
-惠州公共,http://120.234.5.28:6000/udp/239.21.0.28:3452
-惠州综合高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=101
-惠州公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=103
-
-//10汕尾
-汕尾综合,http://120.234.5.28:6000/udp/239.21.0.89:3696
-汕尾生活,http://120.234.5.28:6000/udp/239.21.0.90:3700
-
-//11东莞
-东莞综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-东莞综合,http://120.234.5.28:6000/udp/239.21.0.137:3892
-东莞资讯资讯,http://120.234.5.28:6000/udp/239.21.0.138:3896
-//12中山
-
-//13江门
-
-//14阳江
-
-//15湛江
-
-//16茂名
-
-//17肇庆
-
-//18清远
-
-//19潮州（湘桥区、潮安区、饶平县）
-潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
-潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-潮州公共,http://tv.tvbox6.icu/tv/gdmzyd.php?id=120
-潮州综合,http://211.97.63.3:801/hls/503/index.m3u8
-潮安区,http://tv.tvbox6.icu/tv/iptv2.php?id=9
-饶平县,http://tv.tvbox6.icu/tv/iptv2.php?id=10
-
-//20揭阳
-揭阳公共,http://tv.tvbox6.icu/tv/iptv2.php?id=7
-揭阳综合,http://tv.tvbox6.icu/tv/iptv2.php?id=8
-揭阳综合,http://120.234.5.28:6000/udp/239.21.0.91:3704
-揭阳生活,http://120.234.5.28:6000/udp/239.21.0.92:3708
-揭西综合频道,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
-揭西综合频道,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
-揭阳综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=118
-揭阳公共,http://tv.tvbox6.icu/tv/gdmzyd.php?id=119
-
-//21云浮
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
-
-//高清组播 
-电影测试-4K,http://120.234.5.28:6000/udp/239.21.0.129:3860
-南国都市-4K,http://120.234.5.28:6000/udp/239.21.0.132:3872
-广东综艺-4K1,http://120.234.5.28:6000/udp/239.20.0.59:3164
-广东综艺-4K2,http://120.234.5.28:6000/udp/239.20.0.60:3160
-广东综艺-4K3,http://120.234.5.28:6000/udp/239.20.0.61:3156
-广东综艺-4K4,http://120.234.5.28:6000/udp/239.20.0.62:3152
-广东卫视1080P,http://120.234.5.28:6000/udp/239.20.0.101:2000
-广东珠江1080P,http://120.234.5.28:6000/udp/239.20.0.64:3144
-大湾区卫视1080P,http://120.234.5.28:6000/udp/239.21.0.84:3676
-广东影视1080P,http://120.234.5.28:6000/udp/239.21.0.85:3680
-广东公共1080P,http://120.234.5.28:6000/udp/239.21.0.86:3684
-广东少儿1080P,http://120.234.5.28:6000/udp/239.21.0.87:3688
-嘉佳卡通1080P,http://120.234.5.28:6000/udp/239.21.0.94:3716
-广东新闻1080P,http://120.234.5.28:6000/udp/239.21.0.93:3712
-广东科教1080P,http://120.234.5.28:6000/udp/239.20.0.102:2002
-广东体育1080P,http://120.234.5.28:6000/udp/239.20.0.103:2004
-
-山歌台高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=106
-广场舞,http://tv.tvbox6.icu/tv/gdmzyd.php?id=107
-
-广东卫视高清,http://113.65.94.97:10000/udp/239.77.1.19:5146
-广东卫视高清,http://113.65.94.97:10000/udp/239.77.1.152:5146
-广东卫视高清,http://113.65.94.97:10000/udp/239.77.0.84:5146
-广东卫视超清,http://113.65.94.97:10000/udp/239.77.0.166:5146
-广东珠江高清,http://113.65.94.97:10000/udp/239.77.0.1:5146
-广东珠江超清,http://113.65.94.97:10000/udp/239.77.0.114:5146
-广东新闻高清,http://113.65.94.97:10000/udp/239.77.0.173:5146
-广东民生高清,http://113.65.94.97:10000/udp/239.77.0.225:5146
-广东体育高清-测试,http://113.65.94.97:10000/udp/239.77.0.112:5146
-广东体育超清,http://113.65.94.97:10000/udp/239.77.0.168:5146
-经济科教高清,http://113.65.94.97:10000/udp/239.77.0.85:5146
-经济科教超清,http://113.65.94.97:10000/udp/239.77.0.167:5146
-大湾区卫视高清,http://113.65.94.97:10000/udp/239.77.0.215:5146
-广东影视高清,http://113.65.94.97:10000/udp/239.77.0.217:5146
-广东少儿高清,http://113.65.94.97:10000/udp/239.77.0.250:5146
-嘉佳卡通高清,http://113.65.94.97:10000/udp/239.77.0.179:5146
-南方购物-精选,http://113.65.94.97:10000/udp/239.77.0.19:5146
-南方购物,http://113.65.94.97:10000/udp/239.77.0.22:5146
-岭南戏曲高清,http://113.65.94.97:10000/udp/239.77.0.122:5146
-现代教育高清,http://113.65.94.97:10000/udp/239.77.0.213:5146
-广州综合高清,http://113.65.94.97:10000/udp/239.253.43.71:5146
-广州新闻高清,http://113.65.94.97:10000/udp/239.253.43.72:5146
-广州影视高清,http://113.65.94.97:10000/udp/239.253.43.73:5146
-广州法治高清,http://113.65.94.97:10000/udp/239.253.43.74:5146
-深圳卫视高清,http://113.65.94.97:10000/udp/239.77.1.3:5146
-深圳卫视高清,http://113.65.94.97:10000/udp/239.77.1.148:5146
-深圳卫视高清,http://113.65.94.97:10000/udp/239.77.0.92:5146
-深圳卫视超清,http://113.65.94.97:10000/udp/239.77.0.130:5146
-深圳都市频道高清,http://113.65.94.97:10000/udp/239.77.1.176:5146
-深圳都市频道高清,http://113.65.94.97:10000/udp/239.77.1.124:5146
-深圳电视剧频道高清,http://113.65.94.97:10000/udp/239.77.1.177:5146
-深圳电视剧频道高清,http://113.65.94.97:10000/udp/239.77.1.125:5146
-深圳财经生活高清,http://113.65.94.97:10000/udp/239.77.1.242:5146
-深圳娱乐频道高清,http://113.65.94.97:10000/udp/239.77.1.243:5146
-深圳体育健康高清,http://113.65.94.97:10000/udp/239.77.1.128:5146
-深圳体育健康高清,http://113.65.94.97:10000/udp/239.77.1.140:5146
-深圳少儿频道高清,http://113.65.94.97:10000/udp/239.77.1.244:5146
-深圳公共频道高清,http://113.65.94.97:10000/udp/239.77.1.178:5146
-深圳公共频道高清,http://113.65.94.97:10000/udp/239.77.1.126:5146
-深圳宝安频道高清,http://113.65.94.97:10000/udp/239.77.1.67:5146
-深圳龙岗频道高清,http://113.65.94.97:10000/udp/239.77.1.223:5146
-深圳众创TV高清,http://113.65.94.97:10000/udp/239.77.1.247:5146
-深圳宜和购物高清,http://113.65.94.97:10000/udp/239.77.1.87:5146
-韶关新闻综合高清,http://113.65.94.97:10000/udp/239.77.0.117:5146
-湛江新闻综合高清,http://113.65.94.97:10000/udp/239.77.0.141:5146
-湛江公共高清,http://113.65.94.97:10000/udp/239.77.0.140:5146
-揭阳综合高清,http://113.65.94.97:10000/udp/239.77.0.229:5146
-揭阳生活高清,http://113.65.94.97:10000/udp/239.77.0.251:5146
-汕尾新闻综合高清,http://113.65.94.97:10000/udp/239.77.0.25:5146
-汕尾文化生活高清,http://113.65.94.97:10000/udp/239.77.0.187:5146
-江门综合高清,http://113.65.94.97:10000/udp/239.77.0.201:5146
-江门侨乡生活高清,http://113.65.94.97:10000/udp/239.77.0.202:5146
-HZTV-1高清,http://113.65.94.97:10000/udp/239.77.1.232:5146
-HZTV-2高清,http://113.65.94.97:10000/udp/239.77.1.233:5146
-珠海-1高清,http://113.65.94.97:10000/udp/239.77.0.155:5146
-珠海-2高清,http://113.65.94.97:10000/udp/239.77.0.154:5146
-肇庆综合高清,http://113.65.94.97:10000/udp/239.253.43.1:5146
-肇庆生活服务高清,http://113.65.94.97:10000/udp/239.253.43.2:5146
-河源综合高清,http://113.65.94.97:10000/udp/239.253.43.213:5146
-河源公共高清,http://113.65.94.97:10000/udp/239.253.43.214:5146
-清远新闻综合高清,http://113.65.94.97:10000/udp/239.253.43.33:5146
-清远文旅生活高清,http://113.65.94.97:10000/udp/239.253.43.34:5146
-云浮综合高清,http://113.65.94.97:10000/udp/239.77.0.253:5146
-云浮文旅高清,http://113.65.94.97:10000/udp/239.77.0.254:5146
-茂名综合高清,http://113.65.94.97:10000/udp/239.77.0.206:5146
-茂名公共高清,http://113.65.94.97:10000/udp/239.77.0.207:5146
-汕头综合高清,http://113.65.94.97:10000/udp/239.77.1.130:5146
-汕头综合高清,http://113.65.94.97:10000/udp/239.253.43.45:5146
-汕头经济生活高清,http://113.65.94.97:10000/udp/239.77.1.131:5146
-汕头经济生活高清,http://113.65.94.97:10000/udp/239.253.43.46:5146
-汕头文旅体育高清,http://113.65.94.97:10000/udp/239.77.1.132:5146
-汕头文旅体育高清,http://113.65.94.97:10000/udp/239.253.43.47:5146
-佛山公共高清,http://113.65.94.97:10000/udp/239.253.43.53:5146
-佛山南海高清,http://113.65.94.97:10000/udp/239.253.43.54:5146
-佛山顺德高清,http://113.65.94.97:10000/udp/239.253.43.55:5146
-佛山影视高清,http://113.65.94.97:10000/udp/239.253.43.56:5146
-佛山综合高清,http://113.65.94.97:10000/udp/239.253.43.57:5146
-东莞新闻综合高清,http://113.65.94.97:10000/udp/239.253.43.104:5146
-东莞生活资讯高清,http://113.65.94.97:10000/udp/239.253.43.105:5146
-中山综合高清,http://113.65.94.97:10000/udp/239.253.43.62:5146
-香山文化高清,http://113.65.94.97:10000/udp/239.253.43.63:5146
-潮州综合高清,http://113.65.94.97:10000/udp/239.253.43.70:5146
-潮州民生高清,http://113.65.94.97:10000/udp/239.253.43.75:5146
-徐闻综合高清,http://113.65.94.97:10000/udp/239.253.43.112:5146
-梅州-1高清,http://113.65.94.97:10000/udp/239.253.43.123:5146
-客家生活高清,http://113.65.94.97:10000/udp/239.253.43.124:5146
-CCTV-1,http://113.65.94.97:10000/udp/239.77.0.241:5146
-CCTV-1高清,http://113.65.94.97:10000/udp/239.77.1.17:5146
-CCTV-1高清,http://113.65.94.97:10000/udp/239.77.1.144:5146
-CCTV-1高清,http://113.65.94.97:10000/udp/239.77.0.119:5146
-CCTV-1高清(CCTV -1综合高清),http://113.65.94.97:10000/udp/239.77.0.86:5146
-CCTV-1超清,http://113.65.94.97:10000/udp/239.77.0.129:5146
-CCTV-2高清,http://113.65.94.97:10000/udp/239.77.1.158:5146
-CCTV-2高清 ,http://113.65.94.97:10000/udp/239.253.43.17:5146
-CCTV-2高清测试(CCTV -2财经高清),http://113.65.94.97:10000/udp/239.77.0.137:5146
-CCTV-3高清,http://113.65.94.97:10000/udp/239.77.0.169:5146
-CCTV-3超清 ,http://113.65.94.97:10000/udp/239.77.0.175:5146
-CCTV-4高清,http://113.65.94.97:10000/udp/239.77.1.163:5146
-CCTV-4高清,http://113.65.94.97:10000/udp/239.77.1.166:5146
-CCTV-4高清,http://113.65.94.97:10000/udp/239.77.0.78:5146
-CCTV-4美洲高清,http://113.65.94.97:10000/udp/239.253.43.121:5146
-CCTV-4欧洲高清,http://113.65.94.97:10000/udp/239.253.43.120:5146
-CCTV-5高清,http://113.65.94.97:10000/udp/239.77.0.170:5146
-CCTV-5超清 ,http://113.65.94.97:10000/udp/239.77.0.177:5146
-CCTV-5+高清,http://113.65.94.97:10000/udp/239.77.0.87:5146
-CCTV-5+高清,http://113.65.94.97:10000/udp/239.77.1.31:5146
-CCTV-6高清,http://113.65.94.97:10000/udp/239.77.0.171:5146
-CCTV-6超清 ,http://113.65.94.97:10000/udp/239.77.0.178:5146
-CCTV-7高清,http://113.65.94.97:10000/udp/239.77.1.159:5146
-CCTV-7高清 ,http://113.65.94.97:10000/udp/239.77.1.167:5146
-CCTV-7高清测试(CCTV -7军事农业高清),http://113.65.94.97:10000/udp/239.77.0.138:5146
-CCTV-8高清,http://113.65.94.97:10000/udp/239.77.0.172:5146
-CCTV-8超清 ,http://113.65.94.97:10000/udp/239.77.0.181:5146
-CCTV-9高清,http://113.65.94.97:10000/udp/239.77.1.160:5146
-CCTV-9高清 ,http://113.65.94.97:10000/udp/239.77.1.168:5146
-CCTV-9高清测试,http://113.65.94.97:10000/udp/239.77.0.135:5146
-CCTV-10高清,http://113.65.94.97:10000/udp/239.77.1.113:5146
-CCTV-10高清 ,http://113.65.94.97:10000/udp/239.77.1.169:5146
-CCTV-10高清测试(CCTV-10科教高清),http://113.65.94.97:10000/udp/239.77.0.134:5146
-CCTV-11高清,http://113.65.94.97:10000/udp/239.77.1.238:5146
-CCTV-12高清,http://113.65.94.97:10000/udp/239.77.1.109:5146
-CCTV-12高清 ,http://113.65.94.97:10000/udp/239.77.1.170:5146
-CCTV-12高清测试,http://113.65.94.97:10000/udp/239.77.0.136:5146
-CCTV-13高清,http://113.65.94.97:10000/udp/239.77.0.188:5146
-CCTV-13高清,http://113.65.94.97:10000/udp/239.253.43.196:5146
-CCTV-14高清,http://113.65.94.97:10000/udp/239.77.1.161:5146
-CCTV-14高清 ,http://113.65.94.97:10000/udp/239.77.1.171:5146
-CCTV-14高清测试,http://113.65.94.97:10000/udp/239.77.0.133:5146
-CCTV-15高清,http://113.65.94.97:10000/udp/239.77.1.239:5146
-CCTV-16高清,http://113.65.94.97:10000/udp/239.77.0.165:5146
-CCTV-16高清,http://113.65.94.97:10000/udp/239.77.1.76:5146
-CCTV-17高清,http://113.65.94.97:10000/udp/239.77.1.121:5146
-CCTV-17农业高清,http://113.65.94.97:10000/udp/239.77.0.198:5146
-CGTN英语高清,http://113.65.94.97:10000/udp/239.77.0.199:5146
-CGTN Documentary高清,http://113.65.94.97:10000/udp/239.253.43.122:5146
-CGTN西班牙语高清,http://113.65.94.97:10000/udp/239.77.0.221:5146
-CGTN法语高清,http://113.65.94.97:10000/udp/239.77.0.228:5146
-CGTN阿拉伯语高清,http://113.65.94.97:10000/udp/239.253.43.200:5146
-CGTN俄语高清,http://113.65.94.97:10000/udp/239.253.43.201:5146
-湖南卫视高清,http://113.65.94.97:10000/udp/239.77.1.5:5146
-湖南卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.129:5146
-湖南卫视高清,http://113.65.94.97:10000/udp/239.77.0.88:5146
-湖南卫视超清,http://113.65.94.97:10000/udp/239.77.0.127:5146
-浙江卫视高清,http://113.65.94.97:10000/udp/239.77.1.33:5146
-浙江卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.150:5146
-浙江卫视高清,http://113.65.94.97:10000/udp/239.77.0.89:5146
-浙江卫视超清 ,http://113.65.94.97:10000/udp/239.77.0.125:5146
-江苏卫视高清,http://113.65.94.97:10000/udp/239.77.1.18:5146
-江苏卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.149:5146
-江苏卫视高清,http://113.65.94.97:10000/udp/239.77.0.90:5146
-江苏卫视超清 ,http://113.65.94.97:10000/udp/239.77.0.126:5146
-东方卫视高清,http://113.65.94.97:10000/udp/239.77.1.218:5146
-东方卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.156:5146
-东方卫视高清,http://113.65.94.97:10000/udp/239.77.0.98:5146
-安徽卫视高清,http://113.65.94.97:10000/udp/239.77.1.92:5146
-安徽卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.157:5146
-安徽卫视高清,http://113.65.94.97:10000/udp/239.77.0.183:5146
-北京卫视高清,http://113.65.94.97:10000/udp/239.77.1.4:5146
-北京卫视高清,http://113.65.94.97:10000/udp/239.77.1.151:5146
-北京卫视高清,http://113.65.94.97:10000/udp/239.77.0.91:5146
-天津卫视高清,http://113.65.94.97:10000/udp/239.77.1.141:5146
-天津卫视高清,http://113.65.94.97:10000/udp/239.77.1.182:5146
-天津卫视高清,http://113.65.94.97:10000/udp/239.77.0.97:5146
-天津卫视超清,http://113.65.94.97:10000/udp/239.77.0.131:5146
-山东卫视高清,http://113.65.94.97:10000/udp/239.77.1.142:5146
-山东卫视高清 ,http://113.65.94.97:10000/udp/239.77.1.153:5146
-山东卫视高清,http://113.65.94.97:10000/udp/239.77.0.94:5146
-山东卫视超清 ,http://113.65.94.97:10000/udp/239.77.0.132:5146
-江西卫视高清,http://113.65.94.97:10000/udp/239.77.1.219:5146
-江西卫视高清,http://113.65.94.97:10000/udp/239.77.0.149:5146
-湖北卫视高清,http://113.65.94.97:10000/udp/239.77.1.93:5146
-湖北卫视高清,http://113.65.94.97:10000/udp/239.77.1.174:5146
-湖北卫视高清,http://113.65.94.97:10000/udp/239.77.0.95:5146
-湖北卫视超清,http://113.65.94.97:10000/udp/239.77.0.128:5146
-辽宁卫视高清,http://113.65.94.97:10000/udp/239.77.1.103:5146
-辽宁卫视 高清,http://113.65.94.97:10000/udp/239.77.0.123:5146
-辽宁卫视超清 ,http://113.65.94.97:10000/udp/239.77.0.161:5146
-黑龙江卫视高清,http://113.65.94.97:10000/udp/239.77.1.6:5146
-黑龙江卫视高清,http://113.65.94.97:10000/udp/239.77.1.179:5146
-黑龙江卫视高清,http://113.65.94.97:10000/udp/239.77.0.93:5146
-黑龙江卫视超清,http://113.65.94.97:10000/udp/239.77.0.124:5146
-贵州卫视高清,http://113.65.94.97:10000/udp/239.77.1.221:5146
-贵州卫视高清,http://113.65.94.97:10000/udp/239.77.0.230:5146
-四川卫视高清,http://113.65.94.97:10000/udp/239.77.1.215:5146
-四川卫视高清,http://113.65.94.97:10000/udp/239.77.0.159:5146
-四川卫视超清 ,http://113.65.94.97:10000/udp/239.77.0.163:5146
-河南卫视高清,http://113.65.94.97:10000/udp/239.77.1.229:5146
-河南卫视高清,http://113.65.94.97:10000/udp/239.77.0.17:5146
-云南卫视高清,http://113.65.94.97:10000/udp/239.253.43.37:5146
-云南卫视高清,http://113.65.94.97:10000/udp/239.253.43.100:5146
-重庆卫视高清,http://113.65.94.97:10000/udp/239.77.1.162:5146
-重庆卫视高清,http://113.65.94.97:10000/udp/239.77.0.182:5146
-河北卫视高清,http://113.65.94.97:10000/udp/239.77.1.214:5146
-河北卫视高清,http://113.65.94.97:10000/udp/239.77.0.148:5146
-东南卫视高清,http://113.65.94.97:10000/udp/239.77.1.104:5146
-福建东南卫视高清,http://113.65.94.97:10000/udp/239.77.0.146:5146
-广西卫视高清,http://113.65.94.97:10000/udp/239.253.43.36:5146
-广西卫视高清,http://113.65.94.97:10000/udp/239.77.0.139:5146
-吉林卫视高清,http://113.65.94.97:10000/udp/239.77.1.111:5146
-吉林卫视高清,http://113.65.94.97:10000/udp/239.77.0.150:5146
-青海卫视高清,http://113.65.94.97:10000/udp/239.253.43.125:5146
-海南卫视高清,http://113.65.94.97:10000/udp/239.253.43.35:5146
-海南卫视高清,http://113.65.94.97:10000/udp/239.253.43.101:5146
-甘肃卫视高清,http://113.65.94.97:10000/udp/239.77.0.189:5146
-三沙卫视高清,http://113.65.94.97:10000/udp/239.253.43.113:5146
-兵器科技高清,http://113.65.94.97:10000/udp/239.253.43.18:5146
-兵器科技高清,http://113.65.94.97:10000/udp/239.253.43.9:5146
-电视指南高清,http://113.65.94.97:10000/udp/239.253.43.19:5146
-电视指南高清,http://113.65.94.97:10000/udp/239.253.43.10:5146
-风云足球高清,http://113.65.94.97:10000/udp/239.253.43.20:5146
-风云足球高清,http://113.65.94.97:10000/udp/239.253.43.14:5146
-央视台球高清,http://113.65.94.97:10000/udp/239.253.43.21:5146
-央视台球高清,http://113.65.94.97:10000/udp/239.253.43.11:5146
-高尔夫网球高清,http://113.65.94.97:10000/udp/239.253.43.22:5146
-高尔夫网球高清,http://113.65.94.97:10000/udp/239.253.43.12:5146
-女性时尚高清,http://113.65.94.97:10000/udp/239.253.43.23:5146
-女性时尚高清,http://113.65.94.97:10000/udp/239.253.43.8:5146
-世界地理高清,http://113.65.94.97:10000/udp/239.253.43.24:5146
-世界地理高清,http://113.65.94.97:10000/udp/239.253.43.7:5146
-怀旧剧场高清,http://113.65.94.97:10000/udp/239.253.43.25:5146
-怀旧剧场高清,http://113.65.94.97:10000/udp/239.253.43.5:5146
-风云剧场高清,http://113.65.94.97:10000/udp/239.253.43.26:5146
-风云剧场高清,http://113.65.94.97:10000/udp/239.253.43.16:5146
-央视文化精品高清,http://113.65.94.97:10000/udp/239.253.43.27:5146
-央视文化精品高清,http://113.65.94.97:10000/udp/239.253.43.13:5146
-第一剧场高清,http://113.65.94.97:10000/udp/239.253.43.28:5146
-第一剧场高清,http://113.65.94.97:10000/udp/239.253.43.15:5146
-风云音乐高清,http://113.65.94.97:10000/udp/239.253.43.29:5146
-风云音乐高清,http://113.65.94.97:10000/udp/239.253.43.6:5146
-CHC高清电影,http://113.65.94.97:10000/udp/239.77.0.27:5146
-金鹰卡通高清,http://113.65.94.97:10000/udp/239.77.0.164:5146
-CETV-1高清,http://113.65.94.97:10000/udp/239.77.1.222:5146
-中国教育-1高清,http://113.65.94.97:10000/udp/239.77.0.200:5146
-CETV-4高清,http://113.65.94.97:10000/udp/239.77.1.200:5146
-CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.40:5146
-CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
-早期教育高清,http://113.65.94.97:10000/udp/239.77.0.180:5146
-中国交通,http://113.65.94.97:10000/udp/239.77.1.249:5146
-茶,http://113.65.94.97:10000/udp/239.77.0.15:5146
-快乐垂钓,http://113.65.94.97:10000/udp/239.77.0.145:5146
-金鹰纪实高清,http://113.65.94.97:10000/udp/239.77.1.217:5146
-金鹰纪实高清测试,http://113.65.94.97:10000/udp/239.77.0.160:5146
-金鹰纪实超清测试 ,http://113.65.94.97:10000/udp/239.77.0.162:5146
-上海纪实高清,http://113.65.94.97:10000/udp/239.77.1.216:5146
-上海纪实高清,http://113.65.94.97:10000/udp/239.77.0.147:5146
-求索纪录高清,http://113.65.94.97:10000/udp/239.77.0.21:5146
-求索生活高清,http://113.65.94.97:10000/udp/239.77.0.153:5146
-武术世界高清,http://113.65.94.97:10000/udp/239.77.1.108:5146
-文物宝库高清,http://113.65.94.97:10000/udp/239.77.1.120:5146
-先锋乒羽,http://113.65.94.97:10000/udp/239.77.1.208:5146
-天元围棋,http://113.65.94.97:10000/udp/239.253.43.98:5146
-爱体育高清,http://113.65.94.97:10000/udp/239.77.0.176:5146
-爱体育高清,http://113.65.94.97:10000/udp/239.77.1.116:5146
-九屏同播,http://113.65.94.97:10000/udp/239.77.1.234:5146
-四屏同播,http://113.65.94.97:10000/udp/239.77.1.107:5146
-百事通高清,http://113.65.94.97:10000/udp/239.253.43.119:5146
-百事通高清,http://113.65.94.97:10000/udp/239.253.43.118:5146
-百事通高清,http://113.65.94.97:10000/udp/239.253.43.117:5146
-百事通高清,http://113.65.94.97:10000/udp/239.253.43.116:5146
-百事通高清,http://113.65.94.97:10000/udp/239.253.43.115:5146
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 
 🐼数字电视,#genre#
 
@@ -1229,7 +711,7 @@ SiTV乐游,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channe
 央广购物,https://playlive.cnrmall.com/live/cnrxp2019_1200.m3u8
 聚鲨环球精选,
 环球奇观
-中国交通,http://tv.tvbox6.icu/tv/gdmzyd.php?id=96
+中国交通,http://tvbox6.cn/tv/gdmzyd.php?id=96
 
 CCTV中视购物,https://stream1.freetv.fun/da8cfcd62e10ee127bc82543e5a8c7a91e9cfe0239803a8a91f7f5ef2f621985.m3u8 
 CCTV卫生健康
@@ -1237,14 +719,14 @@ CCTV风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 CCTV风云足球,http://202.102.201.244:40022/rtp/238.1.79.57:4592
 CCTV高尔夫·网球
-CCTV央视文化精品,http://tv.tvbox6.icu/tv/iptv2.php?id=30
-CCTV风云音乐,http://tv.tvbox6.icu/tv/iptv2.php?id=33
-CCTV第一剧场,http://tv.tvbox6.icu/tv/iptv2.php?id=31
-CCTV怀旧剧场,http://tv.tvbox6.icu/tv/iptv2.php?id=26
-CCTV风云剧场,http://tv.tvbox6.icu/tv/iptv2.php?id=32
-CCTV世界地理,http://tv.tvbox6.icu/tv/iptv2.php?id=28
-CCTV电视指南,http://tv.tvbox6.icu/tv/gdmzyd.php?id=109
-CCTV兵器科技,http://tv.tvbox6.icu/tv/iptv2.php?id=29
+CCTV央视文化精品,http://tvbox6.cn/tv/iptv2.php?id=30
+CCTV风云音乐,http://tvbox6.cn/tv/iptv2.php?id=33
+CCTV第一剧场,http://tvbox6.cn/tv/iptv2.php?id=31
+CCTV怀旧剧场,http://tvbox6.cn/tv/iptv2.php?id=26
+CCTV风云剧场,http://tvbox6.cn/tv/iptv2.php?id=32
+CCTV世界地理,http://tvbox6.cn/tv/iptv2.php?id=28
+CCTV电视指南,http://tvbox6.cn/tv/gdmzyd.php?id=109
+CCTV兵器科技,http://tvbox6.cn/tv/iptv2.php?id=29
 CCTV女性时尚
 CCTV央视台球
 
@@ -1260,7 +742,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC影迷电影,http://149.88.85.102:1354/cqyx.php?id=chcgq
 CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz
 CHC家庭影院,http://149.88.85.102:1354/cqyx.php?id=chcjt
-CHC影迷电影,http://tv.tvbox6.icu/tv/iptv2.php?id=88
+CHC影迷电影,http://tvbox6.cn/tv/iptv2.php?id=88
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
@@ -1271,50 +753,50 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 //03中国广播电视网络集团有限公司（每日健身、体育赛事、重温经典）
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8$北方广电
-重温经典,http://tv.tvbox6.icu/tv/bj3w.php?id=20$北京全网通
+重温经典,http://tvbox6.cn/tv/bj3w.php?id=20$北京全网通
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386
 
 //04中央新闻纪录电影制片厂(集团)老故事
-中央新影-老故事,http://tv.tvbox6.icu/tv/migu.php?id=lgs$咪咕854
-中央新影-老故事,http://tv.tvbox6.icu/tv/bj3w.php?id=63$北京全网通
+中央新影-老故事,http://tvbox6.cn/tv/migu.php?id=lgs$咪咕854
+中央新影-老故事,http://tvbox6.cn/tv/bj3w.php?id=63$北京全网通
 //05北京科学教育电影制片厂（中学生、发现之旅）
-中央新影-中学生,http://tv.tvbox6.icu/tv/migu.php?id=zxs$咪咕1280
-中央新影-发现之旅,http://tv.tvbox6.icu/tv/migu.php?id=fxzl$咪咕1280
-中央新影-发现之旅,http://tv.tvbox6.icu/tv/bj3w.php?id=62$北京全网通
+中央新影-中学生,http://tvbox6.cn/tv/migu.php?id=zxs$咪咕1280
+中央新影-发现之旅,http://tvbox6.cn/tv/migu.php?id=fxzl$咪咕1280
+中央新影-发现之旅,http://tvbox6.cn/tv/bj3w.php?id=62$北京全网通
 
 //06中国教育电视台（早期教育）
 //07中国气象局（中国天气）
-中国天气,http://tv.tvbox6.icu/tv/gdmzyd.php?id=100
+中国天气,http://tvbox6.cn/tv/gdmzyd.php?id=100
 
 //08中国艺术档案学会（书画、音像世界）
-书画,http://tv.tvbox6.icu/tv/bj3w.php?id=64$北京全网通
+书画,http://tvbox6.cn/tv/bj3w.php?id=64$北京全网通
 
 //09中国健康教育中心（百姓健康）
 //10北京广播电视台（优优宝贝、车迷、中华特产、四海钓鱼、环球旅游、生态环境）
-优优宝贝,http://tv.tvbox6.icu/tv/bj3w.php?id=22$北京全网通
+优优宝贝,http://tvbox6.cn/tv/bj3w.php?id=22$北京全网通
 车迷频道,
-中华特产,http://tv.tvbox6.icu/tv/gdmzyd.php?id=114
+中华特产,http://tvbox6.cn/tv/gdmzyd.php?id=114
 四海钓鱼,
 环球旅游,
 
-优购物,http://tv.tvbox6.icu/tv/bj3w.php?id=42$北京全网通
+优购物,http://tvbox6.cn/tv/bj3w.php?id=42$北京全网通
 足球
 新动漫
 家庭理财,
 东方财经,
-动漫秀场,http://tv.tvbox6.icu/tv/gdmzyd.php?id=83
+动漫秀场,http://tvbox6.cn/tv/gdmzyd.php?id=83
 游戏风云,
 乐游,
 法治天地,
-劲爆体育,http://tv.tvbox6.icu/tv/migu.php?id=jbty
-都市剧场,http://tv.tvbox6.icu/tv/gdmzyd.php?id=99
-欢笑剧场,http://tv.tvbox6.icu/tv/gdmzyd.php?id=98
+劲爆体育,http://tvbox6.cn/tv/migu.php?id=jbty
+都市剧场,http://tvbox6.cn/tv/gdmzyd.php?id=99
+欢笑剧场,http://tvbox6.cn/tv/gdmzyd.php?id=98
 金色学堂
-新视觉,http://tv.tvbox6.icu/tv/gdmzyd.php?id=97
-财富天下,http://tv.tvbox6.icu/tv/bj3w.php?id=52$北京全网通
-求索纪录4K,http://tv.tvbox6.icu/tv/gdmzyd.php?id=104
-家家购物,http://tv.tvbox6.icu/tv/bj3w.php?id=39$北京全网通
+新视觉,http://tvbox6.cn/tv/gdmzyd.php?id=97
+财富天下,http://tvbox6.cn/tv/bj3w.php?id=52$北京全网通
+求索纪录4K,http://tvbox6.cn/tv/gdmzyd.php?id=104
+家家购物,http://tvbox6.cn/tv/bj3w.php?id=39$北京全网通
 风尚购物
 陶瓷
 收藏天下
@@ -1322,42 +804,42 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 国学
 精彩影视
 茶
-汽摩,http://tv.tvbox6.icu/tv/gdmzyd.php?id=105
-天元围棋,http://tv.tvbox6.icu/tv/sxg.php?id=86
+汽摩,http://tvbox6.cn/tv/gdmzyd.php?id=105
+天元围棋,http://tvbox6.cn/tv/sxg.php?id=86
 睛彩青少
 晴采竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$北京联通组播
 晴彩竞技,http://122.232.188.43:1883/udp/233.50.202.26:5140
 晴彩篮球,http://122.232.188.43:1883/udp/233.50.202.27:5140
 晴彩广场舞,http://122.232.188.43:1883/udp/233.50.202.29:5140
 晴彩羽毛球,http://122.232.188.43:1883/udp/233.50.202.28:5140
-爱家购物,http://tv.tvbox6.icu/tv/bj3w.php?id=54$北京全网通
-七彩戏剧,http://tv.tvbox6.icu/tv/sxg.php?id=82
+爱家购物,http://tvbox6.cn/tv/bj3w.php?id=54$北京全网通
+七彩戏剧,http://tvbox6.cn/tv/sxg.php?id=82
 河北杂技,
 佰乐购
 东北戏曲
 之江纪录
 居家购物
-南方购物,http://tv.tvbox6.icu/tv/gdmzyd.php?id=113
+南方购物,http://tvbox6.cn/tv/gdmzyd.php?id=113
 岭南戏曲
-现代教育,http://tv.tvbox6.icu/tv/gdmzyd.php?id=102
+现代教育,http://tvbox6.cn/tv/gdmzyd.php?id=102
 宜和购物
 
 //系列
-上海第一财经,http://tv.tvbox6.icu/tv/migu.php?id=dycj$咪咕854
-上视纪实人文,http://tv.tvbox6.icu/tv/migu.php?id=shjsrw$咪咕1280
-上海外语,http://tv.tvbox6.icu/tv/migu.php?id=shics$咪咕854
-法治天地,http://tv.tvbox6.icu/tv/migu.php?id=fztd$咪咕1280
-劲爆体育,http://tv.tvbox6.icu/tv/migu.php?id=jbty$咪咕1280
-魅力足球,http://tv.tvbox6.icu/tv/migu.php?id=mlzq$咪咕1280
-乐游,http://tv.tvbox6.icu/tv/migu.php?id=ly$咪咕1280
-欢笑剧场,http://tv.tvbox6.icu/tv/migu.php?id=hxjc$咪咕1280
-七彩戏剧,http://tv.tvbox6.icu/tv/migu.php?id=qcxj$咪咕1280
-游戏风云,http://tv.tvbox6.icu/tv/migu.php?id=yxfy$咪咕1280
-四海钓鱼,http://tv.tvbox6.icu/tv//migu.php?id=shdy$咪咕1280
+上海第一财经,http://tvbox6.cn/tv/migu.php?id=dycj$咪咕854
+上视纪实人文,http://tvbox6.cn/tv/migu.php?id=shjsrw$咪咕1280
+上海外语,http://tvbox6.cn/tv/migu.php?id=shics$咪咕854
+法治天地,http://tvbox6.cn/tv/migu.php?id=fztd$咪咕1280
+劲爆体育,http://tvbox6.cn/tv/migu.php?id=jbty$咪咕1280
+魅力足球,http://tvbox6.cn/tv/migu.php?id=mlzq$咪咕1280
+乐游,http://tvbox6.cn/tv/migu.php?id=ly$咪咕1280
+欢笑剧场,http://tvbox6.cn/tv/migu.php?id=hxjc$咪咕1280
+七彩戏剧,http://tvbox6.cn/tv/migu.php?id=qcxj$咪咕1280
+游戏风云,http://tvbox6.cn/tv/migu.php?id=yxfy$咪咕1280
+四海钓鱼,http://tvbox6.cn/tv//migu.php?id=shdy$咪咕1280
 
-魅力时尚,http://tv.tvbox6.icu/tv/gdmzyd.php?id=110
-热播剧场,http://tv.tvbox6.icu/tv/gdmzyd.php?id=111
-中国气象,http://tv.tvbox6.icu/tv/iptv2.php?id=87
+魅力时尚,http://tvbox6.cn/tv/gdmzyd.php?id=110
+热播剧场,http://tvbox6.cn/tv/gdmzyd.php?id=111
+中国气象,http://tvbox6.cn/tv/iptv2.php?id=87
 
 上海纪实,http://video.qd.sdu.edu.cn/liverespath/98a578339579ce91ec2443bfbd1fc3af10ee02bd/index.m3u8
 金鹰纪实,http://video.qd.sdu.edu.cn/liverespath/d623386366118b9f7e610c167dbb8dc552b7660c/index.m3u8
@@ -1556,17 +1038,20 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 //02凤凰卫视现拥有中文台、资讯台、欧洲台、美洲台、电影台和香港台等6个电视频道
 
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰秀
+凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv,爬虫波
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+
 凤凰中文,http://8.138.7.223/tv/bj3w.php?id=31
-凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8$凤凰秀
+
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰中文,http://211.72.65.236:8577/.m3u8
 凤凰资讯,http://211.72.65.236:8576/.m3u8
-凤凰香港,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv
+
+
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass 
 
 凤凰中文,http://xeace.cn:8888/udp/239.93.1.9:2192
@@ -1584,7 +1069,6 @@ iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400
 
 //03香港电视广播有限公司(TVB)
 //免费频道 翡翠台、Plus、无线新闻台、明珠台、凤凰香港台
-翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -1593,9 +1077,6 @@ TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 无线新闻台,http://ali.hlspull.yximgs.com/live/9c54a164d1ee6d0693947649a2560d0d.flv
 
-18台,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-天映频道,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
-天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 
@@ -1660,6 +1141,13 @@ TVB星河,http://8.138.7.223/tv/gdmzyd.php?id=2$梅州移动
 澳视澳门台,http://8.138.7.223/tv/gdmzyd.php?id=6
 
 🔥台湾专区,#genre#
+
+客家电视,http://8.138.7.223/tv/hakkatv.m3u8
+原视,http://8.138.7.223/tv/titv.m3u8
+台视新闻台,http://8.138.7.223/tv/ttvnews.m3u8
+
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti.flv,爬虫波
+中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti2.flv,爬虫波
 
 三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -1729,6 +1217,10 @@ FOCUS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 🌍国际频道,#genre#
 
 //中国国际电视台
+CGTN英语,http://8.138.7.223/tv/cgtn.m3u8
+CGTN记录,http://8.138.7.223/tv/cgtnd.m3u8
+CGTN西语,http://8.138.7.223/tv/cgtne.m3u8
+CGTN法语,http://8.138.7.223/tv/cgtnf.m3u8
 
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8$官方源
@@ -1879,67 +1371,61 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 
 🐼V6专区,#genre#
 
-CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
-东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
-陕西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
-吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
-兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+CCTV-1,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000001
+CCTV-2,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000502
+CCTV-3,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000003
+CCTV-4,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000503
+CCTV-5,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000005
+CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000507
+CCTV-6,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000006
+CCTV-7,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000504
+CCTV-8,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000008
+CCTV-9,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000505
+CCTV-10,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000506
+CCTV-11,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000508
+CCTV-12,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000509
+CCTV-13,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000510
+CCTV-14,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000511
+CCTV-15,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000512
+CCTV-16,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000016
+CCTV-17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000513
+
+北京卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000516
+天津卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000530
+东方卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000518
+浙江卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000531
+湖南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000523
+江苏卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000524
+江西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000525
+广东卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000520
+深圳卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000529
+广西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000034
+东南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000519
+厦门卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000058
+河北卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000057
+河南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000027
+海南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000037
+山东卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000527
+山西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000053
+安徽卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000514
+重庆卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000517
+湖北卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000522
+云南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000035
+贵州卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000036
+四川卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000025
+陕西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000026
+甘肃卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000023
+青海卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000042
+宁夏卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000047
+西藏卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000043
+新疆卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000045
+兵团卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000059
+辽宁卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000526
+吉林卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000030
+黑龙江卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000521
+内蒙古卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000044
+
+
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
@@ -2319,23 +1805,23 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 贝爷max,http://159.75.85.63:35455/douyu/4332
 贝爷影厅,http://159.75.85.63:35455/douyu/252802
 
-电视剧轮播1,http://tv.tvbox6.icu/tv/dsj1.m3u8
-电视剧轮播2,http://tv.tvbox6.icu/tv/dsj2.m3u8
-电视剧轮播3,http://tv.tvbox6.icu/tv/dsj3.m3u8
-电视剧轮播4,http://tv.tvbox6.icu/tv/dsj4.m3u8
-电视剧轮播5,http://tv.tvbox6.icu/tv/dsj5.m3u8
-电视剧轮播6,http://tv.tvbox6.icu/tv/dsj6.m3u8
-电视剧轮播7,http://tv.tvbox6.icu/tv/dsj7.m3u8
-电视剧轮播8,http://tv.tvbox6.icu/tv/dsj8.m3u8
-电视剧轮播9,http://tv.tvbox6.icu/tv/dsj9.m3u8
-电视剧轮播10,http://tv.tvbox6.icu/tv/dsj10.m3u8
-电视剧轮播11,http://tv.tvbox6.icu/tv/dsj11.m3u8
-电视剧轮播12,http://tv.tvbox6.icu/tv/dsj12.m3u8
-电视剧轮播13,http://tv.tvbox6.icu/tv/dsj13.m3u8
-电视剧轮播14,http://tv.tvbox6.icu/tv/dsj14.m3u8
-电视剧轮播15,http://tv.tvbox6.icu/tv/dsj15.m3u8
-甄嬛传,http://tv.tvbox6.icu/tv/zhenhuanzhuan.m3u8
-康熙微服私访记,http://tv.tvbox6.icu/tv/kxwfxhj.m3u8
+电视剧轮播1,http://tvbox6.cn/tv/dsj1.m3u8
+电视剧轮播2,http://tvbox6.cn/tv/dsj2.m3u8
+电视剧轮播3,http://tvbox6.cn/tv/dsj3.m3u8
+电视剧轮播4,http://tvbox6.cn/tv/dsj4.m3u8
+电视剧轮播5,http://tvbox6.cn/tv/dsj5.m3u8
+电视剧轮播6,http://tvbox6.cn/tv/dsj6.m3u8
+电视剧轮播7,http://tvbox6.cn/tv/dsj7.m3u8
+电视剧轮播8,http://tvbox6.cn/tv/dsj8.m3u8
+电视剧轮播9,http://tvbox6.cn/tv/dsj9.m3u8
+电视剧轮播10,http://tvbox6.cn/tv/dsj10.m3u8
+电视剧轮播11,http://tvbox6.cn/tv/dsj11.m3u8
+电视剧轮播12,http://tvbox6.cn/tv/dsj12.m3u8
+电视剧轮播13,http://tvbox6.cn/tv/dsj13.m3u8
+电视剧轮播14,http://tvbox6.cn/tv/dsj14.m3u8
+电视剧轮播15,http://tvbox6.cn/tv/dsj15.m3u8
+甄嬛传,http://tvbox6.cn/tv/zhenhuanzhuan.m3u8
+康熙微服私访记,http://tvbox6.cn/tv/kxwfxhj.m3u8
 
 龙腾功夫频道,http://live.dxms.top:80/dwy/ltgft.php
 重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
@@ -2404,10 +1890,10 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/322
 
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-睛彩竞技,http://tv.tvbox6.icu/tv/zb/zjctcc.php?id=343$浙江电信组播
-睛彩篮球,http://tv.tvbox6.icu/tv/zb/zjctcc.php?id=344
-睛彩广场舞,http://tv.tvbox6.icu/tv/zb/zjctcc.php?id=345
-睛彩羽毛球,http://tv.tvbox6.icu/tv/zb/zjctcc.php?id=346
+睛彩竞技,http://tvbox6.cn/tv/zb/zjctcc.php?id=343$浙江电信组播
+睛彩篮球,http://tvbox6.cn/tv/zb/zjctcc.php?id=344
+睛彩广场舞,http://tvbox6.cn/tv/zb/zjctcc.php?id=345
+睛彩羽毛球,http://tvbox6.cn/tv/zb/zjctcc.php?id=346
 
 睛彩青少,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/index.m3u8
 睛彩青少,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
@@ -2505,53 +1991,53 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 咪咕直播-51,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
 咪咕直播-52,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 
-咪咕直播-1,http://tv.tvbox6.icu/tv/v4migu.php?id=1
-咪咕直播-2,http://tv.tvbox6.icu/tv/v4migu.php?id=2
-咪咕直播-3,http://tv.tvbox6.icu/tv/v4migu.php?id=3
-咪咕直播-4,http://tv.tvbox6.icu/tv/v4migu.php?id=4
-咪咕直播-5,http://tv.tvbox6.icu/tv/v4migu.php?id=5
-咪咕直播-6,http://tv.tvbox6.icu/tv/v4migu.php?id=6
-咪咕直播-7,http://tv.tvbox6.icu/tv/v4migu.php?id=7
-咪咕直播-8,http://tv.tvbox6.icu/tv/v4migu.php?id=8
-咪咕直播-9,http://tv.tvbox6.icu/tv/v4migu.php?id=9
-咪咕直播-10,http://tv.tvbox6.icu/tv/v4migu.php?id=10
-咪咕直播-11,http://tv.tvbox6.icu/tv/v4migu.php?id=11
-咪咕直播-12,http://tv.tvbox6.icu/tv/v4migu.php?id=12
-咪咕直播-13,http://tv.tvbox6.icu/tv/v4migu.php?id=13
-咪咕直播-14,http://tv.tvbox6.icu/tv/v4migu.php?id=14
-咪咕直播-15,http://tv.tvbox6.icu/tv/v4migu.php?id=15
-咪咕直播-16,http://tv.tvbox6.icu/tv/v4migu.php?id=16
-咪咕直播-17,http://tv.tvbox6.icu/tv/v4migu.php?id=17
-咪咕直播-18,http://tv.tvbox6.icu/tv/v4migu.php?id=18
-咪咕直播-19,http://tv.tvbox6.icu/tv/v4migu.php?id=19
-咪咕直播-20,http://tv.tvbox6.icu/tv/v4migu.php?id=20
-咪咕直播-21,http://tv.tvbox6.icu/tv/v4migu.php?id=21
-咪咕直播-22,http://tv.tvbox6.icu/tv/v4migu.php?id=22
-咪咕直播-23,http://tv.tvbox6.icu/tv/v4migu.php?id=23
-咪咕直播-24,http://tv.tvbox6.icu/tv/v4migu.php?id=24
-咪咕直播-25,http://tv.tvbox6.icu/tv/v4migu.php?id=25
-咪咕直播-26,http://tv.tvbox6.icu/tv/v4migu.php?id=26
-咪咕直播-27,http://tv.tvbox6.icu/tv/v4migu.php?id=27
-咪咕直播-28,http://tv.tvbox6.icu/tv/v4migu.php?id=28
-咪咕直播-29,http://tv.tvbox6.icu/tv/v4migu.php?id=29
-咪咕直播-30,http://tv.tvbox6.icu/tv/v4migu.php?id=30
-咪咕直播-31,http://tv.tvbox6.icu/tv/v4migu.php?id=31
-咪咕直播-32,http://tv.tvbox6.icu/tv/v4migu.php?id=32
-咪咕直播-33,http://tv.tvbox6.icu/tv/v4migu.php?id=33
-咪咕直播-34,http://tv.tvbox6.icu/tv/v4migu.php?id=34
-咪咕直播-35,http://tv.tvbox6.icu/tv/v4migu.php?id=35
-咪咕直播-36,http://tv.tvbox6.icu/tv/v4migu.php?id=35
-咪咕直播-37,http://tv.tvbox6.icu/tv/v4migu.php?id=35
-咪咕直播-38,http://tv.tvbox6.icu/tv/v4migu.php?id=35
-咪咕直播-39,http://tv.tvbox6.icu/tv/v4migu.php?id=35
-咪咕直播-40,http://tv.tvbox6.icu/tv/v4migu.php?id=40
-咪咕直播-41,http://tv.tvbox6.icu/tv/v4migu.php?id=41
-咪咕直播-42,http://tv.tvbox6.icu/tv/v4migu.php?id=42
-咪咕直播-43,http://tv.tvbox6.icu/tv/v4migu.php?id=43
-咪咕直播-44,http://tv.tvbox6.icu/tv/v4migu.php?id=44
-咪咕直播-45,http://tv.tvbox6.icu/tv/v4migu.php?id=45
-咪咕直播-46,http://tv.tvbox6.icu/tv/v4migu.php?id=46
-咪咕直播-47,http://tv.tvbox6.icu/tv/v4migu.php?id=47
+咪咕直播-1,http://tvbox6.cn/tv/v4migu.php?id=1
+咪咕直播-2,http://tvbox6.cn/tv/v4migu.php?id=2
+咪咕直播-3,http://tvbox6.cn/tv/v4migu.php?id=3
+咪咕直播-4,http://tvbox6.cn/tv/v4migu.php?id=4
+咪咕直播-5,http://tvbox6.cn/tv/v4migu.php?id=5
+咪咕直播-6,http://tvbox6.cn/tv/v4migu.php?id=6
+咪咕直播-7,http://tvbox6.cn/tv/v4migu.php?id=7
+咪咕直播-8,http://tvbox6.cn/tv/v4migu.php?id=8
+咪咕直播-9,http://tvbox6.cn/tv/v4migu.php?id=9
+咪咕直播-10,http://tvbox6.cn/tv/v4migu.php?id=10
+咪咕直播-11,http://tvbox6.cn/tv/v4migu.php?id=11
+咪咕直播-12,http://tvbox6.cn/tv/v4migu.php?id=12
+咪咕直播-13,http://tvbox6.cn/tv/v4migu.php?id=13
+咪咕直播-14,http://tvbox6.cn/tv/v4migu.php?id=14
+咪咕直播-15,http://tvbox6.cn/tv/v4migu.php?id=15
+咪咕直播-16,http://tvbox6.cn/tv/v4migu.php?id=16
+咪咕直播-17,http://tvbox6.cn/tv/v4migu.php?id=17
+咪咕直播-18,http://tvbox6.cn/tv/v4migu.php?id=18
+咪咕直播-19,http://tvbox6.cn/tv/v4migu.php?id=19
+咪咕直播-20,http://tvbox6.cn/tv/v4migu.php?id=20
+咪咕直播-21,http://tvbox6.cn/tv/v4migu.php?id=21
+咪咕直播-22,http://tvbox6.cn/tv/v4migu.php?id=22
+咪咕直播-23,http://tvbox6.cn/tv/v4migu.php?id=23
+咪咕直播-24,http://tvbox6.cn/tv/v4migu.php?id=24
+咪咕直播-25,http://tvbox6.cn/tv/v4migu.php?id=25
+咪咕直播-26,http://tvbox6.cn/tv/v4migu.php?id=26
+咪咕直播-27,http://tvbox6.cn/tv/v4migu.php?id=27
+咪咕直播-28,http://tvbox6.cn/tv/v4migu.php?id=28
+咪咕直播-29,http://tvbox6.cn/tv/v4migu.php?id=29
+咪咕直播-30,http://tvbox6.cn/tv/v4migu.php?id=30
+咪咕直播-31,http://tvbox6.cn/tv/v4migu.php?id=31
+咪咕直播-32,http://tvbox6.cn/tv/v4migu.php?id=32
+咪咕直播-33,http://tvbox6.cn/tv/v4migu.php?id=33
+咪咕直播-34,http://tvbox6.cn/tv/v4migu.php?id=34
+咪咕直播-35,http://tvbox6.cn/tv/v4migu.php?id=35
+咪咕直播-36,http://tvbox6.cn/tv/v4migu.php?id=35
+咪咕直播-37,http://tvbox6.cn/tv/v4migu.php?id=35
+咪咕直播-38,http://tvbox6.cn/tv/v4migu.php?id=35
+咪咕直播-39,http://tvbox6.cn/tv/v4migu.php?id=35
+咪咕直播-40,http://tvbox6.cn/tv/v4migu.php?id=40
+咪咕直播-41,http://tvbox6.cn/tv/v4migu.php?id=41
+咪咕直播-42,http://tvbox6.cn/tv/v4migu.php?id=42
+咪咕直播-43,http://tvbox6.cn/tv/v4migu.php?id=43
+咪咕直播-44,http://tvbox6.cn/tv/v4migu.php?id=44
+咪咕直播-45,http://tvbox6.cn/tv/v4migu.php?id=45
+咪咕直播-46,http://tvbox6.cn/tv/v4migu.php?id=46
+咪咕直播-47,http://tvbox6.cn/tv/v4migu.php?id=47
 
 全民热练,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226053/main.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
@@ -2619,6 +2105,276 @@ MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 天空体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
 天空体育4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 天空体育5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+
+
+🐼河北联通,#genre#
+CCTV-1综合,http://www.xingwen.online:9810/rtp/239.253.92.83:8012
+CCTV-2财经,http://www.xingwen.online:9810/rtp/239.253.92.190:6065
+CCTV-3综艺,http://www.xingwen.online:9810/rtp/239.253.92.191:6057
+CCTV-4国际,http://www.xingwen.online:9810/rtp/239.253.92.251:6141
+CCTV-5体育,http://www.xingwen.online:9810/rtp/239.253.92.181:6046
+CCTV-6电影,http://www.xingwen.online:9810/rtp/239.253.92.193:6058
+CCTV-7国防军事,http://www.xingwen.online:9810/rtp/239.253.92.194:6059
+CCTV-8电视剧,http://www.xingwen.online:9810/rtp/239.253.92.195:6060
+CCTV-9纪录,http://www.xingwen.online:9810/rtp/239.253.92.107:6020
+CCTV-10科教,http://www.xingwen.online:9810/rtp/239.253.92.196:6061
+CCTV-11戏曲,http://www.xingwen.online:9810/rtp/239.253.93.153:6321
+CCTV-12社会与法,http://www.xingwen.online:9810/rtp/239.253.92.197:6062
+CCTV-13新闻,http://www.xingwen.online:9810/rtp/239.253.92.13:8008
+CCTV-14少儿,http://www.xingwen.online:9810/rtp/239.253.92.198:6063
+CCTV-15音乐,http://www.xingwen.online:9810/rtp/239.253.93.154:6322
+CCTV-17农业农村,http://www.xingwen.online:9810/rtp/239.253.93.150:6318
+CCTV-5+体育赛事,http://www.xingwen.online:9810/rtp/239.253.92.82:8013
+CGTN国际,http://www.xingwen.online:9810/rtp/239.253.92.15:8011
+河北卫视,http://www.xingwen.online:9810/rtp/239.253.92.154:6011
+河北经济生活,http://www.xingwen.online:9810/rtp/239.253.92.171:6001
+河北都市,http://www.xingwen.online:9810/rtp/239.253.92.172:6002
+河北影视剧,http://www.xingwen.online:9810/rtp/239.253.92.173:6003
+河北少儿科教,http://www.xingwen.online:9810/rtp/239.253.92.174:6004
+河北公共,http://www.xingwen.online:9810/rtp/239.253.92.175:6005
+河北农民,http://www.xingwen.online:9810/rtp/239.253.92.176:6006
+睛彩河北,http://www.xingwen.online:9810/rtp/239.253.92.104:6221
+石家庄新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.149:6035
+石家庄娱乐,http://www.xingwen.online:9810/rtp/239.253.92.93:8120
+石家庄生活,http://www.xingwen.online:9810/rtp/239.253.92.94:8121
+石家庄都市,http://www.xingwen.online:9810/rtp/239.253.92.95:8122
+湖南卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.84:8015
+浙江卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.90:8020
+江苏卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.88:8018
+北京卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.87:8014
+东南卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.201:6146
+东方卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.89:8019
+天津卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.91:8021
+深圳卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.86:8017
+山东卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.207:8109
+广东卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.206:8108
+黑龙江卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.85:8016
+辽宁卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.115:6056
+安徽卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.209:6566
+湖北卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.210:6567
+四川卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.16:6043
+重庆卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.10:6053
+河南卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.137:6144
+金鹰纪实高清,http://www.xingwen.online:9810/rtp/239.253.92.103:6054
+广西卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.76:8043
+贵州卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.105:6055
+江西卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.19:6145
+吉林卫视高清,http://www.xingwen.online:9810/rtp/239.253.92.202:6147
+海南卫视高清,http://www.xingwen.online:9810/rtp/239.253.93.155:6323
+BRTV纪实科教,http://www.xingwen.online:9810/rtp/239.253.93.190:6358
+承德新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.222:8112
+承德公共,http://www.xingwen.online:9810/rtp/239.253.92.223:8113
+张家口新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.225:8115
+张家口公共,http://www.xingwen.online:9810/rtp/239.253.92.226:8116
+秦皇岛新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.52:6021
+秦皇岛公共,http://www.xingwen.online:9810/rtp/239.253.92.53:6022
+秦皇岛影视,http://www.xingwen.online:9810/rtp/239.253.92.54:6023
+唐山新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.245:6089
+唐山生活服务,http://www.xingwen.online:9810/rtp/239.253.92.126:6026
+唐山影视,http://www.xingwen.online:9810/rtp/239.253.92.127:6027
+唐山公共,http://www.xingwen.online:9810/rtp/239.253.92.128:6028
+廊坊新闻,http://www.xingwen.online:9810/rtp/239.253.92.164:6036
+廊坊公共,http://www.xingwen.online:9810/rtp/239.253.92.166:6037
+沧州新闻综合,http://www.xingwen.online:9810/rtp/239.253.92.121:6015
+沧州公共,http://www.xingwen.online:9810/rtp/239.253.92.122:6016
+沧州影视娱乐,http://www.xingwen.online:9810/rtp/239.253.92.123:6017
+保定新闻综合,http://www.xingwen.online:9810/rtp/239.253.93.2:6153
+保定公共频道,http://www.xingwen.online:9810/rtp/239.253.93.4:6157
+保定生活健康,http://www.xingwen.online:9810/rtp/239.253.93.5:6158
+衡水新闻综合,http://www.xingwen.online:9810/rtp/239.253.93.3:6154
+衡水公共,http://www.xingwen.online:9810/rtp/239.253.93.7:6160
+邢台综合,http://www.xingwen.online:9810/rtp/239.253.93.8:6161
+邢台城市生活,http://www.xingwen.online:9810/rtp/239.253.93.10:6163
+邯郸新闻综合,http://www.xingwen.online:9810/rtp/239.253.93.11:6164
+邯郸公共,http://www.xingwen.online:9810/rtp/239.253.93.12:6165
+邯郸科技教育,http://www.xingwen.online:9810/rtp/239.253.93.13:6166
+元氏电视,http://www.xingwen.online:9810/rtp/239.253.92.142:6040
+无极电视,http://www.xingwen.online:9810/rtp/239.253.92.138:6222
+高邑电视,http://www.xingwen.online:9810/rtp/239.253.92.160:6041
+栾城电视,http://www.xingwen.online:9810/rtp/239.253.92.187:6051
+井陉矿区电视,http://www.xingwen.online:9810/rtp/239.253.92.215:6067
+赞皇电视,http://www.xingwen.online:9810/rtp/239.253.92.12:6042
+深泽电视,http://www.xingwen.online:9810/rtp/239.253.94.31:6630
+赵县电视,http://www.xingwen.online:9810/rtp/239.253.93.140:6308
+晋州电视,http://www.xingwen.online:9810/rtp/239.253.93.156:6324
+井陉电视,http://www.xingwen.online:9810/rtp/239.253.93.205:6383
+平泉电视,http://www.xingwen.online:9810/rtp/239.253.92.156:6012
+滦平电视,http://www.xingwen.online:9810/rtp/239.253.92.100:6142
+双滦电视,http://www.xingwen.online:9810/rtp/239.253.92.147:6224
+兴隆电视,http://www.xingwen.online:9810/rtp/239.253.93.104:6271
+隆化电视,http://www.xingwen.online:9810/rtp/239.253.93.174:6342
+承德电视,http://www.xingwen.online:9810/rtp/239.253.94.28:6627
+宽城新闻,http://www.xingwen.online:9810/rtp/239.253.93.117:6019
+任县电视,http://www.xingwen.online:9810/rtp/239.253.93.145:6313
+邯山电视,http://www.xingwen.online:9810/rtp/239.253.93.146:6314
+崇礼电视,http://www.xingwen.online:9810/rtp/239.253.93.147:6315
+顺平电视,http://www.xingwen.online:9810/rtp/239.253.93.148:6316
+张北电视,http://www.xingwen.online:9810/rtp/239.253.93.159:6327
+尚义电视,http://www.xingwen.online:9810/rtp/239.253.93.163:6331
+邱县电视,http://www.xingwen.online:9810/rtp/239.253.93.158:6326
+赤城电视,http://www.xingwen.online:9810/rtp/239.253.93.160:6328
+康保电视,http://www.xingwen.online:9810/rtp/239.253.93.165:6333
+遵化电视,http://www.xingwen.online:9810/rtp/239.253.93.177:6345
+昌黎电视,http://www.xingwen.online:9810/rtp/239.253.92.109:6217
+抚宁电视,http://www.xingwen.online:9810/rtp/239.253.93.201:6379
+卢龙电视,http://www.xingwen.online:9810/rtp/239.253.93.206:6384
+丰南电视,http://www.xingwen.online:9810/rtp/239.253.92.231:6070
+迁西电视,http://www.xingwen.online:9810/rtp/239.253.92.247:6091
+滦南电视,http://www.xingwen.online:9810/rtp/239.253.92.218:6100
+玉田电视,http://www.xingwen.online:9810/rtp/239.253.92.118:6133
+滦州电视,http://www.xingwen.online:9810/rtp/239.253.92.97:6138
+香河电视,http://www.xingwen.online:9810/rtp/239.253.92.185:6049
+大城电视,http://www.xingwen.online:9810/rtp/239.253.92.230:6068
+大厂电视,http://www.xingwen.online:9810/rtp/239.253.92.253:6244
+固安电视,http://www.xingwen.online:9810/rtp/239.253.93.109:6276
+文安电视,http://www.xingwen.online:9810/rtp/239.253.93.111:6278
+三河电视,http://www.xingwen.online:9810/rtp/239.253.93.143:6311
+永清电视,http://www.xingwen.online:9810/rtp/239.253.93.172:6340
+成安电视,http://www.xingwen.online:9810/rtp/239.253.93.178:6346
+魏县电视,http://www.xingwen.online:9810/rtp/239.253.93.185:6353
+霸州综合,http://www.xingwen.online:9810/rtp/239.253.93.209:6387
+黄骅电视,http://www.xingwen.online:9810/rtp/239.253.92.183:6047
+东光电视,http://www.xingwen.online:9810/rtp/239.253.93.96:6262
+青县电视,http://www.xingwen.online:9810/rtp/239.253.93.139:6307
+盐山电视,http://www.xingwen.online:9810/rtp/239.253.93.144:6312
+南皮电视,http://www.xingwen.online:9810/rtp/239.253.93.149:6317
+肃宁电视,http://www.xingwen.online:9810/rtp/239.253.93.152:6320
+吴桥电视,http://www.xingwen.online:9810/rtp/239.253.93.169:6337
+丰宁综合,http://www.xingwen.online:9810/rtp/239.253.93.210:6388
+定兴电视,http://www.xingwen.online:9810/rtp/239.253.93.14:6167
+阜平电视,http://www.xingwen.online:9810/rtp/239.253.93.16:6169
+涞水电视,http://www.xingwen.online:9810/rtp/239.253.93.17:6170
+满城电视,http://www.xingwen.online:9810/rtp/239.253.93.19:6172
+涞源电视,http://www.xingwen.online:9810/rtp/239.253.93.22:6175
+高碑店电视,http://www.xingwen.online:9810/rtp/239.253.93.23:6176
+清苑电视,http://www.xingwen.online:9810/rtp/239.253.93.24:6177
+涿州电视,http://www.xingwen.online:9810/rtp/239.253.93.27:6180
+唐县电视,http://www.xingwen.online:9810/rtp/239.253.93.30:6183
+曲阳电视,http://www.xingwen.online:9810/rtp/239.253.93.31:6184
+望都电视,http://www.xingwen.online:9810/rtp/239.253.93.32:6185
+定州电视,http://www.xingwen.online:9810/rtp/239.253.93.95:6260
+高阳电视,http://www.xingwen.online:9810/rtp/239.253.93.105:6272
+安新电视,http://www.xingwen.online:9810/rtp/239.253.93.107:6274
+容城电视,http://www.xingwen.online:9810/rtp/239.253.93.110:6277
+临城电视,http://www.xingwen.online:9810/rtp/239.253.93.167:6335
+柏乡电视,http://www.xingwen.online:9810/rtp/239.253.93.171:6339
+涿鹿电视,http://www.xingwen.online:9810/rtp/239.253.93.181:6349
+徐水电视,http://www.xingwen.online:9810/rtp/239.253.93.182:6350
+大名电视,http://www.xingwen.online:9810/rtp/239.253.93.186:6354
+巨鹿电视,http://www.xingwen.online:9810/rtp/239.253.92.254:6449
+临西电视,http://www.xingwen.online:9810/rtp/239.253.94.29:6628
+冀州电视,http://www.xingwen.online:9810/rtp/239.253.93.34:6187
+安平电视,http://www.xingwen.online:9810/rtp/239.253.93.36:6189
+景县电视,http://www.xingwen.online:9810/rtp/239.253.93.38:6191
+饶阳电视,http://www.xingwen.online:9810/rtp/239.253.93.40:6193
+深州电视,http://www.xingwen.online:9810/rtp/239.253.93.42:6195
+武强电视,http://www.xingwen.online:9810/rtp/239.253.93.79:6245
+阜城电视,http://www.xingwen.online:9810/rtp/239.253.93.168:6336
+故城电视,http://www.xingwen.online:9810/rtp/239.253.93.161:6329
+枣强电视,http://www.xingwen.online:9810/rtp/239.253.93.166:6334
+清河电视,http://www.xingwen.online:9810/rtp/239.253.93.44:6197
+广宗电视,http://www.xingwen.online:9810/rtp/239.253.93.50:6203
+武安电视,http://www.xingwen.online:9810/rtp/239.253.93.62:6215
+宁晋电视,http://www.xingwen.online:9810/rtp/239.253.93.51:6204
+平乡电视,http://www.xingwen.online:9810/rtp/239.253.93.53:6206
+鸡泽电视,http://www.xingwen.online:9810/rtp/239.253.93.64:6219
+隆尧电视,http://www.xingwen.online:9810/rtp/239.253.93.65:6230
+广平电视,http://www.xingwen.online:9810/rtp/239.253.93.66:6231
+南和电视,http://www.xingwen.online:9810/rtp/239.253.93.80:6246
+临漳电视,http://www.xingwen.online:9810/rtp/239.253.93.84:6250
+内丘电视,http://www.xingwen.online:9810/rtp/239.253.93.102:6268
+涉县电视,http://www.xingwen.online:9810/rtp/239.253.93.106:6273
+迁安电视,http://www.xingwen.online:9810/rtp/239.253.93.113:6280
+馆陶电视,http://www.xingwen.online:9810/rtp/239.253.93.115:6282
+乐亭电视,http://www.xingwen.online:9810/rtp/239.253.93.250:6290
+沙河电视,http://www.xingwen.online:9810/rtp/239.253.93.179:6347
+曲周电视,http://www.xingwen.online:9810/rtp/239.253.93.54:6207
+南宫电视,http://www.xingwen.online:9810/rtp/239.253.93.48:6201
+丰润电视,http://www.xingwen.online:9810/rtp/239.253.92.252:6156
+纪实人文高清,http://www.xingwen.online:9810/rtp/239.253.92.99:6013
+中国教育-1高清,http://www.xingwen.online:9810/rtp/239.253.92.211:6069
+中国交通频道,http://www.xingwen.online:9810/rtp/239.253.93.189:6357
+kaku 少儿,http://www.xingwen.online:9810/rtp/239.253.92.162:8054
+金鹰卡通,http://www.xingwen.online:9810/rtp/239.253.92.163:8055
+嘉佳卡通,http://www.xingwen.online:9810/rtp/239.253.93.203:6381
+优漫卡通,http://www.xingwen.online:9810/rtp/239.253.93.204:6382
+山东教育,http://www.xingwen.online:9810/rtp/239.253.92.106:6135
+兵团卫视,http://www.xingwen.online:9810/rtp/239.253.93.176:6344
+百姓健康,http://www.xingwen.online:9810/rtp/239.253.92.199:6568
+证券服务,http://www.xingwen.online:9810/rtp/239.253.92.124:6569
+电视指南,http://www.xingwen.online:9810/rtp/239.253.92.17:6078
+第一剧场,http://www.xingwen.online:9810/rtp/239.253.92.18:6079
+风云剧场,http://www.xingwen.online:9810/rtp/239.253.92.22:6073
+怀旧剧场,http://www.xingwen.online:9810/rtp/239.253.92.98:6120
+风云音乐,http://www.xingwen.online:9810/rtp/239.253.92.111:8060
+风云足球,http://www.xingwen.online:9810/rtp/239.253.92.110:8061
+高尔夫网球,http://www.xingwen.online:9810/rtp/239.253.92.117:8062
+武术世界,http://www.xingwen.online:9810/rtp/239.253.92.141:8064
+兵器科技,http://www.xingwen.online:9810/rtp/239.253.92.119:8065
+世界地理,http://www.xingwen.online:9810/rtp/239.253.92.113:8066
+老故事,http://www.xingwen.online:9810/rtp/239.253.92.132:8068
+环球奇观,http://www.xingwen.online:9810/rtp/239.253.92.130:8069
+文物宝库,http://www.xingwen.online:9810/rtp/239.253.92.159:8070
+国学,http://www.xingwen.online:9810/rtp/239.253.92.158:8071
+女性时尚,http://www.xingwen.online:9810/rtp/239.253.92.249:6103
+文化精品,http://www.xingwen.online:9810/rtp/239.253.92.25:6104
+早期教育,http://www.xingwen.online:9810/rtp/239.253.92.39:6107
+梨园,http://www.xingwen.online:9810/rtp/239.253.92.152:8086
+汽摩,http://www.xingwen.online:9810/rtp/239.253.92.46:6110
+CETV-2,http://www.xingwen.online:9810/rtp/239.253.92.108:6136
+CETV-4,http://www.xingwen.online:9810/rtp/239.253.92.200:6137
+中学生,http://www.xingwen.online:9810/rtp/239.253.92.27:6106
+快乐垂钓,http://www.xingwen.online:9810/rtp/239.253.93.213:6391
+新动漫,http://www.xingwen.online:9810/rtp/239.253.93.217:6395
+先锋乒羽,http://www.xingwen.online:9810/rtp/239.253.93.219:6397
+发现之旅,http://www.xingwen.online:9810/rtp/239.253.94.30:6629
+环球旅游,http://www.xingwen.online:9810/rtp/239.253.93.220:6398
+车迷,http://www.xingwen.online:9810/rtp/239.253.93.221:6399
+游戏风云,http://www.xingwen.online:9810/rtp/239.253.93.222:6400
+欢笑剧场4K,http://www.xingwen.online:9810/rtp/239.253.93.223:6401
+乐游高清,http://www.xingwen.online:9810/rtp/239.253.93.224:6402
+动漫秀场,http://www.xingwen.online:9810/rtp/239.253.93.225:6403
+生活时尚,http://www.xingwen.online:9810/rtp/239.253.93.226:6404
+都市剧场,http://www.xingwen.online:9810/rtp/239.253.93.227:6405
+茶频道,http://www.xingwen.online:9810/rtp/239.253.93.212:6390
+天元围棋,http://www.xingwen.online:9810/rtp/239.253.93.211:6389
+书画,http://www.xingwen.online:9810/rtp/239.253.93.214:6392
+摄影,http://www.xingwen.online:9810/rtp/239.253.93.215:6393
+央视台球,http://www.xingwen.online:9810/rtp/239.253.93.231:6409
+求索纪录,http://www.xingwen.online:9810/rtp/239.253.93.236:6414
+东方财经,http://www.xingwen.online:9810/rtp/239.253.93.239:6417
+金色学堂,http://www.xingwen.online:9810/rtp/239.253.93.240:6418
+法治天地,http://www.xingwen.online:9810/rtp/239.253.93.241:6419
+中华特产,http://www.xingwen.online:9810/rtp/239.253.93.242:6420
+四海钓鱼,http://www.xingwen.online:9810/rtp/239.253.93.243:6421
+优优宝贝,http://www.xingwen.online:9810/rtp/239.253.93.244:6422
+生态环境,http://www.xingwen.online:9810/rtp/239.253.93.245:6423
+家庭理财,http://www.xingwen.online:9810/rtp/239.253.93.246:6424
+财富天下,http://www.xingwen.online:9810/rtp/239.253.93.247:6425
+中华美食,http://www.xingwen.online:9810/rtp/239.253.93.248:6426
+电视指南,http://www.xingwen.online:9810/rtp/239.253.93.249:6427
+第一剧场,http://www.xingwen.online:9810/rtp/239.253.93.138:6428
+风云剧场,http://www.xingwen.online:9810/rtp/239.253.93.251:6429
+怀旧剧场,http://www.xingwen.online:9810/rtp/239.253.93.252:6430
+风云音乐,http://www.xingwen.online:9810/rtp/239.253.93.253:6431
+风云足球,http://www.xingwen.online:9810/rtp/239.253.93.254:6432
+高尔夫网球,http://www.xingwen.online:9810/rtp/239.253.93.122:6465
+武术世界,http://www.xingwen.online:9810/rtp/239.253.93.46:6434
+兵器科技,http://www.xingwen.online:9810/rtp/239.253.93.47:6435
+世界地理,http://www.xingwen.online:9810/rtp/239.253.92.131:6113
+文物宝库,http://www.xingwen.online:9810/rtp/239.253.93.180:6437
+女性时尚,http://www.xingwen.online:9810/rtp/239.253.92.144:6114
+文化精品,http://www.xingwen.online:9810/rtp/239.253.93.175:6439
+早期教育,http://www.xingwen.online:9810/rtp/239.253.93.164:6440
+梨园高清,http://www.xingwen.online:9810/rtp/239.253.93.133:6441
+CCTV-4K,http://www.xingwen.online:9810/rtp/239.253.93.134:6631
+CCTV4中文国际欧洲,http://www.xingwen.online:9810/rtp/239.253.93.192:6370
+CCTV4中文国际美洲,http://www.xingwen.online:9810/rtp/239.253.93.193:6371
+CGTN 英文记录,http://www.xingwen.online:9810/rtp/239.253.93.195:6373
+CGTN 西班牙语,http://www.xingwen.online:9810/rtp/239.253.93.196:6374
+CGTN 法语,http://www.xingwen.online:9810/rtp/239.253.93.197:6375
+CGTN 阿拉伯语,http://www.xingwen.online:9810/rtp/239.253.93.198:6376
+CGTN 俄语,http://www.xingwen.online:9810/rtp/239.253.93.199:6377
 
 🐼福建电信,#genre#
 
@@ -3021,32 +2777,26 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000297.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000298.m3u8
 
-<br />
-<b>Warning</b>:  Undefined variable $锦江电信组播 in <b>/www/wwwroot/tv.tvbox6.icu/tv/v/9.php</b> on line <b>48</b><br />
 
 🐼电影频道,#genre#
 
-CCTV6电影频道,http://tv.tvbox6.icu/tv/cctv6.m3u8#http://tv.tvbox6.icu/tv/cctv6-1.m3u8
-1905电影1,http://tv.tvbox6.icu/tv/1905.php?id=1905a
-1905电影2,http://tv.tvbox6.icu/tv/1905.php?id=1905b
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+1905电影(内),http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影(外),http://php.jdshipin.com:8880/1905.php?id=1905dy2
+莲花卫视,http://php.jdshipin.com:8880/amlh.php
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$移动 | 回看
 
-重温经典,http://117.114.153.18:8180/TV00000000000000000007@HHZT
-星空卫视,http://117.114.153.18:8180/TV00000000000000000071@HHZT
-凤凰资讯,http://117.114.153.18:8180/TV00000000000000000068@HHZT
-凤凰中文,http://117.114.153.18:8180/TV00000000000000000069@HHZT
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+金马影院,http://pull.kktv8.com/livekktv/128600025.flv
+
+北京影视,http://117.114.153.18:8180/TV00000000000000000022@HHZT
 凤凰电影,http://117.114.153.18:8180/TV00000000000000000072@HHZT
+HBO(美),http://117.114.153.18:8180/TV00000000000000000074@HHZT
 STARmovies,http://117.114.153.18:8180/TV00000000000000000075@HHZT
 axn电影,http://117.114.153.18:8180/TV00000000000000000076@HHZT
+CHC影迷电影,http://117.114.153.18:8180/TV00000000000000000092@HHZT
 CINEMAX电影,http://117.114.153.18:8180/TV00000000000000000109@HHZT
-HBO（美）,http://117.114.153.18:8180/TV00000000000000000074@HHZT
-
-北京IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001$北京联通组播
-经典影视台1,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
-经典影视台2,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-金马影院,http://pull.kktv8.com/livekktv/128600025.flv
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
+CHC影迷电影,http://117.114.153.18:8180/TV00000000000000000195@HHZT
 
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 刘德华电影,http://47.236.28.28:35455/douyu/2516864
@@ -3057,84 +2807,6 @@ HBO（美）,http://117.114.153.18:8180/TV00000000000000000074@HHZT
 龙祥电影,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a$MITV 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-
-BesTV,http://118.114.168.57:8888/udp/239.93.0.151:5140$$成都电信组播
-BesTV剧集,http://118.114.168.57:8888/udp/239.93.42.91:5140$$成都电信组播
-BesTV电影,http://118.114.168.57:8888/udp/239.93.0.105:5140$$成都电信组
-
-BesTV,http://118.122.103.228:4022/udp/239.93.0.151:5140$四川成都电信
-BesTV剧集,http://118.122.103.228:4022/udp/239.93.42.91:5140$四川成都电信
-BesTV电影,http://118.122.103.228:4022/udp/239.93.0.105:5140$四川成都电信
-
-爱怀旧,http:/iptv.028028.xyz:8/udp/239.93.42.21:5140\
-爱记录,http://iptv.028028.xyz:8/udp/239.93.42.13:5140$锦江电信组播
-爱美食,http://iptv.028028.xyz:8/udp/239.93.42.16:5140$锦江电信组播
-iHOT爱悬疑,http://iptv.028028.xyz:8/udp/239.93.42.12:5140$锦江电信组播
-iHOT爱谍战,http://iptv.028028.xyz:8/udp/239.93.42.14:5140$锦江电信组播
-iHOT爱动漫,http://iptv.028028.xyz:8/udp/239.93.42.23:5140$锦江电信组播
-iHOT爱科幻,http://iptv.028028.xyz:8/udp/239.93.42.10:5140$锦江电信组播
-iHOT爱奇谈,http://iptv.028028.xyz:8/udp/239.93.42.22:5140$锦江电信组播
-iHOT爱喜剧,http://iptv.028028.xyz:8/udp/239.93.42.9:5140$锦江电信组播
-iHOT爱幼教,http://iptv.028028.xyz:8/udp/239.93.42.17:5140$锦江电信组播
-iHOT爱院线,http://iptv.028028.xyz:8/udp/239.93.42.11:5140$锦江电信组播
-iHOT爱赛车,http://iptv.028028.xyz:8/udp/239.93.42.20:5140$锦江电信组播
-iHOT爱玩具,http://iptv.028028.xyz:8/udp/239.93.42.18:5140$锦江电信组播
-
-爱怀旧,http://118.114.168.57:8888/udp/239.93.42.21:5140$成都电信组播
-爱记录,http://118.114.168.57:8888/udp/239.93.42.13:5140$成都电信组播
-爱美食,http://118.114.168.57:8888/udp/239.93.42.16:5140$成都电信组播
-HKOT爱喜剧,http://118.114.168.57:8888/udp/239.93.42.9:5140$成都电信组播
-IKOT爱奇谈,http://118.114.168.57:8888/udp/239.93.42.22:5140$成都电信组播
-IKOT爱悬疑,http://118.114.168.57:8888/udp/239.93.42.12:5140$成都电信组播
-IKOT爱谍战,http://118.114.168.57:8888/udp/239.93.42.14:5140$成都电信组播
-IKOT爱院线,http://118.114.168.57:8888/udp/239.93.42.11:5140$成都电信组播
-都市剧场,http://118.114.168.57:8888/udp/239.93.42.14:5140$成都电信组播
-
-爱怀旧,http://118.122.103.228:4022/udp/239.93.42.21:5140$四川成都电信
-爱记录,http://118.122.103.228:4022/udp/239.93.42.13:5140$四川成都电信
-爱美食,http://118.122.103.228:4022/udp/239.93.42.16:5140$四川成都电信
-HKOT爱喜剧,http://118.122.103.228:4022/udp/239.93.42.9:5140$四川成都电信
-IKOT爱奇谈,http://118.122.103.228:4022/udp/239.93.42.22:5140$四川成都电信
-IKOT爱悬疑,http://118.122.103.228:4022/udp/239.93.42.12:5140$四川成都电信
-IKOT爱谍战,http://118.122.103.228:4022/udp/239.93.42.14:5140$四川成都电信
-IKOT爱院线,http://118.122.103.228:4022/udp/239.93.42.11:5140$四川成都电信
-都市剧场,http://118.122.103.228:4022/udp/239.93.42.14:5140$四川成都电信
-
-东北热剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8$海南移动V6
-古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8$海南移动V6
-惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$海南移动V6
-欢乐剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8$海南移动V6
-爱情喜剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8$海南移动V6
-军旅剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8$海南移动V6
-动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$海南移动V6
-精品大剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8$海南移动V6
-精品记录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8$海南移动V6
-超级电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8$海南移动V6
-超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8$海南移动V6
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$海南移动V6
-
-动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$黑龙江移动V6
-古装剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
-宏伟巨献,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
-惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
-爱情剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
-精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
-我看电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
-军旅剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
-家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
-超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
-超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
-东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
-欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V6
-黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
-
-长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
-
-精彩影视,http://www.8700956.top:18888/rtp/239.81.0.152:4056$广西钦州电信
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 科幻电影,https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
 CHC影迷电影,http://111.175.61.103:4022/rtp/239.69.1.241:11088
@@ -3153,7 +2825,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 太原影视,http://live.cooltv.top/tv/tide.php?id=tyys
 内蒙影视,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-赤峰影视,http://tv.tvbox6.icu/tv/cfrtv.php?id=2
+赤峰影视,http://tvbox6.cn/tv/cfrtv.php?id=2
 辽宁影视,http://59.44.192.22:65000/hls/22/index.m3u8
 延边影视,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -3178,12 +2850,12 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 武汉影视,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 湖南电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 湖南电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43098/index.m3u8
-湖南电影,http://tv.tvbox6.icu/tv/mgtv.php?id=221
+湖南电影,http://tvbox6.cn/tv/mgtv.php?id=221
 广东影视,http://113.98.122.166:9901/tsfile/live/1059_1.m3u8
 深圳影视,http://jxtv3.gdsz.eu.org:8081/hls/70/index.m3u8
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
-成都影视,http://tv.tvbox6.icu/tv/cditv.php?id=cdyswy
+成都影视,http://tvbox6.cn/tv/cditv.php?id=cdyswy
 贵州影视,http://tvbox6.com/tv/dl/dl668/gztv.php?id=gzwy
 
 🐼直播中国,#genre#
@@ -3404,42 +3076,42 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 北京纪实科教,http://beijinglive.online.domybox.com:91/live/BTVKJhd-8M/live.m3u8
 北京国际,http://beijinglive.online.domybox.com:91/live/BTVGJ-1500k/live.m3u8
 
-北京体育休闲,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=54$北京联通组播
-北京纪实科教,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=55$北京联通组播
-北京财经,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=56$北京联通组播
-北京生活,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=57$北京联通组播
-北京影视,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=58$北京联通组播
-北京新闻,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=59$北京联通组播
-北京卫视,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=60$北京联通组播
-北京文艺,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=61$北京联通组播
-北京体育休闲,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=62$北京联通组播
-北京国际频道,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=63$北京联通组播
+北京体育休闲,http://tvbox6.cn/tv/zb/bjcucc.php?id=54$北京联通组播
+北京纪实科教,http://tvbox6.cn/tv/zb/bjcucc.php?id=55$北京联通组播
+北京财经,http://tvbox6.cn/tv/zb/bjcucc.php?id=56$北京联通组播
+北京生活,http://tvbox6.cn/tv/zb/bjcucc.php?id=57$北京联通组播
+北京影视,http://tvbox6.cn/tv/zb/bjcucc.php?id=58$北京联通组播
+北京新闻,http://tvbox6.cn/tv/zb/bjcucc.php?id=59$北京联通组播
+北京卫视,http://tvbox6.cn/tv/zb/bjcucc.php?id=60$北京联通组播
+北京文艺,http://tvbox6.cn/tv/zb/bjcucc.php?id=61$北京联通组播
+北京体育休闲,http://tvbox6.cn/tv/zb/bjcucc.php?id=62$北京联通组播
+北京国际频道,http://tvbox6.cn/tv/zb/bjcucc.php?id=63$北京联通组播
 
-通州融媒,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=31$北京联通组播
-朝阳融媒,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=32$北京联通组播
-北京IPTV淘剧场,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=33$北京联通组播
-北京IPTV淘娱乐,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=34$北京联通组播
-北京IPTV萌宠,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=35$北京联通组播
-北京IPTV淘精彩,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=36$北京联通组播
-北京IPTV淘BABY,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=37$北京联通组播
-北京IPTV4K超清,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=38$北京联通组播
-北京IPTV淘电影,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=39$北京联通组播
-IPTV收视指南,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=40$北京联通组播
-IPTV热播剧场,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=41$北京联通组播
-IPTV经典电影,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=42$北京联通组播
-IPTV魅力时尚,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=43$北京联通组播
-IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
-爱上4K,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=45$北京联通组播
-大健康,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=46$北京联通组播
-密云电视台,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=47$北京联通组播
-晴采竞技,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=48$北京联通组播
-晴采篮球,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=49$北京联通组播
-晴采羽毛球,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=50$北京联通组播
-晴采广场舞,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=51$北京联通组播
-体育赛事,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=52$北京联通组播
-北京房山电视台,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=53$北京联通组播
-卡酷少儿,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=64$北京联通组播
-中国交通,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=65$北京联通组播
+通州融媒,http://tvbox6.cn/tv/zb/bjcucc.php?id=31$北京联通组播
+朝阳融媒,http://tvbox6.cn/tv/zb/bjcucc.php?id=32$北京联通组播
+北京IPTV淘剧场,http://tvbox6.cn/tv/zb/bjcucc.php?id=33$北京联通组播
+北京IPTV淘娱乐,http://tvbox6.cn/tv/zb/bjcucc.php?id=34$北京联通组播
+北京IPTV萌宠,http://tvbox6.cn/tv/zb/bjcucc.php?id=35$北京联通组播
+北京IPTV淘精彩,http://tvbox6.cn/tv/zb/bjcucc.php?id=36$北京联通组播
+北京IPTV淘BABY,http://tvbox6.cn/tv/zb/bjcucc.php?id=37$北京联通组播
+北京IPTV4K超清,http://tvbox6.cn/tv/zb/bjcucc.php?id=38$北京联通组播
+北京IPTV淘电影,http://tvbox6.cn/tv/zb/bjcucc.php?id=39$北京联通组播
+IPTV收视指南,http://tvbox6.cn/tv/zb/bjcucc.php?id=40$北京联通组播
+IPTV热播剧场,http://tvbox6.cn/tv/zb/bjcucc.php?id=41$北京联通组播
+IPTV经典电影,http://tvbox6.cn/tv/zb/bjcucc.php?id=42$北京联通组播
+IPTV魅力时尚,http://tvbox6.cn/tv/zb/bjcucc.php?id=43$北京联通组播
+IPTV少儿动画,http://tvbox6.cn/tv/zb/bjcucc.php?id=44$北京联通组播
+爱上4K,http://tvbox6.cn/tv/zb/bjcucc.php?id=45$北京联通组播
+大健康,http://tvbox6.cn/tv/zb/bjcucc.php?id=46$北京联通组播
+密云电视台,http://tvbox6.cn/tv/zb/bjcucc.php?id=47$北京联通组播
+晴采竞技,http://tvbox6.cn/tv/zb/bjcucc.php?id=48$北京联通组播
+晴采篮球,http://tvbox6.cn/tv/zb/bjcucc.php?id=49$北京联通组播
+晴采羽毛球,http://tvbox6.cn/tv/zb/bjcucc.php?id=50$北京联通组播
+晴采广场舞,http://tvbox6.cn/tv/zb/bjcucc.php?id=51$北京联通组播
+体育赛事,http://tvbox6.cn/tv/zb/bjcucc.php?id=52$北京联通组播
+北京房山电视台,http://tvbox6.cn/tv/zb/bjcucc.php?id=53$北京联通组播
+卡酷少儿,http://tvbox6.cn/tv/zb/bjcucc.php?id=64$北京联通组播
+中国交通,http://tvbox6.cn/tv/zb/bjcucc.php?id=65$北京联通组播
 
 
 北京体育休闲,http://webmail.axxe.top:4022/rtp/239.3.1.243:8000$北京联通组播1
@@ -3502,17 +3174,15 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 
 津南电视,http://play.jinnantv.top/live/JNTV1.m3u8$官方源
 
-天津卫视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=1$天津联通
-天津新闻,http://tv.tvbox6.icu/tv/9dtjlt.php?id=2$天津联通
-天津文艺,http://tv.tvbox6.icu/tv/9dtjlt.php?id=3$天津联通
-天津影视,http://tv.tvbox6.icu/tv/9dtjlt.php?id=4$天津联通
-天津都市,http://tv.tvbox6.icu/tv/9dtjlt.php?id=5$天津联通
-天津体育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=6$天津联通
-天津教育,http://tv.tvbox6.icu/tv/9dtjlt.php?id=7$天津联通
-天津购物,http://tv.tvbox6.icu/tv/9dtjlt.php?id=8$天津联通
+天津卫视,http://tvbox6.cn/tv/9dtjlt.php?id=1$天津联通
+天津新闻,http://tvbox6.cn/tv/9dtjlt.php?id=2$天津联通
+天津文艺,http://tvbox6.cn/tv/9dtjlt.php?id=3$天津联通
+天津影视,http://tvbox6.cn/tv/9dtjlt.php?id=4$天津联通
+天津都市,http://tvbox6.cn/tv/9dtjlt.php?id=5$天津联通
+天津体育,http://tvbox6.cn/tv/9dtjlt.php?id=6$天津联通
+天津教育,http://tvbox6.cn/tv/9dtjlt.php?id=7$天津联通
+天津购物,http://tvbox6.cn/tv/9dtjlt.php?id=8$天津联通
 
-<br />
-<b>Warning</b>:  Undefined variable $官方源 in <b>/www/wwwroot/tv.tvbox6.icu/tv/s/12.php</b> on line <b>24</b><br />
 🐼河北ID12,#genre#
 
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58$官方源
@@ -3543,9 +3213,9 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 滦南综合,ttp://tvnew.lnshw.com.cn:58123/live/mhllle.m3u8$官方源
 承德平泉,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8$官方源
 保定定州,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8$官方源
-河北黄骅一套,http://tv.tvbox6.icu/tv/quklive.php?id=2
-河北河间一套,http://tv.tvbox6.icu/tv/quklive.php?id=3
-河北隆化综合,http://tv.tvbox6.icu/tv/quklive.php?id=4
+河北黄骅一套,http://tvbox6.cn/tv/quklive.php?id=2
+河北河间一套,http://tvbox6.cn/tv/quklive.php?id=3
+河北隆化综合,http://tvbox6.cn/tv/quklive.php?id=4
 
 河北三佳购物,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel12001/2300.m3u8
 河北杂技,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13002/2300.m3u8
@@ -3590,16 +3260,16 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 睛彩河北,http://27.184.17.222:4022/udp/239.254.200.27:6000$河北电信组播
 河北杂技,http://27.184.17.222:4022/udp/239.254.201.139:7203$河北电信组播
 
-河北卫视,http://tv.tvbox6.icu/tv/dxhbxt.php?id=17$河北邢台电信
-河北经济,http://tv.tvbox6.icu/tv/dxhbxt.php?id=18$河北邢台电信
-河北都市,http://tv.tvbox6.icu/tv/dxhbxt.php?id=19$河北邢台电信
-河北影视,http://tv.tvbox6.icu/tv/dxhbxt.php?id=20$河北邢台电信
-少儿科教,http://tv.tvbox6.icu/tv/dxhbxt.php?id=21$河北邢台电信
-河北公共,http://tv.tvbox6.icu/tv/dxhbxt.php?id=22$河北邢台电信
-河北农民,http://tv.tvbox6.icu/tv/dxhbxt.php?id=23$河北邢台电信
-邢台综合,http://tv.tvbox6.icu/tv/dxhbxt.php?id=75$河北邢台电信
-邢台公共,http://tv.tvbox6.icu/tv/dxhbxt.php?id=76$河北邢台电信
-睛彩河北,http://tv.tvbox6.icu/tv/dxhbxt.php?id=78$河北邢台电信
+河北卫视,http://tvbox6.cn/tv/dxhbxt.php?id=17$河北邢台电信
+河北经济,http://tvbox6.cn/tv/dxhbxt.php?id=18$河北邢台电信
+河北都市,http://tvbox6.cn/tv/dxhbxt.php?id=19$河北邢台电信
+河北影视,http://tvbox6.cn/tv/dxhbxt.php?id=20$河北邢台电信
+少儿科教,http://tvbox6.cn/tv/dxhbxt.php?id=21$河北邢台电信
+河北公共,http://tvbox6.cn/tv/dxhbxt.php?id=22$河北邢台电信
+河北农民,http://tvbox6.cn/tv/dxhbxt.php?id=23$河北邢台电信
+邢台综合,http://tvbox6.cn/tv/dxhbxt.php?id=75$河北邢台电信
+邢台公共,http://tvbox6.cn/tv/dxhbxt.php?id=76$河北邢台电信
+睛彩河北,http://tvbox6.cn/tv/dxhbxt.php?id=78$河北邢台电信
 
 大名电视台,http://110.231.38.106:12388/rtp/239.253.93.186:6354
 大名电视台,http://123.181.146.244:7000/rtp/239.254.201.149:6212
@@ -3669,9 +3339,9 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8$官方
 
-赤峰新闻综合频道,http://tv.tvbox6.icu/tv/cfrtv.php?id=1$官方
-赤峰影视娱乐频道,http://tv.tvbox6.icu/tv/cfrtv.php?id=2$官方
-赤峰经济服务频道,http://tv.tvbox6.icu/tv/cfrtv.php?id=3$官方
+赤峰新闻综合频道,http://tvbox6.cn/tv/cfrtv.php?id=1$官方
+赤峰影视娱乐频道,http://tvbox6.cn/tv/cfrtv.php?id=2$官方
+赤峰经济服务频道,http://tvbox6.cn/tv/cfrtv.php?id=3$官方
 
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8$官方
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8$官方
@@ -3685,37 +3355,48 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/1.m3u8$海南移动IPV6
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$黑龙江移动
 
-辽宁卫视,http://tvbox6.com/tv/bfgd.php?id=058$北方广电
-辽宁都市,http://tvbox6.com/tv/bfgd.php?id=610
-辽宁北方,http://tvbox6.com/tv/bfgd.php?id=071
-辽宁生活,http://tvbox6.com/tv/bfgd.php?id=073
-辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
-辽宁影视剧,http://tvbox6.com/tv/bfgd.php?id=070
-辽宁教育青少,http://tvbox6.com/tv/bfgd.php?id=075
-辽宁经济,http://tvbox6.com/tv/bfgd.php?id=076
-辽宁公共,http://tvbox6.com/tv/bfgd.php?id=077
-辽宁公共,http://tvbox6.com/tv/bfgd.php?id=481
-辽宁经济,http://tvbox6.com/tv/bfgd.php?id=480
-北方导视,http://tvbox6.com/tv/bfgd.php?id=187
-辽宁新动漫,http://tvbox6.com/tv/bfgd.php?id=140
+辽宁高清,http://8.138.7.223/tv/zb/lncucc.php?id=16$葫芦岛联通
+辽宁经济,http://8.138.7.223/tv/zb/lncucc.php?id=59$葫芦岛联通
+辽宁公共,http://8.138.7.223/tv/zb/lncucc.php?id=60$葫芦岛联通
+辽宁都市,http://8.138.7.223/tv/zb/lncucc.php?id=61$葫芦岛联通
+辽宁影视剧,http://8.138.7.223/tv/zb/lncucc.php?id=62$葫芦岛联通
+辽宁教育青少,http://8.138.7.223/tv/zb/lncucc.php?id=63$葫芦岛联通
+辽宁生活,http://8.138.7.223/tv/zb/lncucc.php?id=64$葫芦岛联通
+辽宁体育,http://8.138.7.223/tv/zb/lncucc.php?id=65$葫芦岛联通
+辽宁北方,http://8.138.7.223/tv/zb/lncucc.php?id=66$葫芦岛联通
+辽宁宜佳购物,http://8.138.7.223/tv/zb/lncucc.php?id=67$葫芦岛联通
 
 
-沈阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=059
-抚顺综合,http://tvbox6.com/tv/bfgd.php?id=275
-鞍山新闻综合,http://tvbox6.com/tv/bfgd.php?id=274
-大连新闻综合,http://tvbox6.com/tv/bfgd.php?id=273
-丹东新闻综合,http://tvbox6.com/tv/bfgd.php?id=276
-锦州新闻综合,http://tvbox6.com/tv/bfgd.php?id=277
-阜新综合,http://tvbox6.com/tv/bfgd.php?id=279
-辽阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=280
-营口新闻综合,http://tvbox6.com/tv/bfgd.php?id=278
-盘锦新闻综合,http://tvbox6.com/tv/bfgd.php?id=283
-铁岭新闻综合,http://tvbox6.com/tv/bfgd.php?id=281
-朝阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=282
-本溪综合,http://tvbox6.com/tv/bfgd.php?id=312
-连山区综合,http://tvbox6.com/tv/bfgd.php?id=491
-龙港区综合,http://tvbox6.com/tv/bfgd.php?id=490
-葫芦岛新闻综合,http://tvbox6.com/tv/bfgd.php?id=284
+辽宁卫视,http://b.tvbox6.icu/tv/bfgd.php?id=058$北方广电
+辽宁都市,http://b.tvbox6.icu/tv/bfgd.php?id=610$北方广电
+辽宁北方,http://b.tvbox6.icu/tv/bfgd.php?id=071$北方广电
+辽宁生活,http://b.tvbox6.icu/tv/bfgd.php?id=073$北方广电
+辽宁体育,http://b.tvbox6.icu/tv/bfgd.php?id=611$北方广电
+辽宁影视剧,http://b.tvbox6.icu/tv/bfgd.php?id=070$北方广电
+辽宁教育青少,http://b.tvbox6.icu/tv/bfgd.php?id=075$北方广电
+辽宁经济,http://b.tvbox6.icu/tv/bfgd.php?id=076$北方广电
+辽宁公共,http://b.tvbox6.icu/tv/bfgd.php?id=077$北方广电
+辽宁公共,http://b.tvbox6.icu/tv/bfgd.php?id=481$北方广电
+辽宁经济,http://b.tvbox6.icu/tv/bfgd.php?id=480$北方广电
+北方导视,http://b.tvbox6.icu/tv/bfgd.php?id=187$北方广电
+辽宁新动漫,http://b.tvbox6.icu/tv/bfgd.php?id=140$北方广电
+
+沈阳新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=059$北方广电
+抚顺综合,http://b.tvbox6.icu/tv/bfgd.php?id=275$北方广电
+鞍山新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=274$北方广电
+大连新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=273$北方广电
+丹东新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=276$北方广电
+锦州新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=277$北方广电
+阜新综合,http://b.tvbox6.icu/tv/bfgd.php?id=279$北方广电
+辽阳新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=280$北方广电
+营口新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=278$北方广电
+盘锦新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=283$北方广电
+铁岭新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=281$北方广电
+朝阳新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=282$北方广电
+本溪综合,http://b.tvbox6.icu/tv/bfgd.php?id=312$北方广电
+连山区综合,http://b.tvbox6.icu/tv/bfgd.php?id=491$北方广电
+龙港区综合,http://b.tvbox6.icu/tv/bfgd.php?id=490$北方广电
+葫芦岛新闻综合,http://b.tvbox6.icu/tv/bfgd.php?id=284$北方广电
 
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8$鞍山联通
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8$鞍山联通
@@ -3826,15 +3507,15 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 
 🐼吉林ID16,#genre#
 //吉林省
-吉林卫视,http://tv.tvbox6.icu/tv/jlntv.php?id=jlws
+吉林卫视,http://tvbox6.cn/tv/jlntv.php?id=jlws
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-吉林都市,http://tv.tvbox6.icu/tv/jlntv.php?id=jlds
-吉林生活,http://tv.tvbox6.icu/tv/jlntv.php?id=jlsh
-吉林影视,http://tv.tvbox6.icu/tv/jlntv.php?id=jlys
-吉林乡村,http://tv.tvbox6.icu/tv/jlntv.php?id=jlxc
-吉林公共,http://tv.tvbox6.icu/tv/jlntv.php?id=jlgg
-吉林综艺文化,http://tv.tvbox6.icu/tv/jlntv.php?id=jlzy
-吉林东北戏曲,http://tv.tvbox6.icu/tv/jlntv.php?id=dbxq
+吉林都市,http://tvbox6.cn/tv/jlntv.php?id=jlds
+吉林生活,http://tvbox6.cn/tv/jlntv.php?id=jlsh
+吉林影视,http://tvbox6.cn/tv/jlntv.php?id=jlys
+吉林乡村,http://tvbox6.cn/tv/jlntv.php?id=jlxc
+吉林公共,http://tvbox6.cn/tv/jlntv.php?id=jlgg
+吉林综艺文化,http://tvbox6.cn/tv/jlntv.php?id=jlzy
+吉林东北戏曲,http://tvbox6.cn/tv/jlntv.php?id=dbxq
 
 
 //01长春市（南关区、宽城区、朝阳区、二道区、绿园区、双阳区、九台区、公主岭市 | 榆树市、德惠市 |  农安县）
@@ -3842,7 +3523,7 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 长春九台区,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
 长春公主岭综合,http://stream5.jlntv.cn/gzl/playlist.m3u8
 长春德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
-长春农安综合,http://tv.tvbox6.icu/tv/jlntv.php?id=ccnazh
+长春农安综合,http://tvbox6.cn/tv/jlntv.php?id=ccnazh
 
 //02吉林市（昌邑区、龙潭区、船营区、丰满区 | 蛟河市、桦甸市、舒兰市、磐石市 |  永吉县）
 吉林桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
@@ -3851,45 +3532,45 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 吉林永吉综合,http://stream10.jlntv.cn/yongji/playlist.m3u8
 
 //03通化市（东昌区、二道江区 | 集安市、梅河口市 | 通化县、辉南县、柳河县）
-通化新闻综合,http://tv.tvbox6.icu/tv/jlntv.php?id=thxwzh
-通化集安综合,http://tv.tvbox6.icu/tv/jlntv.php?id=thjazh
-通化梅河口综合,http://tv.tvbox6.icu/tv/jlntv.php?id=thmhkzh
+通化新闻综合,http://tvbox6.cn/tv/jlntv.php?id=thxwzh
+通化集安综合,http://tvbox6.cn/tv/jlntv.php?id=thjazh
+通化梅河口综合,http://tvbox6.cn/tv/jlntv.php?id=thmhkzh
 通化通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
 通化辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
 通化柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
 
 //04白山市（浑江区、江源区 | 临江市 | 抚松县、靖宇县、长白朝鲜族自治县）
-白山综合,http://tv.tvbox6.icu/tv/jlntv.php?id=bszh
-白山长白新闻综合,http://tv.tvbox6.icu/tv/jlntv.php?id=bscbxwzh
+白山综合,http://tvbox6.cn/tv/jlntv.php?id=bszh
+白山长白新闻综合,http://tvbox6.cn/tv/jlntv.php?id=bscbxwzh
 白山江源综合,http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
 白山临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 白山抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
 白山靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
 
 //05辽源市（龙山区、西安区 | 东丰县、东辽县）
-辽源新闻综合,http://tv.tvbox6.icu/tv/jlntv.php?id=lyxwzh
+辽源新闻综合,http://tvbox6.cn/tv/jlntv.php?id=lyxwzh
 辽源东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
 辽源东辽综合,http://stream5.jlntv.cn/dl/playlist.m3u8
 
 //06四平市（铁西区、铁东区 |   双辽市 | 梨树县、伊通满族自治县）
-四平综合,http://tv.tvbox6.icu/tv/jlntv.php?id=spzh
+四平综合,http://tvbox6.cn/tv/jlntv.php?id=spzh
 四平双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
 四平梨树新闻,http://stream6.jlntv.cn/ls/playlist.m3u8
 四平伊通综合,http://stream6.jlntv.cn/yt/playlist.m3u8
 
 //07白城市（洮北区 |洮南市、大安市 |镇赉县、通榆县）
-白城新闻综合,http://tv.tvbox6.icu/tv/jlntv.php?id=bcxwzh
+白城新闻综合,http://tvbox6.cn/tv/jlntv.php?id=bcxwzh
 白城洮南综合,http://stream5.jlntv.cn/tn/playlist.m3u8
 白城大安新闻综合,http://stream6.jlntv.cn/da/playlist.m3u8
 白城镇赉综合,http://stream6.jlntv.cn/zl/playlist.m3u8
 白城通榆综合,http://stream6.jlntv.cn/ty/playlist.m3u8
 
 //08松原市（宁江区 | 扶余市 |长岭县、乾安县、前郭尔罗斯蒙古族自治县）
-松原综合,http://tv.tvbox6.icu/tv/jlntv.php?id=syzh
-松原公共,http://tv.tvbox6.icu/tv/jlntv.php?id=sygg
+松原综合,http://tvbox6.cn/tv/jlntv.php?id=syzh
+松原公共,http://tvbox6.cn/tv/jlntv.php?id=sygg
 松原扶余综合,http://stream6.jlntv.cn/fy/playlist.m3u8
 松原乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
-松原前郭综合,http://tv.tvbox6.icu/tv/jlntv.php?id=syqgzh
+松原前郭综合,http://tvbox6.cn/tv/jlntv.php?id=syqgzh
 
 //09延边州（延吉市、图们市、敦化市、珲春市、龙井市、和龙市|  汪清县、安图县）
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8$延边云
@@ -3918,7 +3599,7 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8$官方
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8$官方
 
-黑龙江东阳综合,http://tv.tvbox6.icu/tv/quklive.php?id=25
+黑龙江东阳综合,http://tvbox6.cn/tv/quklive.php?id=25
 
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226301/index.m3u8$移动V6
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226427/index.m3u8$移动V6
@@ -3958,99 +3639,99 @@ IPTV少儿动画,http://tv.tvbox6.icu/tv/zb/bjcucc.php?id=44$北京联通组播
 七彩戏剧,http://avd.iptviptv.site:9694/hls/158/index.m3u8
 金色学堂,http://avd.iptviptv.site:9694/hls/159/index.m3u8
 
-第一财经,http://tv.tvbox6.icu/tv/migu.php?id=dycj$咪咕854
-上视纪实人文,http://tv.tvbox6.icu/tv/migu.php?id=shjsrw$咪咕1280
-上海外语,http://tv.tvbox6.icu/tv/migu.php?id=shics$咪咕854
-法治天地,http://tv.tvbox6.icu/tv/migu.php?id=fztd$咪咕1280
-劲爆体育,http://tv.tvbox6.icu/tv/migu.php?id=jbty$咪咕1280
-魅力足球,http://tv.tvbox6.icu/tv/migu.php?id=mlzq$咪咕1280
-乐游,http://tv.tvbox6.icu/tv/migu.php?id=ly$咪咕1280
-欢笑剧场,http://tv.tvbox6.icu/tv/migu.php?id=hxjc$咪咕1280
-七彩戏剧,http://tv.tvbox6.icu/tv/migu.php?id=qcxj$咪咕1280
-游戏风云,http://tv.tvbox6.icu/tv/migu.php?id=yxfy$咪咕1280
-四海钓鱼,http://tv.tvbox6.icu/tv/migu.php?id=shdy$咪咕1280
+第一财经,http://tvbox6.cn/tv/migu.php?id=dycj$咪咕854
+上视纪实人文,http://tvbox6.cn/tv/migu.php?id=shjsrw$咪咕1280
+上海外语,http://tvbox6.cn/tv/migu.php?id=shics$咪咕854
+法治天地,http://tvbox6.cn/tv/migu.php?id=fztd$咪咕1280
+劲爆体育,http://tvbox6.cn/tv/migu.php?id=jbty$咪咕1280
+魅力足球,http://tvbox6.cn/tv/migu.php?id=mlzq$咪咕1280
+乐游,http://tvbox6.cn/tv/migu.php?id=ly$咪咕1280
+欢笑剧场,http://tvbox6.cn/tv/migu.php?id=hxjc$咪咕1280
+七彩戏剧,http://tvbox6.cn/tv/migu.php?id=qcxj$咪咕1280
+游戏风云,http://tvbox6.cn/tv/migu.php?id=yxfy$咪咕1280
+四海钓鱼,http://tvbox6.cn/tv/migu.php?id=shdy$咪咕1280
 
-第一财经,http://tv.tvbox6.icu/tv/yicai.php?id=dycjhd$官方源
-东方财经,http://tv.tvbox6.icu/tv/yicai.php?id=dfcjhd$官方源
+第一财经,http://tvbox6.cn/tv/yicai.php?id=dycjhd$官方源
+东方财经,http://tvbox6.cn/tv/yicai.php?id=dfcjhd$官方源
 
-新闻综合,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=1$上海电信组播
-东方卫视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=2$上海电信组播
-都市频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=3$上海电信组播
-纪实人文,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=4$上海电信组播
-东方影视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=5$上海电信组播
-第一财经,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=6$上海电信组播
-五星体育,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=7$上海电信组播
-哈哈炫动,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=8$上海电信组播
-上视外语,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=9$上海电信组播
-都市剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=10$上海电信组播
-欢笑剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=11$上海电信组播
-欢笑剧场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=12$上海电信组播
-全纪实,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=13$上海电信组播
-动漫秀场,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=31$上海电信组播
-生活时尚,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=32$上海电信组播
-游戏风云,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=33$上海电信组播
-MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
-教育台,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=35$上海电信组播
-东方财经,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=36$上海电信组播
-七彩戏剧,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=37$上海电信组播
-法治天地,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=38$上海电信组播
-浦东频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=39$上海电信组播
-崇明电视,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=40$上海电信组播
-嘉定频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=41$上海电信组播
-金色频道,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=42$上海电信组播
-健康人生,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=43$上海电信组播
-百事通超级体育,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=44$上海电信组播
-百事通4K,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=45$上海电信组播
-百事通4K,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=46$上海电信组播
+新闻综合,http://tvbox6.cn/tv/zb/shctcc.php?id=1$上海电信组播
+东方卫视,http://tvbox6.cn/tv/zb/shctcc.php?id=2$上海电信组播
+都市频道,http://tvbox6.cn/tv/zb/shctcc.php?id=3$上海电信组播
+纪实人文,http://tvbox6.cn/tv/zb/shctcc.php?id=4$上海电信组播
+东方影视,http://tvbox6.cn/tv/zb/shctcc.php?id=5$上海电信组播
+第一财经,http://tvbox6.cn/tv/zb/shctcc.php?id=6$上海电信组播
+五星体育,http://tvbox6.cn/tv/zb/shctcc.php?id=7$上海电信组播
+哈哈炫动,http://tvbox6.cn/tv/zb/shctcc.php?id=8$上海电信组播
+上视外语,http://tvbox6.cn/tv/zb/shctcc.php?id=9$上海电信组播
+都市剧场,http://tvbox6.cn/tv/zb/shctcc.php?id=10$上海电信组播
+欢笑剧场,http://tvbox6.cn/tv/zb/shctcc.php?id=11$上海电信组播
+欢笑剧场,http://tvbox6.cn/tv/zb/shctcc.php?id=12$上海电信组播
+全纪实,http://tvbox6.cn/tv/zb/shctcc.php?id=13$上海电信组播
+动漫秀场,http://tvbox6.cn/tv/zb/shctcc.php?id=31$上海电信组播
+生活时尚,http://tvbox6.cn/tv/zb/shctcc.php?id=32$上海电信组播
+游戏风云,http://tvbox6.cn/tv/zb/shctcc.php?id=33$上海电信组播
+MAX极速汽车,http://tvbox6.cn/tv/zb/shctcc.php?id=34$上海电信组播
+教育台,http://tvbox6.cn/tv/zb/shctcc.php?id=35$上海电信组播
+东方财经,http://tvbox6.cn/tv/zb/shctcc.php?id=36$上海电信组播
+七彩戏剧,http://tvbox6.cn/tv/zb/shctcc.php?id=37$上海电信组播
+法治天地,http://tvbox6.cn/tv/zb/shctcc.php?id=38$上海电信组播
+浦东频道,http://tvbox6.cn/tv/zb/shctcc.php?id=39$上海电信组播
+崇明电视,http://tvbox6.cn/tv/zb/shctcc.php?id=40$上海电信组播
+嘉定频道,http://tvbox6.cn/tv/zb/shctcc.php?id=41$上海电信组播
+金色频道,http://tvbox6.cn/tv/zb/shctcc.php?id=42$上海电信组播
+健康人生,http://tvbox6.cn/tv/zb/shctcc.php?id=43$上海电信组播
+百事通超级体育,http://tvbox6.cn/tv/zb/shctcc.php?id=44$上海电信组播
+百事通4K,http://tvbox6.cn/tv/zb/shctcc.php?id=45$上海电信组播
+百事通4K,http://tvbox6.cn/tv/zb/shctcc.php?id=46$上海电信组播
 
 浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB$官方
 魅力足球,http://61.136.96.78:880/97.m3u8$官方
 东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8$官方
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$官方
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8$官方
-上海普陀综合,http://tv.tvbox6.icu/tv/quklive.php?id=18
+上海普陀综合,http://tvbox6.cn/tv/quklive.php?id=18
 上海教育,http://8.138.7.223/tv/shsetv.php
 上海教育,http://8.138.7.223/tv/shsetv1.php
 
 🐼江苏ID19,#genre#
 
-江苏卫视,http://tv.tvbox6.icu/tv/jstv.php?id=jsws
-江苏城市,http://tv.tvbox6.icu/tv/jstv.php?id=jscs
-江苏综艺,http://tv.tvbox6.icu/tv/jstv.php?id=jszy
-江苏影视,http://tv.tvbox6.icu/tv/jstv.php?id=jsys
-江苏新闻,http://tv.tvbox6.icu/tv/jstv.php?id=jsxw
-江苏教育,http://tv.tvbox6.icu/tv/jstv.php?id=jsjy
-优曼体育休闲,http://tv.tvbox6.icu/tv/jstv.php?id=jsty
-优曼卡通,http://tv.tvbox6.icu/tv/jstv.php?id=ymkt
-江苏国际,http://tv.tvbox6.icu/tv/jstv.php?id=jsgj
-南京新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=njzhpd
-无锡新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=wxzhpd
-徐州新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=xzzhpd
-常州新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=czzhpd
-苏州新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=szzhpd
-南通新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=ntzhpd
-连云港新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=lygzhpd
-淮安新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=hazhpd
-盐城新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=yczhpd
-扬州新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=yzzhpd
-镇江新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=zjzhpd
-泰州新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=tzzhpd
-宿迁新闻综合,http://tv.tvbox6.icu/tv/jstv.php?id=sqzhpd
+江苏卫视,http://tvbox6.cn/tv/jstv.php?id=jsws
+江苏城市,http://tvbox6.cn/tv/jstv.php?id=jscs
+江苏综艺,http://tvbox6.cn/tv/jstv.php?id=jszy
+江苏影视,http://tvbox6.cn/tv/jstv.php?id=jsys
+江苏新闻,http://tvbox6.cn/tv/jstv.php?id=jsxw
+江苏教育,http://tvbox6.cn/tv/jstv.php?id=jsjy
+优曼体育休闲,http://tvbox6.cn/tv/jstv.php?id=jsty
+优曼卡通,http://tvbox6.cn/tv/jstv.php?id=ymkt
+江苏国际,http://tvbox6.cn/tv/jstv.php?id=jsgj
+南京新闻综合,http://tvbox6.cn/tv/jstv.php?id=njzhpd
+无锡新闻综合,http://tvbox6.cn/tv/jstv.php?id=wxzhpd
+徐州新闻综合,http://tvbox6.cn/tv/jstv.php?id=xzzhpd
+常州新闻综合,http://tvbox6.cn/tv/jstv.php?id=czzhpd
+苏州新闻综合,http://tvbox6.cn/tv/jstv.php?id=szzhpd
+南通新闻综合,http://tvbox6.cn/tv/jstv.php?id=ntzhpd
+连云港新闻综合,http://tvbox6.cn/tv/jstv.php?id=lygzhpd
+淮安新闻综合,http://tvbox6.cn/tv/jstv.php?id=hazhpd
+盐城新闻综合,http://tvbox6.cn/tv/jstv.php?id=yczhpd
+扬州新闻综合,http://tvbox6.cn/tv/jstv.php?id=yzzhpd
+镇江新闻综合,http://tvbox6.cn/tv/jstv.php?id=zjzhpd
+泰州新闻综合,http://tvbox6.cn/tv/jstv.php?id=tzzhpd
+宿迁新闻综合,http://tvbox6.cn/tv/jstv.php?id=sqzhpd
 
 好享购物,http://ygbh.live/js.php?id=hxgw
-江苏城市,http://tv.tvbox6.icu/tv/migu.php?id=jscs
-江苏综艺,http://tv.tvbox6.icu/tv/migu.php?id=jszy
-江苏影视,http://tv.tvbox6.icu/tv/migu.php?id=jsys
-江苏公共新闻,http://tv.tvbox6.icu/tv/migu.php?id=jsggxw
-江苏国际,http://tv.tvbox6.icu/tv/migu.php?id=jsgj
-江苏教育,http://tv.tvbox6.icu/tv/migu.php?id=jsjy
-江苏体育休闲,http://tv.tvbox6.icu/tv/migu.php?id=jstyxx
-优漫卡通,http://tv.tvbox6.icu/tv/migu.php?id=ymkt
+江苏城市,http://tvbox6.cn/tv/migu.php?id=jscs
+江苏综艺,http://tvbox6.cn/tv/migu.php?id=jszy
+江苏影视,http://tvbox6.cn/tv/migu.php?id=jsys
+江苏公共新闻,http://tvbox6.cn/tv/migu.php?id=jsggxw
+江苏国际,http://tvbox6.cn/tv/migu.php?id=jsgj
+江苏教育,http://tvbox6.cn/tv/migu.php?id=jsjy
+江苏体育休闲,http://tvbox6.cn/tv/migu.php?id=jstyxx
+优漫卡通,http://tvbox6.cn/tv/migu.php?id=ymkt
 
 //01南京市（溧水区）
-南京新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=njxwzh
-南京教科,http://tv.tvbox6.icu/tv/migu.php?id=njkj
-南京十八,http://tv.tvbox6.icu/tv/migu.php?id=njsb
+南京新闻综合,http://tvbox6.cn/tv/migu.php?id=njxwzh
+南京教科,http://tvbox6.cn/tv/migu.php?id=njkj
+南京十八,http://tvbox6.cn/tv/migu.php?id=njsb
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/500k.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
@@ -4080,7 +3761,7 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 徐州公共频道,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
-徐州新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=xzxwzh
+徐州新闻综合,http://tvbox6.cn/tv/migu.php?id=xzxwzh
 徐州铜山综合,http://stream.tstvxmt.com/tstv1/sd/live.m3u8
 徐州铜山三农,http://stream.tstvxmt.com/ts3/sd/live.m3u8
 徐州铜山三农,http://stream.tstvxmt.com/ts2/sd/live.m3u8
@@ -4109,7 +3790,7 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 苏州电影娱乐信息,http://tylive.kan0512.com/norecord/norecord_csztv4.m3u8
 苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-苏州新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=szxwzh
+苏州新闻综合,http://tvbox6.cn/tv/migu.php?id=szxwzh
 苏州吴江新闻,https://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8?auth_key=2510731930-0-0-d20bd9d6583a9a0893f0eea31f59615d&extra_key=9E0feXyMxCBgm5cDmU1040aSHdHnhd5-jE8cH5fx7cW5qBM2SZbOl86Bd5e2lw9nLpOuTmUF5sQtcNjCPWlBy1dBS4Y8vdwfLS5lL_9l1v9MwGJCPOAEToX9J9eElFRh
 苏州常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 苏州常熟民生,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
@@ -4131,12 +3812,12 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 //07连云港市（连云区 海州区 赣榆区 东海县 灌云县 灌南县）
 连云港新闻,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
-连云港新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=lygxwzh
+连云港新闻综合,http://tvbox6.cn/tv/migu.php?id=lygxwzh
 连云港赣榆新闻,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 连云港东海综合,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
 
 //08淮安市
-淮安新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=haxwzh
+淮安新闻综合,http://tvbox6.cn/tv/migu.php?id=haxwzh
 
 //09盐城市(亭湖区 盐都区 大丰区|东台市)
 盐城TV-1,http://stream.0515yc.cn/yctv1/sd/live.m3u8
@@ -4164,14 +3845,14 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 
 //12泰州市（兴化市 靖江市 泰兴市）
-泰州新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=tzxwzh
+泰州新闻综合,http://tvbox6.cn/tv/migu.php?id=tzxwzh
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 靖江新闻综合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 
 //13宿迁市
-宿迁新闻综合,http://tv.tvbox6.icu/tv/migu.php?id=sqxwzh
-临洮电视台,http://tv.tvbox6.icu/tv/migu.php?id=lttv
+宿迁新闻综合,http://tvbox6.cn/tv/migu.php?id=sqxwzh
+临洮电视台,http://tvbox6.cn/tv/migu.php?id=lttv
 
 🐼浙江ID20,#genre#
 //浙江
@@ -4267,9 +3948,9 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 
 //03温州市
 //04嘉兴市
-浙江嘉兴综合,http://tv.tvbox6.icu/tv/quklive.php?id=13
-浙江嘉兴影视,http://tv.tvbox6.icu/tv/quklive.php?id=14
-浙江嘉兴公共,http://tv.tvbox6.icu/tv/quklive.php?id=15
+浙江嘉兴综合,http://tvbox6.cn/tv/quklive.php?id=13
+浙江嘉兴影视,http://tvbox6.cn/tv/quklive.php?id=14
+浙江嘉兴公共,http://tvbox6.cn/tv/quklive.php?id=15
 
 //05湖州市
 //06绍兴市
@@ -4293,8 +3974,8 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 
 //09舟山市
-浙江舟山综合,http://tv.tvbox6.icu/tv/quklive.php?id=11
-浙江舟山公共,http://tv.tvbox6.icu/tv/quklive.php?id=12
+浙江舟山综合,http://tvbox6.cn/tv/quklive.php?id=11
+浙江舟山公共,http://tvbox6.cn/tv/quklive.php?id=12
 
 //10台州市
 //11丽水市
@@ -4382,24 +4063,24 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 
-浙江苍南综合,http://tv.tvbox6.icu/tv/quklive.php?id=16
-浙江洞头综合,http://tv.tvbox6.icu/tv/quklive.php?id=17
-浙江龙游综合,http://tv.tvbox6.icu/tv/quklive.php?id=19
-浙江景宁综合,http://tv.tvbox6.icu/tv/quklive.php?id=20
-浙江龙泉综合,http://tv.tvbox6.icu/tv/quklive.php?id=21
-浙江遂昌综合,http://tv.tvbox6.icu/tv/quklive.php?id=22
-浙江松阳综合,http://tv.tvbox6.icu/tv/quklive.php?id=23
-浙江青田电视,http://tv.tvbox6.icu/tv/quklive.php?id=24
-浙江磐安综合,http://tv.tvbox6.icu/tv/quklive.php?id=26
-浙江磐安生活,http://tv.tvbox6.icu/tv/quklive.php?id=27
-浙江永康综合,http://tv.tvbox6.icu/tv/quklive.php?id=28
-浙江永康华溪,http://tv.tvbox6.icu/tv/quklive.php?id=29
-浙江嵊州综合,http://tv.tvbox6.icu/tv/quklive.php?id=30
-浙江龙港综合,http://tv.tvbox6.icu/tv/quklive.php?id=31
-浙江瑞安综合,http://tv.tvbox6.icu/tv/quklive.php?id=32
-浙江长兴综合,http://tv.tvbox6.icu/tv/quklive.php?id=33
-浙江南浔综合,http://tv.tvbox6.icu/tv/quklive.php?id=34
-浙江柯桥综合,http://tv.tvbox6.icu/tv/quklive.php?id=35
+浙江苍南综合,http://tvbox6.cn/tv/quklive.php?id=16
+浙江洞头综合,http://tvbox6.cn/tv/quklive.php?id=17
+浙江龙游综合,http://tvbox6.cn/tv/quklive.php?id=19
+浙江景宁综合,http://tvbox6.cn/tv/quklive.php?id=20
+浙江龙泉综合,http://tvbox6.cn/tv/quklive.php?id=21
+浙江遂昌综合,http://tvbox6.cn/tv/quklive.php?id=22
+浙江松阳综合,http://tvbox6.cn/tv/quklive.php?id=23
+浙江青田电视,http://tvbox6.cn/tv/quklive.php?id=24
+浙江磐安综合,http://tvbox6.cn/tv/quklive.php?id=26
+浙江磐安生活,http://tvbox6.cn/tv/quklive.php?id=27
+浙江永康综合,http://tvbox6.cn/tv/quklive.php?id=28
+浙江永康华溪,http://tvbox6.cn/tv/quklive.php?id=29
+浙江嵊州综合,http://tvbox6.cn/tv/quklive.php?id=30
+浙江龙港综合,http://tvbox6.cn/tv/quklive.php?id=31
+浙江瑞安综合,http://tvbox6.cn/tv/quklive.php?id=32
+浙江长兴综合,http://tvbox6.cn/tv/quklive.php?id=33
+浙江南浔综合,http://tvbox6.cn/tv/quklive.php?id=34
+浙江柯桥综合,http://tvbox6.cn/tv/quklive.php?id=35
 
 🐼安徽ID21,#genre#
 
@@ -4484,6 +4165,10 @@ MAX极速汽车,http://tv.tvbox6.icu/tv/zb/shctcc.php?id=34$上海电信组播
 福建乡村,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8$福建电信
 福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8$福建电信
+
+莆田1套,http://8.138.7.223/tv/ptbtv.php?id=4
+莆田2套,http://8.138.7.223/tv/ptbtv.php?id=5
+莆田仙游,http://8.138.7.223/tv/ptbtv.php?id=6
 
 🐼江西ID23,#genre#
 
@@ -4927,7 +4612,7 @@ QTV-6,http://119.165.141.229:6666/udp/239.253.254.254:8000
 河南|项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 河南|新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 河南|新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
-🐼湖北地区,#genre#
+🐼湖北ID26,#genre#
 湖北经视,http://avd.iptviptv.site:9694/hls/570/index.m3u8
 湖北垄上,http://avd.iptviptv.site:9694/hls/571/index.m3u8
 湖北公共,http://avd.iptviptv.site:9694/hls/572/index.m3u8
@@ -5023,22 +4708,22 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 茶频道,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-12.m3u8
 湖南娱乐,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
 
-湖南经视,http://tv.tvbox6.icu/tv/mgtv.php?id=280$「芒果TV」
-湖南电影,http://tv.tvbox6.icu/tv/mgtv.php?id=221$「芒果TV」
-湖南都市,http://tv.tvbox6.icu/tv/mgtv.php?id=346$「芒果TV」
-湖南电视剧,http://tv.tvbox6.icu/tv/mgtv.php?id=484$「芒果TV」
-湖南爱晚,http://tv.tvbox6.icu/tv/mgtv.php?id=261$「芒果TV」
-湖南国际,http://tv.tvbox6.icu/tv/mgtv.php?id=229$「芒果TV」
-湖南娱乐,http://tv.tvbox6.icu/tv/mgtv.php?id=344$「芒果TV」
-快乐购,http://tv.tvbox6.icu/tv/mgtv.php?id=267$「芒果TV」
-茶频道,http://tv.tvbox6.icu/tv/mgtv.php?id=578$「芒果TV」
-金鹰纪实,http://tv.tvbox6.icu/tv/mgtv.php?id=316$「芒果TV」
-金鹰卡通,http://tv.tvbox6.icu/tv/mgtv.php?id=287$「芒果TV」
-快乐垂钓,http://tv.tvbox6.icu/tv/mgtv.php?id=218$「芒果TV」
-先锋乒羽,http://tv.tvbox6.icu/tv/mgtv.php?id=329$「芒果TV」
-长沙新闻,http://tv.tvbox6.icu/tv/mgtv.php?id=269$「芒果TV」
-长沙政法,http://tv.tvbox6.icu/tv/mgtv.php?id=254$「芒果TV」
-长沙女性,http://tv.tvbox6.icu/tv/mgtv.php?id=230$「芒果TV」
+湖南经视,http://tvbox6.cn/tv/mgtv.php?id=280$「芒果TV」
+湖南电影,http://tvbox6.cn/tv/mgtv.php?id=221$「芒果TV」
+湖南都市,http://tvbox6.cn/tv/mgtv.php?id=346$「芒果TV」
+湖南电视剧,http://tvbox6.cn/tv/mgtv.php?id=484$「芒果TV」
+湖南爱晚,http://tvbox6.cn/tv/mgtv.php?id=261$「芒果TV」
+湖南国际,http://tvbox6.cn/tv/mgtv.php?id=229$「芒果TV」
+湖南娱乐,http://tvbox6.cn/tv/mgtv.php?id=344$「芒果TV」
+快乐购,http://tvbox6.cn/tv/mgtv.php?id=267$「芒果TV」
+茶频道,http://tvbox6.cn/tv/mgtv.php?id=578$「芒果TV」
+金鹰纪实,http://tvbox6.cn/tv/mgtv.php?id=316$「芒果TV」
+金鹰卡通,http://tvbox6.cn/tv/mgtv.php?id=287$「芒果TV」
+快乐垂钓,http://tvbox6.cn/tv/mgtv.php?id=218$「芒果TV」
+先锋乒羽,http://tvbox6.cn/tv/mgtv.php?id=329$「芒果TV」
+长沙新闻,http://tvbox6.cn/tv/mgtv.php?id=269$「芒果TV」
+长沙政法,http://tvbox6.cn/tv/mgtv.php?id=254$「芒果TV」
+长沙女性,http://tvbox6.cn/tv/mgtv.php?id=230$「芒果TV」
 
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8$「官方」
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8$「官方」
@@ -5058,22 +4743,73 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 
 🐼广东ID28,#genre#
 //广东
-
+广东卫视,http://free.yhtv.us.kg/iptv/gdx.php?id=166
+广东卫视,http://free.yhtv.us.kg/iptv/gyd.php?id=111
+大湾区卫视,http://free.yhtv.us.kg/iptv/gdx.php?id=215
+大湾区卫视,http://free.yhtv.us.kg/iptv/gyd1.php?id=078
+广东珠江,http://free.yhtv.us.kg/iptv/gdx.php?id=001
+广东珠江,http://free.yhtv.us.kg/iptv/gyd.php?id=063
+广东经济科教,http://free.yhtv.us.kg/iptv/gdx.php?id=085
+广东经济科教,http://free.yhtv.us.kg/iptv/gyd.php?id=046
+广东影视,http://free.yhtv.us.kg/iptv/gdx.php?id=217
+广东影视,http://free.yhtv.us.kg/iptv/gyd1.php?id=079
+广东少儿,http://free.yhtv.us.kg/iptv/gdx.php?id=012
+广东少儿,http://free.yhtv.us.kg/iptv/gyd1.php?id=081
+广东体育,http://free.yhtv.us.kg/iptv/gdx.php?id=168
+广东体育,http://free.yhtv.us.kg/iptv/gyd.php?id=047
+广东民生,http://free.yhtv.us.kg/iptv/gdx.php?id=225
+广东民生,http://free.yhtv.us.kg/iptv/gyd1.php?id=080
+广东新闻,http://free.yhtv.us.kg/iptv/gdx.php?id=173
+广东新闻,http://free.yhtv.us.kg/iptv/gyd.php?id=199
+广东嘉佳卡通,http://free.yhtv.us.kg/iptv/gdx.php?id=179
+广东嘉佳卡通,http://free.yhtv.us.kg/iptv/gyd.php?id=200
+广东岭南戏曲,http://free.yhtv.us.kg/iptv/gdx.php?id=122
+广东岭南戏曲,http://free.yhtv.us.kg/iptv/gyd1.php?id=180
+广东现代教育,http://free.yhtv.us.kg/iptv/gdx.php?id=018
+广东现代教育,http://free.yhtv.us.kg/iptv/gyd1.php?id=181
+广东移动,http://free.yhtv.us.kg/iptv/gdx.php?id=020
+广东移动,http://free.yhtv.us.kg/iptv/gyd.php?id=143
+广东南方购物,http://free.yhtv.us.kg/iptv/gdx.php?id=019
+广东南方购物,http://free.yhtv.us.kg/iptv/gyd.php?id=126
+广州综合,http://free.yhtv.us.kg/iptv/gdx1.php?id=071
+广州综合,http://free.yhtv.us.kg/iptv/gyd1.php?id=138
+广州新闻,http://free.yhtv.us.kg/iptv/gdx1.php?id=072
+广州新闻,http://free.yhtv.us.kg/iptv/gyd1.php?id=139
+广州影视,http://free.yhtv.us.kg/iptv/gdx1.php?id=073
+广州影视,http://free.yhtv.us.kg/iptv/gyd1.php?id=140
+广州法治,http://free.yhtv.us.kg/iptv/gdx1.php?id=074
+广州法治,http://free.yhtv.us.kg/iptv/gyd1.php?id=141
+广州竞赛,http://free.yhtv.us.kg/iptv/gyd1.php?id=142
+佛山综合,http://free.yhtv.us.kg/iptv/gdx1.php?id=057
+佛山综合,http://free.yhtv.us.kg/iptv/gyd1.php?id=118
+佛山公共,http://free.yhtv.us.kg/iptv/gdx1.php?id=053
+佛山公共,http://free.yhtv.us.kg/iptv/gyd1.php?id=114
+佛山影视,http://free.yhtv.us.kg/iptv/gdx1.php?id=056
+佛山影视,http://free.yhtv.us.kg/iptv/gyd1.php?id=117
+佛山南海,http://free.yhtv.us.kg/iptv/gdx1.php?id=054
+佛山南海,http://free.yhtv.us.kg/iptv/gyd1.php?id=115
+佛山顺德,http://free.yhtv.us.kg/iptv/gdx1.php?id=055
+佛山顺德,http://free.yhtv.us.kg/iptv/gyd1.php?id=116
+潮州综合,http://free.yhtv.us.kg/iptv/gdx1.php?id=070
+潮州民生,http://free.yhtv.us.kg/iptv/gdx1.php?id=075
+汕头综合,http://free.yhtv.us.kg/iptv/gdx1.php?id=045
+汕头经济生活,http://free.yhtv.us.kg/iptv/gdx1.php?id=046
+汕头文旅体育,http://free.yhtv.us.kg/iptv/gdx1.php?id=047
 
 大湾区卫视,http://113.71.148.237:5555/udp/239.77.0.215:5146
 大湾区卫视,http://183.30.201.130:10002/udp/239.77.0.215:5146
-大湾区卫视,http://tv.tvbox6.icu/tv/dwqws.m3u8
-广东新闻,http://tv.tvbox6.icu/tv/iptv2.php?id=35
-嘉佳卡通,http://tv.tvbox6.icu/tv/iptv2.php?id=36
-广东卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=37
-广东体育,http://tv.tvbox6.icu/tv/iptv2.php?id=38
-广东珠江,http://tv.tvbox6.icu/tv/iptv2.php?id=39
-广东经济科教,http://tv.tvbox6.icu/tv/iptv2.php?id=40
-广东少儿,http://tv.tvbox6.icu/tv/iptv2.php?id=41
-广东影视,http://tv.tvbox6.icu/tv/iptv2.php?id=42
-大湾区卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=43
-广东公共,http://tv.tvbox6.icu/tv/iptv2.php?id=44
-岭南戏曲,http://tv.tvbox6.icu/tv/iptv2.php?id=6
+大湾区卫视,http://tvbox6.cn/tv/dwqws.m3u8
+广东新闻,http://tvbox6.cn/tv/iptv2.php?id=35
+嘉佳卡通,http://tvbox6.cn/tv/iptv2.php?id=36
+广东卫视,http://tvbox6.cn/tv/iptv2.php?id=37
+广东体育,http://tvbox6.cn/tv/iptv2.php?id=38
+广东珠江,http://tvbox6.cn/tv/iptv2.php?id=39
+广东经济科教,http://tvbox6.cn/tv/iptv2.php?id=40
+广东少儿,http://tvbox6.cn/tv/iptv2.php?id=41
+广东影视,http://tvbox6.cn/tv/iptv2.php?id=42
+大湾区卫视,http://tvbox6.cn/tv/iptv2.php?id=43
+广东公共,http://tvbox6.cn/tv/iptv2.php?id=44
+岭南戏曲,http://tvbox6.cn/tv/iptv2.php?id=6
 广东移动,http://183.11.239.36:808/hls/14/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
@@ -5090,16 +4826,16 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8
 广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8
 
-广东卫视高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=8
-广东珠江高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=9
-广东新闻高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=10
-广东公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=11
-广东体育高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=12
-广东经济高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=13
-广东南方高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=14
-广东影视高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=15
-广东少儿高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=16
-现代教育,http://tv.tvbox6.icu/tv/gdmzyd.php?id=102
+广东卫视高清,http://tvbox6.cn/tv/gdmzyd.php?id=8
+广东珠江高清,http://tvbox6.cn/tv/gdmzyd.php?id=9
+广东新闻高清,http://tvbox6.cn/tv/gdmzyd.php?id=10
+广东公共高清,http://tvbox6.cn/tv/gdmzyd.php?id=11
+广东体育高清,http://tvbox6.cn/tv/gdmzyd.php?id=12
+广东经济高清,http://tvbox6.cn/tv/gdmzyd.php?id=13
+广东南方高清,http://tvbox6.cn/tv/gdmzyd.php?id=14
+广东影视高清,http://tvbox6.cn/tv/gdmzyd.php?id=15
+广东少儿高清,http://tvbox6.cn/tv/gdmzyd.php?id=16
+现代教育,http://tvbox6.cn/tv/gdmzyd.php?id=102
 
 //01广州
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
@@ -5118,8 +4854,8 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-广州综合高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=17
-广州新闻高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=18
+广州综合高清,http://tvbox6.cn/tv/gdmzyd.php?id=17
+广州新闻高清,http://tvbox6.cn/tv/gdmzyd.php?id=18
 
 //02深圳
 深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
@@ -5140,8 +4876,8 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 深圳体育健康,ttp://jxtv3.gdsz.eu.org:8081/hls/142/index.m3u8
 
 //03珠海
-潮州综合,http://tv.tvbox6.icu/tv/iptv2.php?id=1
-潮州公共,http://tv.tvbox6.icu/tv/iptv2.php?id=2
+潮州综合,http://tvbox6.cn/tv/iptv2.php?id=1
+潮州公共,http://tvbox6.cn/tv/iptv2.php?id=2
 
 //04汕头
 汕头综合,http://113.92.165.182:60000/udp/239.77.1.130:5146
@@ -5150,18 +4886,18 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 汕头经济生活,http://113.92.165.182:60000/udp/239.253.43.46:5146
 汕头文旅体育,http://113.92.165.182:60000/udp/239.77.1.132:5146
 汕头文旅体育,http://113.92.165.182:60000/udp/239.253.43.47:5146
-汕头综合,http://tv.tvbox6.icu/tv/iptv2.php?id=3
-汕头经济生活,http://tv.tvbox6.icu/tv/iptv2.php?id=4
-汕头文旅体育,http://tv.tvbox6.icu/tv/iptv2.php?id=5
+汕头综合,http://tvbox6.cn/tv/iptv2.php?id=3
+汕头经济生活,http://tvbox6.cn/tv/iptv2.php?id=4
+汕头文旅体育,http://tvbox6.cn/tv/iptv2.php?id=5
 汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
 汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
 汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
 汕头综合,http://120.234.5.28:6000/udp/239.21.0.101:3744
 汕头经济生活,http://120.234.5.28:6000/udp/239.21.0.102:3748
 汕头文旅体育,http://120.234.5.28:6000/udp/239.21.0.103:3752
-汕头综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=115
-汕头经济生活,http://tv.tvbox6.icu/tv/gdmzyd.php?id=116
-汕头文旅体育,http://tv.tvbox6.icu/tv/gdmzyd.php?id=117
+汕头综合,http://tvbox6.cn/tv/gdmzyd.php?id=115
+汕头经济生活,http://tvbox6.cn/tv/gdmzyd.php?id=116
+汕头文旅体育,http://tvbox6.cn/tv/gdmzyd.php?id=117
 
 //05佛山
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -5173,42 +4909,42 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
 
 //06韶关
-深圳卫视,http://tv.tvbox6.icu/tv/iptv2.php?id=45
-深圳都市,http://tv.tvbox6.icu/tv/iptv2.php?id=46
-深圳电视剧,http://tv.tvbox6.icu/tv/iptv2.php?id=47
-深圳体育,http://tv.tvbox6.icu/tv/iptv2.php?id=48
-深圳公共,http://tv.tvbox6.icu/tv/iptv2.php?id=49
-深圳娱乐,http://tv.tvbox6.icu/tv/iptv2.php?id=50
-深圳少儿,http://tv.tvbox6.icu/tv/iptv2.php?id=51
+深圳卫视,http://tvbox6.cn/tv/iptv2.php?id=45
+深圳都市,http://tvbox6.cn/tv/iptv2.php?id=46
+深圳电视剧,http://tvbox6.cn/tv/iptv2.php?id=47
+深圳体育,http://tvbox6.cn/tv/iptv2.php?id=48
+深圳公共,http://tvbox6.cn/tv/iptv2.php?id=49
+深圳娱乐,http://tvbox6.cn/tv/iptv2.php?id=50
+深圳少儿,http://tvbox6.cn/tv/iptv2.php?id=51
 
 //07河源
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://120.234.5.28:6000/udp/239.21.0.48:3532
 河源公共,http://120.234.5.28:6000/udp/239.21.0.49:3536
-河源新闻综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=108
-河源公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=63
+河源新闻综合,http://tvbox6.cn/tv/gdmzyd.php?id=108
+河源公共高清,http://tvbox6.cn/tv/gdmzyd.php?id=63
 
 //08梅州
 梅州综合,http://1b6467f415.iok.la:9931/tsfile/live/1003_1.m3u8
 梅州综合,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv1.m3u8
 梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv2.m3u8
-五华1高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=84
-梅县综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=85
-梅州1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=86
-梅州2,http://tv.tvbox6.icu/tv/gdmzyd.php?id=87
-蕉岭综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=88
-优优宝贝,http://tv.tvbox6.icu/tv/gdmzyd.php?id=89
-平远综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=90
-丰顺综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=91
-DBTV-1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=92
-梅州导视,http://tv.tvbox6.icu/tv/gdmzyd.php?id=93
+五华1高清,http://tvbox6.cn/tv/gdmzyd.php?id=84
+梅县综合,http://tvbox6.cn/tv/gdmzyd.php?id=85
+梅州1,http://tvbox6.cn/tv/gdmzyd.php?id=86
+梅州2,http://tvbox6.cn/tv/gdmzyd.php?id=87
+蕉岭综合,http://tvbox6.cn/tv/gdmzyd.php?id=88
+优优宝贝,http://tvbox6.cn/tv/gdmzyd.php?id=89
+平远综合,http://tvbox6.cn/tv/gdmzyd.php?id=90
+丰顺综合,http://tvbox6.cn/tv/gdmzyd.php?id=91
+DBTV-1,http://tvbox6.cn/tv/gdmzyd.php?id=92
+梅州导视,http://tvbox6.cn/tv/gdmzyd.php?id=93
 
 //09惠州
 惠州综合,http://120.234.5.28:6000/udp/239.21.0.27:3448
 惠州公共,http://120.234.5.28:6000/udp/239.21.0.28:3452
-惠州综合高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=101
-惠州公共高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=103
+惠州综合高清,http://tvbox6.cn/tv/gdmzyd.php?id=101
+惠州公共高清,http://tvbox6.cn/tv/gdmzyd.php?id=103
 
 //10汕尾
 汕尾综合,http://120.234.5.28:6000/udp/239.21.0.89:3696
@@ -5236,20 +4972,20 @@ DBTV-1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=92
 //19潮州（湘桥区、潮安区、饶平县）
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-潮州公共,http://tv.tvbox6.icu/tv/gdmzyd.php?id=120
+潮州公共,http://tvbox6.cn/tv/gdmzyd.php?id=120
 潮州综合,http://211.97.63.3:801/hls/503/index.m3u8
-潮安区,http://tv.tvbox6.icu/tv/iptv2.php?id=9
-饶平县,http://tv.tvbox6.icu/tv/iptv2.php?id=10
+潮安区,http://tvbox6.cn/tv/iptv2.php?id=9
+饶平县,http://tvbox6.cn/tv/iptv2.php?id=10
 
 //20揭阳
-揭阳公共,http://tv.tvbox6.icu/tv/iptv2.php?id=7
-揭阳综合,http://tv.tvbox6.icu/tv/iptv2.php?id=8
+揭阳公共,http://tvbox6.cn/tv/iptv2.php?id=7
+揭阳综合,http://tvbox6.cn/tv/iptv2.php?id=8
 揭阳综合,http://120.234.5.28:6000/udp/239.21.0.91:3704
 揭阳生活,http://120.234.5.28:6000/udp/239.21.0.92:3708
 揭西综合频道,http://jxtv3.gdsz.eu.org:8081/hls/19/index.m3u8
 揭西综合频道,http://jxtv3.gdsz.eu.org:8081/hls/39/index.m3u8
-揭阳综合,http://tv.tvbox6.icu/tv/gdmzyd.php?id=118
-揭阳公共,http://tv.tvbox6.icu/tv/gdmzyd.php?id=119
+揭阳综合,http://tvbox6.cn/tv/gdmzyd.php?id=118
+揭阳公共,http://tvbox6.cn/tv/gdmzyd.php?id=119
 
 //21云浮
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
@@ -5273,8 +5009,8 @@ DBTV-1,http://tv.tvbox6.icu/tv/gdmzyd.php?id=92
 广东科教1080P,http://120.234.5.28:6000/udp/239.20.0.102:2002
 广东体育1080P,http://120.234.5.28:6000/udp/239.20.0.103:2004
 
-山歌台高清,http://tv.tvbox6.icu/tv/gdmzyd.php?id=106
-广场舞,http://tv.tvbox6.icu/tv/gdmzyd.php?id=107
+山歌台高清,http://tvbox6.cn/tv/gdmzyd.php?id=106
+广场舞,http://tvbox6.cn/tv/gdmzyd.php?id=107
 
 广东卫视高清,http://113.65.94.97:10000/udp/239.77.1.19:5146
 广东卫视高清,http://113.65.94.97:10000/udp/239.77.1.152:5146
@@ -5579,7 +5315,7 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 
 
 
-🐼海南地区,#genre#
+🐼海南ID30,#genre#
 
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
@@ -5685,9 +5421,9 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 海南自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 🐼重庆ID31,#genre#
 
-重庆卫视,http://tv.tvbox6.icu/tv/cqws.m3u8$官方源
-重庆新闻频道,http://tv.tvbox6.icu/tv/cbg3.m3u8$官方源
-重庆垫江综合,http://tv.tvbox6.icu/tv/quklive.php?id=1
+重庆卫视,http://tvbox6.cn/tv/cqws.m3u8$官方源
+重庆新闻频道,http://tvbox6.cn/tv/cbg3.m3u8$官方源
+重庆垫江综合,http://tvbox6.cn/tv/quklive.php?id=1
 重庆移动电视1,http://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8$官方源
 重庆移动电视2,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8$官方源
 梁平综合频道,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8$官方源
@@ -5708,15 +5444,15 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 🐼四川ID32,#genre#
 //四川电视台
 //四川卫视、经济频道、文化旅游频道、新闻频道、影视文艺频道、妇女儿童频道、星空购物、四川乡村频道、康巴卫视频道
-四川卫视,http://tv.tvbox6.icu/tv/sxg.php?id=51$蜀小果
-四川经济频道,http://tv.tvbox6.icu/tv/sxg.php?id=100$蜀小果
-四川文化旅游,http://tv.tvbox6.icu/tv/sxg.php?id=99$蜀小果
-四川新闻频道,http://tv.tvbox6.icu/tv/sxg.php?id=101$蜀小果
-四川影视文艺,http://tv.tvbox6.icu/tv/sxg.php?id=102$蜀小果
-四川妇女儿童,http://tv.tvbox6.icu/tv/sxg.php?id=103$蜀小果
-四川科教频道,http://tv.tvbox6.icu/tv/sxg.php?id=104$蜀小果
-四川乡村频道,http://tv.tvbox6.icu/tv/sxg.php?id=105$蜀小果
-峨嵋电影,http://tv.tvbox6.icu/tv/sxg.php?id=106$蜀小果
+四川卫视,http://tvbox6.cn/tv/sxg.php?id=51$蜀小果
+四川经济频道,http://tvbox6.cn/tv/sxg.php?id=100$蜀小果
+四川文化旅游,http://tvbox6.cn/tv/sxg.php?id=99$蜀小果
+四川新闻频道,http://tvbox6.cn/tv/sxg.php?id=101$蜀小果
+四川影视文艺,http://tvbox6.cn/tv/sxg.php?id=102$蜀小果
+四川妇女儿童,http://tvbox6.cn/tv/sxg.php?id=103$蜀小果
+四川科教频道,http://tvbox6.cn/tv/sxg.php?id=104$蜀小果
+四川乡村频道,http://tvbox6.cn/tv/sxg.php?id=105$蜀小果
+峨嵋电影,http://tvbox6.cn/tv/sxg.php?id=106$蜀小果
 
 四川卫视,http://118.122.2.29:9999/hls/18/index.m3u8
 康巴卫视,http://118.122.2.29:9999/hls/39/index.m3u8
@@ -5728,36 +5464,36 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 四川乡村频道,http://118.122.2.29:9999/hls/55/index.m3u8
 
 //成都电视台
-成都新闻综合,http://tv.tvbox6.icu/tv/cditv.php?id=cdxwzh
-成都经济资讯,http://tv.tvbox6.icu/tv/cditv.php?id=cdjjzx
-成都都市生活,http://tv.tvbox6.icu/tv/cditv.php?id=cddssh
-成都影视文艺,http://tv.tvbox6.icu/tv/cditv.php?id=cdyswy
-成都公共频道,http://tv.tvbox6.icu/tv/cditv.php?id=cdgg
-成都少儿频道,http://tv.tvbox6.icu/tv/cditv.php?id=cdse
-成都蓉城先锋,http://tv.tvbox6.icu/tv/cditv.php?id=cdrcxf
-成都每日购物,http://tv.tvbox6.icu/tv/cditv.php?id=cdmrgw
+成都新闻综合,http://tvbox6.cn/tv/cditv.php?id=cdxwzh
+成都经济资讯,http://tvbox6.cn/tv/cditv.php?id=cdjjzx
+成都都市生活,http://tvbox6.cn/tv/cditv.php?id=cddssh
+成都影视文艺,http://tvbox6.cn/tv/cditv.php?id=cdyswy
+成都公共频道,http://tvbox6.cn/tv/cditv.php?id=cdgg
+成都少儿频道,http://tvbox6.cn/tv/cditv.php?id=cdse
+成都蓉城先锋,http://tvbox6.cn/tv/cditv.php?id=cdrcxf
+成都每日购物,http://tvbox6.cn/tv/cditv.php?id=cdmrgw
 
-金牛电视台,http://tv.tvbox6.icu/tv/cditv.php?id=jntv
-双流综合,http://tv.tvbox6.icu/tv/cditv.php?id=slzh
-温江电视台,http://tv.tvbox6.icu/tv/cditv.php?id=wjtv
-高新电视台,http://tv.tvbox6.icu/tv/cditv.php?id=gxtv
-新津电视台,http://tv.tvbox6.icu/tv/cditv.php?id=xjtv
-大邑综合,http://tv.tvbox6.icu/tv/cditv.php?id=dyxwzh
-彭州电视台,http://tv.tvbox6.icu/tv/cditv.php?id=pztv
-蒲江电视台,http://tv.tvbox6.icu/tv/cditv.php?id=pjtv
-锦江电视台,http://tv.tvbox6.icu/tv/cditv.php?id=jjtv
-金堂电视台,http://tv.tvbox6.icu/tv/cditv.php?id=jttv
-郫都新闻综合,http://tv.tvbox6.icu/tv/cditv.php?id=pdxwzh
-龙泉综合,http://tv.tvbox6.icu/tv/cditv.php?id=lqzh
-青羊电视台,http://tv.tvbox6.icu/tv/cditv.php?id=qytv
-青白江电视台,http://tv.tvbox6.icu/tv/cditv.php?id=qbjtv
-崇州电视1套,http://tv.tvbox6.icu/tv/cditv.php?id=cztv
-都江堰电视台,http://tv.tvbox6.icu/tv/cditv.php?id=djytv
-成华有线,http://tv.tvbox6.icu/tv/cditv.php?id=chyx
-邛崃电视台,http://tv.tvbox6.icu/tv/cditv.php?id=qltv
-武侯电视台,http://tv.tvbox6.icu/tv/cditv.php?id=whtv
-新都电视台,http://tv.tvbox6.icu/tv/cditv.php?id=xdzh
-简阳新闻综合,http://tv.tvbox6.icu/tv/cditv.php?id=jyxwzh
+金牛电视台,http://tvbox6.cn/tv/cditv.php?id=jntv
+双流综合,http://tvbox6.cn/tv/cditv.php?id=slzh
+温江电视台,http://tvbox6.cn/tv/cditv.php?id=wjtv
+高新电视台,http://tvbox6.cn/tv/cditv.php?id=gxtv
+新津电视台,http://tvbox6.cn/tv/cditv.php?id=xjtv
+大邑综合,http://tvbox6.cn/tv/cditv.php?id=dyxwzh
+彭州电视台,http://tvbox6.cn/tv/cditv.php?id=pztv
+蒲江电视台,http://tvbox6.cn/tv/cditv.php?id=pjtv
+锦江电视台,http://tvbox6.cn/tv/cditv.php?id=jjtv
+金堂电视台,http://tvbox6.cn/tv/cditv.php?id=jttv
+郫都新闻综合,http://tvbox6.cn/tv/cditv.php?id=pdxwzh
+龙泉综合,http://tvbox6.cn/tv/cditv.php?id=lqzh
+青羊电视台,http://tvbox6.cn/tv/cditv.php?id=qytv
+青白江电视台,http://tvbox6.cn/tv/cditv.php?id=qbjtv
+崇州电视1套,http://tvbox6.cn/tv/cditv.php?id=cztv
+都江堰电视台,http://tvbox6.cn/tv/cditv.php?id=djytv
+成华有线,http://tvbox6.cn/tv/cditv.php?id=chyx
+邛崃电视台,http://tvbox6.cn/tv/cditv.php?id=qltv
+武侯电视台,http://tvbox6.cn/tv/cditv.php?id=whtv
+新都电视台,http://tvbox6.cn/tv/cditv.php?id=xdzh
+简阳新闻综合,http://tvbox6.cn/tv/cditv.php?id=jyxwzh
 
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
@@ -5796,185 +5532,185 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 四川|筠连综合,http://118.122.78.172:89/live1/live1.m3u8
 四川|中江新闻综合,https://livepgc.chinamcache.com/pgc/76664ca1f91638580f94fc7543c810cb.m3u8?auth_key=1657178327-0
 
-川广融媒,http://tv.tvbox6.icu/tv/sxg.php?id=95
-川网导视,http://tv.tvbox6.icu/tv/sxg.php?id=96
-精品导视,http://tv.tvbox6.icu/tv/sxg.php?id=97
-沙湾融媒,http://tv.tvbox6.icu/tv/sxg.php?id=98
+川广融媒,http://tvbox6.cn/tv/sxg.php?id=95
+川网导视,http://tvbox6.cn/tv/sxg.php?id=96
+精品导视,http://tvbox6.cn/tv/sxg.php?id=97
+沙湾融媒,http://tvbox6.cn/tv/sxg.php?id=98
 
-成都新闻,http://tv.tvbox6.icu/tv/sxg.php?id=107
-成都经济,http://tv.tvbox6.icu/tv/sxg.php?id=108
-成都都市,http://tv.tvbox6.icu/tv/sxg.php?id=109
-成都影视,http://tv.tvbox6.icu/tv/sxg.php?id=110
-成都公共,http://tv.tvbox6.icu/tv/sxg.php?id=111
-成都高新区,http://tv.tvbox6.icu/tv/sxg.php?id=112
-成都购物,http://tv.tvbox6.icu/tv/sxg.php?id=113
-阿坝州TV,http://tv.tvbox6.icu/tv/sxg.php?id=114
-阿坝州藏语,http://tv.tvbox6.icu/tv/sxg.php?id=115
-安居综合,http://tv.tvbox6.icu/tv/sxg.php?id=116
-安岳综合,http://tv.tvbox6.icu/tv/sxg.php?id=117
-安州综合,http://tv.tvbox6.icu/tv/sxg.php?id=118
-巴中文旅,http://tv.tvbox6.icu/tv/sxg.php?id=119
-巴中综合,http://tv.tvbox6.icu/tv/sxg.php?id=120
-巴州电视,http://tv.tvbox6.icu/tv/sxg.php?id=121
-宝兴综合,http://tv.tvbox6.icu/tv/sxg.php?id=122
-北川综合,http://tv.tvbox6.icu/tv/sxg.php?id=123
-苍溪综合,http://tv.tvbox6.icu/tv/sxg.php?id=124
-长宁综合,http://tv.tvbox6.icu/tv/sxg.php?id=125
-朝天综合,http://tv.tvbox6.icu/tv/sxg.php?id=126
-崇州,http://tv.tvbox6.icu/tv/sxg.php?id=127
-船山综合,http://tv.tvbox6.icu/tv/sxg.php?id=128
-达川新闻,http://tv.tvbox6.icu/tv/sxg.php?id=129
-达州导视,http://tv.tvbox6.icu/tv/sxg.php?id=130
-达州公共,http://tv.tvbox6.icu/tv/sxg.php?id=131
-达州通川,http://tv.tvbox6.icu/tv/sxg.php?id=132
-达州新闻,http://tv.tvbox6.icu/tv/sxg.php?id=133
-大邑电视台,http://tv.tvbox6.icu/tv/sxg.php?id=134
-大英新闻,http://tv.tvbox6.icu/tv/sxg.php?id=135
-丹棱综合,http://tv.tvbox6.icu/tv/sxg.php?id=136
-德昌,http://tv.tvbox6.icu/tv/sxg.php?id=137
-东兴综合,http://tv.tvbox6.icu/tv/sxg.php?id=138
-都江堰,http://tv.tvbox6.icu/tv/sxg.php?id=139
-峨边,http://tv.tvbox6.icu/tv/sxg.php?id=140
-峨眉综合,http://tv.tvbox6.icu/tv/sxg.php?id=141
-恩阳新闻,http://tv.tvbox6.icu/tv/sxg.php?id=142
-涪城综合,http://tv.tvbox6.icu/tv/sxg.php?id=143
-富顺综合,http://tv.tvbox6.icu/tv/sxg.php?id=144
-甘洛,http://tv.tvbox6.icu/tv/sxg.php?id=145
-甘孜综合,http://tv.tvbox6.icu/tv/sxg.php?id=146
-高县-1,http://tv.tvbox6.icu/tv/sxg.php?id=147
-古蔺新闻,http://tv.tvbox6.icu/tv/sxg.php?id=148
-广安公共,http://tv.tvbox6.icu/tv/sxg.php?id=149
-广安区,http://tv.tvbox6.icu/tv/sxg.php?id=150
-广安新闻,http://tv.tvbox6.icu/tv/sxg.php?id=151
-广汉综合,http://tv.tvbox6.icu/tv/sxg.php?id=152
-广元文化,http://tv.tvbox6.icu/tv/sxg.php?id=153
-广元综合,http://tv.tvbox6.icu/tv/sxg.php?id=154
-汉源综合,http://tv.tvbox6.icu/tv/sxg.php?id=155
-合江新闻,http://tv.tvbox6.icu/tv/sxg.php?id=156
-黑水,http://tv.tvbox6.icu/tv/sxg.php?id=157
-洪雅新闻,http://tv.tvbox6.icu/tv/sxg.php?id=158
-华蓥综合,http://tv.tvbox6.icu/tv/sxg.php?id=159
-会理新闻,http://tv.tvbox6.icu/tv/sxg.php?id=160
-夹江新闻,http://tv.tvbox6.icu/tv/sxg.php?id=161
-简阳新闻,http://tv.tvbox6.icu/tv/sxg.php?id=162
-剑阁综合,http://tv.tvbox6.icu/tv/sxg.php?id=163
-江安,http://tv.tvbox6.icu/tv/sxg.php?id=164
-江油综合,http://tv.tvbox6.icu/tv/sxg.php?id=165
-金口河综合,http://tv.tvbox6.icu/tv/sxg.php?id=166
-金牛,http://tv.tvbox6.icu/tv/sxg.php?id=167
-金堂,http://tv.tvbox6.icu/tv/sxg.php?id=168
-开江新闻,http://tv.tvbox6.icu/tv/sxg.php?id=169
-乐山公共,http://tv.tvbox6.icu/tv/sxg.php?id=170
-乐山新闻,http://tv.tvbox6.icu/tv/sxg.php?id=171
-利州综合,http://tv.tvbox6.icu/tv/sxg.php?id=172
-凉山新闻,http://tv.tvbox6.icu/tv/sxg.php?id=173
-凉山彝语,http://tv.tvbox6.icu/tv/sxg.php?id=174
-邻水,http://tv.tvbox6.icu/tv/sxg.php?id=175
-龙泉综合,http://tv.tvbox6.icu/tv/sxg.php?id=176
-隆昌综合,http://tv.tvbox6.icu/tv/sxg.php?id=177
-芦山综合,http://tv.tvbox6.icu/tv/sxg.php?id=178
-罗江,http://tv.tvbox6.icu/tv/sxg.php?id=179
-马边综合,http://tv.tvbox6.icu/tv/sxg.php?id=180
-马尔康,http://tv.tvbox6.icu/tv/sxg.php?id=181
-眉山综合,http://tv.tvbox6.icu/tv/sxg.php?id=182
-米易综合,http://tv.tvbox6.icu/tv/sxg.php?id=183
-绵阳科技,http://tv.tvbox6.icu/tv/sxg.php?id=184
-绵阳新闻,http://tv.tvbox6.icu/tv/sxg.php?id=185
-绵竹,http://tv.tvbox6.icu/tv/sxg.php?id=186
-冕宁综合,http://tv.tvbox6.icu/tv/sxg.php?id=187
-名山,http://tv.tvbox6.icu/tv/sxg.php?id=188
-木里,http://tv.tvbox6.icu/tv/sxg.php?id=189
-纳溪1,http://tv.tvbox6.icu/tv/sxg.php?id=190
-南部综合,http://tv.tvbox6.icu/tv/sxg.php?id=191
-南充综合,http://tv.tvbox6.icu/tv/sxg.php?id=192
-南江,http://tv.tvbox6.icu/tv/sxg.php?id=193
-南溪综合,http://tv.tvbox6.icu/tv/sxg.php?id=194
-内江公共,http://tv.tvbox6.icu/tv/sxg.php?id=195
-内江综合,http://tv.tvbox6.icu/tv/sxg.php?id=196
-宁南综合,http://tv.tvbox6.icu/tv/sxg.php?id=197
-攀钢新闻,http://tv.tvbox6.icu/tv/sxg.php?id=198
-攀枝花新闻,http://tv.tvbox6.icu/tv/sxg.php?id=199
-彭山综合,http://tv.tvbox6.icu/tv/sxg.php?id=200
-彭州综合,http://tv.tvbox6.icu/tv/sxg.php?id=201
-蓬安综合,http://tv.tvbox6.icu/tv/sxg.php?id=202
-蓬溪新闻,http://tv.tvbox6.icu/tv/sxg.php?id=203
-平昌综合,http://tv.tvbox6.icu/tv/sxg.php?id=204
-平武综合,http://tv.tvbox6.icu/tv/sxg.php?id=205
-屏山综合,http://tv.tvbox6.icu/tv/sxg.php?id=206
-蒲江综合,http://tv.tvbox6.icu/tv/sxg.php?id=207
-普格综合,http://tv.tvbox6.icu/tv/sxg.php?id=208
-前锋,http://tv.tvbox6.icu/tv/sxg.php?id=209
-青白江综合,http://tv.tvbox6.icu/tv/sxg.php?id=210
-青川综合,http://tv.tvbox6.icu/tv/sxg.php?id=211
-青神综合,http://tv.tvbox6.icu/tv/sxg.php?id=212
-渠县新闻,http://tv.tvbox6.icu/tv/sxg.php?id=213
-仁和新闻,http://tv.tvbox6.icu/tv/sxg.php?id=214
-荣县综合,http://tv.tvbox6.icu/tv/sxg.php?id=215
-三台TV,http://tv.tvbox6.icu/tv/sxg.php?id=216
-射洪综合,http://tv.tvbox6.icu/tv/sxg.php?id=217
-石棉,http://tv.tvbox6.icu/tv/sxg.php?id=218
-什邡新闻,http://tv.tvbox6.icu/tv/sxg.php?id=219
-双流综合,http://tv.tvbox6.icu/tv/sxg.php?id=220
-松潘,http://tv.tvbox6.icu/tv/sxg.php?id=221
-遂宁综合,http://tv.tvbox6.icu/tv/sxg.php?id=222
-天全新闻,http://tv.tvbox6.icu/tv/sxg.php?id=223
-通川区,http://tv.tvbox6.icu/tv/sxg.php?id=224
-通江综合,http://tv.tvbox6.icu/tv/sxg.php?id=225
-万源,http://tv.tvbox6.icu/tv/sxg.php?id=226
-旺苍新闻,http://tv.tvbox6.icu/tv/sxg.php?id=227
-温江综合,http://tv.tvbox6.icu/tv/sxg.php?id=228
-武胜综合,http://tv.tvbox6.icu/tv/sxg.php?id=229
-五通桥,http://tv.tvbox6.icu/tv/sxg.php?id=230
-西昌,http://tv.tvbox6.icu/tv/sxg.php?id=231
-西充综合,http://tv.tvbox6.icu/tv/sxg.php?id=232
-喜德,http://tv.tvbox6.icu/tv/sxg.php?id=233
-新都综合,http://tv.tvbox6.icu/tv/sxg.php?id=234
-新津,http://tv.tvbox6.icu/tv/sxg.php?id=235
-兴文台,http://tv.tvbox6.icu/tv/sxg.php?id=236
-叙永,http://tv.tvbox6.icu/tv/sxg.php?id=237
-叙州新闻,http://tv.tvbox6.icu/tv/sxg.php?id=238
-宣汉综合,http://tv.tvbox6.icu/tv/sxg.php?id=239
-雅安公共,http://tv.tvbox6.icu/tv/sxg.php?id=240
-雅安新闻,http://tv.tvbox6.icu/tv/sxg.php?id=241
-雅安雨城,http://tv.tvbox6.icu/tv/sxg.php?id=242
-盐边电视台,http://tv.tvbox6.icu/tv/sxg.php?id=243
-盐亭1,http://tv.tvbox6.icu/tv/sxg.php?id=244
-雁江,http://tv.tvbox6.icu/tv/sxg.php?id=245
-仪陇新闻,http://tv.tvbox6.icu/tv/sxg.php?id=246
-宜宾公共,http://tv.tvbox6.icu/tv/sxg.php?id=247
-宜宾新闻,http://tv.tvbox6.icu/tv/sxg.php?id=248
-营山,http://tv.tvbox6.icu/tv/sxg.php?id=249
-越西综合,http://tv.tvbox6.icu/tv/sxg.php?id=250
-岳池,http://tv.tvbox6.icu/tv/sxg.php?id=251
-昭化综合,http://tv.tvbox6.icu/tv/sxg.php?id=252
-中江新闻,http://tv.tvbox6.icu/tv/sxg.php?id=253
-资阳新闻,http://tv.tvbox6.icu/tv/sxg.php?id=254
-资中综合,http://tv.tvbox6.icu/tv/sxg.php?id=255
-自贡文化,http://tv.tvbox6.icu/tv/sxg.php?id=256
-自贡综合,http://tv.tvbox6.icu/tv/sxg.php?id=257
-郫县新闻,http://tv.tvbox6.icu/tv/sxg.php?id=258
-荥经,http://tv.tvbox6.icu/tv/sxg.php?id=259
-阆中综合,http://tv.tvbox6.icu/tv/sxg.php?id=260
-沐川综合,http://tv.tvbox6.icu/tv/sxg.php?id=261
-泸定综合,http://tv.tvbox6.icu/tv/sxg.php?id=262
-泸县综合,http://tv.tvbox6.icu/tv/sxg.php?id=263
-泸州公共,http://tv.tvbox6.icu/tv/sxg.php?id=264
-珙县新闻,http://tv.tvbox6.icu/tv/sxg.php?id=265
-梓潼综合,http://tv.tvbox6.icu/tv/sxg.php?id=266
-犍为新闻,http://tv.tvbox6.icu/tv/sxg.php?id=267
-筠连,http://tv.tvbox6.icu/tv/sxg.php?id=268
+成都新闻,http://tvbox6.cn/tv/sxg.php?id=107
+成都经济,http://tvbox6.cn/tv/sxg.php?id=108
+成都都市,http://tvbox6.cn/tv/sxg.php?id=109
+成都影视,http://tvbox6.cn/tv/sxg.php?id=110
+成都公共,http://tvbox6.cn/tv/sxg.php?id=111
+成都高新区,http://tvbox6.cn/tv/sxg.php?id=112
+成都购物,http://tvbox6.cn/tv/sxg.php?id=113
+阿坝州TV,http://tvbox6.cn/tv/sxg.php?id=114
+阿坝州藏语,http://tvbox6.cn/tv/sxg.php?id=115
+安居综合,http://tvbox6.cn/tv/sxg.php?id=116
+安岳综合,http://tvbox6.cn/tv/sxg.php?id=117
+安州综合,http://tvbox6.cn/tv/sxg.php?id=118
+巴中文旅,http://tvbox6.cn/tv/sxg.php?id=119
+巴中综合,http://tvbox6.cn/tv/sxg.php?id=120
+巴州电视,http://tvbox6.cn/tv/sxg.php?id=121
+宝兴综合,http://tvbox6.cn/tv/sxg.php?id=122
+北川综合,http://tvbox6.cn/tv/sxg.php?id=123
+苍溪综合,http://tvbox6.cn/tv/sxg.php?id=124
+长宁综合,http://tvbox6.cn/tv/sxg.php?id=125
+朝天综合,http://tvbox6.cn/tv/sxg.php?id=126
+崇州,http://tvbox6.cn/tv/sxg.php?id=127
+船山综合,http://tvbox6.cn/tv/sxg.php?id=128
+达川新闻,http://tvbox6.cn/tv/sxg.php?id=129
+达州导视,http://tvbox6.cn/tv/sxg.php?id=130
+达州公共,http://tvbox6.cn/tv/sxg.php?id=131
+达州通川,http://tvbox6.cn/tv/sxg.php?id=132
+达州新闻,http://tvbox6.cn/tv/sxg.php?id=133
+大邑电视台,http://tvbox6.cn/tv/sxg.php?id=134
+大英新闻,http://tvbox6.cn/tv/sxg.php?id=135
+丹棱综合,http://tvbox6.cn/tv/sxg.php?id=136
+德昌,http://tvbox6.cn/tv/sxg.php?id=137
+东兴综合,http://tvbox6.cn/tv/sxg.php?id=138
+都江堰,http://tvbox6.cn/tv/sxg.php?id=139
+峨边,http://tvbox6.cn/tv/sxg.php?id=140
+峨眉综合,http://tvbox6.cn/tv/sxg.php?id=141
+恩阳新闻,http://tvbox6.cn/tv/sxg.php?id=142
+涪城综合,http://tvbox6.cn/tv/sxg.php?id=143
+富顺综合,http://tvbox6.cn/tv/sxg.php?id=144
+甘洛,http://tvbox6.cn/tv/sxg.php?id=145
+甘孜综合,http://tvbox6.cn/tv/sxg.php?id=146
+高县-1,http://tvbox6.cn/tv/sxg.php?id=147
+古蔺新闻,http://tvbox6.cn/tv/sxg.php?id=148
+广安公共,http://tvbox6.cn/tv/sxg.php?id=149
+广安区,http://tvbox6.cn/tv/sxg.php?id=150
+广安新闻,http://tvbox6.cn/tv/sxg.php?id=151
+广汉综合,http://tvbox6.cn/tv/sxg.php?id=152
+广元文化,http://tvbox6.cn/tv/sxg.php?id=153
+广元综合,http://tvbox6.cn/tv/sxg.php?id=154
+汉源综合,http://tvbox6.cn/tv/sxg.php?id=155
+合江新闻,http://tvbox6.cn/tv/sxg.php?id=156
+黑水,http://tvbox6.cn/tv/sxg.php?id=157
+洪雅新闻,http://tvbox6.cn/tv/sxg.php?id=158
+华蓥综合,http://tvbox6.cn/tv/sxg.php?id=159
+会理新闻,http://tvbox6.cn/tv/sxg.php?id=160
+夹江新闻,http://tvbox6.cn/tv/sxg.php?id=161
+简阳新闻,http://tvbox6.cn/tv/sxg.php?id=162
+剑阁综合,http://tvbox6.cn/tv/sxg.php?id=163
+江安,http://tvbox6.cn/tv/sxg.php?id=164
+江油综合,http://tvbox6.cn/tv/sxg.php?id=165
+金口河综合,http://tvbox6.cn/tv/sxg.php?id=166
+金牛,http://tvbox6.cn/tv/sxg.php?id=167
+金堂,http://tvbox6.cn/tv/sxg.php?id=168
+开江新闻,http://tvbox6.cn/tv/sxg.php?id=169
+乐山公共,http://tvbox6.cn/tv/sxg.php?id=170
+乐山新闻,http://tvbox6.cn/tv/sxg.php?id=171
+利州综合,http://tvbox6.cn/tv/sxg.php?id=172
+凉山新闻,http://tvbox6.cn/tv/sxg.php?id=173
+凉山彝语,http://tvbox6.cn/tv/sxg.php?id=174
+邻水,http://tvbox6.cn/tv/sxg.php?id=175
+龙泉综合,http://tvbox6.cn/tv/sxg.php?id=176
+隆昌综合,http://tvbox6.cn/tv/sxg.php?id=177
+芦山综合,http://tvbox6.cn/tv/sxg.php?id=178
+罗江,http://tvbox6.cn/tv/sxg.php?id=179
+马边综合,http://tvbox6.cn/tv/sxg.php?id=180
+马尔康,http://tvbox6.cn/tv/sxg.php?id=181
+眉山综合,http://tvbox6.cn/tv/sxg.php?id=182
+米易综合,http://tvbox6.cn/tv/sxg.php?id=183
+绵阳科技,http://tvbox6.cn/tv/sxg.php?id=184
+绵阳新闻,http://tvbox6.cn/tv/sxg.php?id=185
+绵竹,http://tvbox6.cn/tv/sxg.php?id=186
+冕宁综合,http://tvbox6.cn/tv/sxg.php?id=187
+名山,http://tvbox6.cn/tv/sxg.php?id=188
+木里,http://tvbox6.cn/tv/sxg.php?id=189
+纳溪1,http://tvbox6.cn/tv/sxg.php?id=190
+南部综合,http://tvbox6.cn/tv/sxg.php?id=191
+南充综合,http://tvbox6.cn/tv/sxg.php?id=192
+南江,http://tvbox6.cn/tv/sxg.php?id=193
+南溪综合,http://tvbox6.cn/tv/sxg.php?id=194
+内江公共,http://tvbox6.cn/tv/sxg.php?id=195
+内江综合,http://tvbox6.cn/tv/sxg.php?id=196
+宁南综合,http://tvbox6.cn/tv/sxg.php?id=197
+攀钢新闻,http://tvbox6.cn/tv/sxg.php?id=198
+攀枝花新闻,http://tvbox6.cn/tv/sxg.php?id=199
+彭山综合,http://tvbox6.cn/tv/sxg.php?id=200
+彭州综合,http://tvbox6.cn/tv/sxg.php?id=201
+蓬安综合,http://tvbox6.cn/tv/sxg.php?id=202
+蓬溪新闻,http://tvbox6.cn/tv/sxg.php?id=203
+平昌综合,http://tvbox6.cn/tv/sxg.php?id=204
+平武综合,http://tvbox6.cn/tv/sxg.php?id=205
+屏山综合,http://tvbox6.cn/tv/sxg.php?id=206
+蒲江综合,http://tvbox6.cn/tv/sxg.php?id=207
+普格综合,http://tvbox6.cn/tv/sxg.php?id=208
+前锋,http://tvbox6.cn/tv/sxg.php?id=209
+青白江综合,http://tvbox6.cn/tv/sxg.php?id=210
+青川综合,http://tvbox6.cn/tv/sxg.php?id=211
+青神综合,http://tvbox6.cn/tv/sxg.php?id=212
+渠县新闻,http://tvbox6.cn/tv/sxg.php?id=213
+仁和新闻,http://tvbox6.cn/tv/sxg.php?id=214
+荣县综合,http://tvbox6.cn/tv/sxg.php?id=215
+三台TV,http://tvbox6.cn/tv/sxg.php?id=216
+射洪综合,http://tvbox6.cn/tv/sxg.php?id=217
+石棉,http://tvbox6.cn/tv/sxg.php?id=218
+什邡新闻,http://tvbox6.cn/tv/sxg.php?id=219
+双流综合,http://tvbox6.cn/tv/sxg.php?id=220
+松潘,http://tvbox6.cn/tv/sxg.php?id=221
+遂宁综合,http://tvbox6.cn/tv/sxg.php?id=222
+天全新闻,http://tvbox6.cn/tv/sxg.php?id=223
+通川区,http://tvbox6.cn/tv/sxg.php?id=224
+通江综合,http://tvbox6.cn/tv/sxg.php?id=225
+万源,http://tvbox6.cn/tv/sxg.php?id=226
+旺苍新闻,http://tvbox6.cn/tv/sxg.php?id=227
+温江综合,http://tvbox6.cn/tv/sxg.php?id=228
+武胜综合,http://tvbox6.cn/tv/sxg.php?id=229
+五通桥,http://tvbox6.cn/tv/sxg.php?id=230
+西昌,http://tvbox6.cn/tv/sxg.php?id=231
+西充综合,http://tvbox6.cn/tv/sxg.php?id=232
+喜德,http://tvbox6.cn/tv/sxg.php?id=233
+新都综合,http://tvbox6.cn/tv/sxg.php?id=234
+新津,http://tvbox6.cn/tv/sxg.php?id=235
+兴文台,http://tvbox6.cn/tv/sxg.php?id=236
+叙永,http://tvbox6.cn/tv/sxg.php?id=237
+叙州新闻,http://tvbox6.cn/tv/sxg.php?id=238
+宣汉综合,http://tvbox6.cn/tv/sxg.php?id=239
+雅安公共,http://tvbox6.cn/tv/sxg.php?id=240
+雅安新闻,http://tvbox6.cn/tv/sxg.php?id=241
+雅安雨城,http://tvbox6.cn/tv/sxg.php?id=242
+盐边电视台,http://tvbox6.cn/tv/sxg.php?id=243
+盐亭1,http://tvbox6.cn/tv/sxg.php?id=244
+雁江,http://tvbox6.cn/tv/sxg.php?id=245
+仪陇新闻,http://tvbox6.cn/tv/sxg.php?id=246
+宜宾公共,http://tvbox6.cn/tv/sxg.php?id=247
+宜宾新闻,http://tvbox6.cn/tv/sxg.php?id=248
+营山,http://tvbox6.cn/tv/sxg.php?id=249
+越西综合,http://tvbox6.cn/tv/sxg.php?id=250
+岳池,http://tvbox6.cn/tv/sxg.php?id=251
+昭化综合,http://tvbox6.cn/tv/sxg.php?id=252
+中江新闻,http://tvbox6.cn/tv/sxg.php?id=253
+资阳新闻,http://tvbox6.cn/tv/sxg.php?id=254
+资中综合,http://tvbox6.cn/tv/sxg.php?id=255
+自贡文化,http://tvbox6.cn/tv/sxg.php?id=256
+自贡综合,http://tvbox6.cn/tv/sxg.php?id=257
+郫县新闻,http://tvbox6.cn/tv/sxg.php?id=258
+荥经,http://tvbox6.cn/tv/sxg.php?id=259
+阆中综合,http://tvbox6.cn/tv/sxg.php?id=260
+沐川综合,http://tvbox6.cn/tv/sxg.php?id=261
+泸定综合,http://tvbox6.cn/tv/sxg.php?id=262
+泸县综合,http://tvbox6.cn/tv/sxg.php?id=263
+泸州公共,http://tvbox6.cn/tv/sxg.php?id=264
+珙县新闻,http://tvbox6.cn/tv/sxg.php?id=265
+梓潼综合,http://tvbox6.cn/tv/sxg.php?id=266
+犍为新闻,http://tvbox6.cn/tv/sxg.php?id=267
+筠连,http://tvbox6.cn/tv/sxg.php?id=268
 
 🐼贵州地区,#genre#
 
-贵州卫视,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzws
-贵州公共,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzgg
-贵州影视,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzwy
-贵州生活,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzsh
-贵州法制,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzfz
-贵州科教,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzkj
-贵州经济,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzjj
-家有购物,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzjygw
-贵州移动,http://tv.tvbox6.icu/tv/dl/dl668/gztv.php?id=gzyd
+贵州卫视,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzws
+贵州公共,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzgg
+贵州影视,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzwy
+贵州生活,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzsh
+贵州法制,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzfz
+贵州科教,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzkj
+贵州经济,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzjj
+家有购物,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzjygw
+贵州移动,http://tvbox6.cn/tv/dl/dl668/gztv.php?id=gzyd
 
 贵州影视,http://live.qiyuevod.com/tyoetv/gztv.php?id=gzwy
 贵州生活,http://live.qiyuevod.com/tyoetv/gztv.php?id=gzsh
@@ -6037,7 +5773,7 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 云南|砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8
 云南|砚山频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 云南|镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
-🐼西藏地区,#genre#
+🐼西藏ID35,#genre#
 
 西藏藏语卫视,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8	
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
@@ -6088,7 +5824,7 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
 白银综合,http://live.bygd.cn/byzh/sd/live.m3u8
-🐼青海地区,#genre#
+🐼青海ID38,#genre#
 
 青海|青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海|安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -6124,9 +5860,9 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 宁夏吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 宁夏吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 
-宁夏银川生活,http://tv.tvbox6.icu/tv/quklive.php?id=8
-宁夏银川公共,http://tv.tvbox6.icu/tv/quklive.php?id=9
-宁夏银川文体,http://tv.tvbox6.icu/tv/quklive.php?id=10
+宁夏银川生活,http://tvbox6.cn/tv/quklive.php?id=8
+宁夏银川公共,http://tvbox6.cn/tv/quklive.php?id=9
+宁夏银川文体,http://tvbox6.cn/tv/quklive.php?id=10
 
 🐼新疆ID40,#genre#
 
@@ -6136,8 +5872,8 @@ CETV-4高清,http://113.65.94.97:10000/udp/239.253.43.114:5146
 新疆石河子经济,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 新疆石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 新疆石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-新疆阿勒泰1,http://tv.tvbox6.icu/tv/quklive.php?id=6
-新疆阿勒泰2,http://tv.tvbox6.icu/tv/quklive.php?id=7
+新疆阿勒泰1,http://tvbox6.cn/tv/quklive.php?id=6
+新疆阿勒泰2,http://tvbox6.cn/tv/quklive.php?id=7
 <script>
 var _hmt = _hmt || [];
 (function() {
