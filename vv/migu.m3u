@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-22 10:59",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-22 11:40",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="CCTV-01咪咕" tvg-name="CCTV-01咪咕" tvg-logo="https://live.fanmingming.com/tv/CCTV-01咪咕.png" group-title="咪咕频道",CCTV-01咪咕
 http://rihou.cc:567/dd.php?id=cctv1$涛哥直播•IPV4
