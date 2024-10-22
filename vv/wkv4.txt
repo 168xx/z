@@ -444,6 +444,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&s
 凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰卫视资讯台,http://122.224.232.218:8888/rtp/233.50.200.192:5140
 凤凰卫视资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8?sign=4t5lg3
+凤凰卫视资讯台,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
 
 凤凰卫视中文台,http://146.56.153.245:20121/bysid/258
 凤凰卫视中文台,http://122.224.232.218:8888/rtp/233.50.200.191:5140
@@ -478,6 +479,7 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051
 
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+中天新闻,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___cti.flv
 
 中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
 
@@ -861,5 +863,8 @@ iHOT爱院线,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱院线.m3u8&sign=4
 求索纪录,https://vip.taoiptv.cn/source/itv.php?id=求索纪录.m3u8&sign=4t5lg3
 求索科学,https://vip.taoiptv.cn/source/itv.php?id=求索科学.m3u8&sign=4t5lg3
 求索生活,https://vip.taoiptv.cn/source/itv.php?id=求索生活.m3u8&sign=4t5lg3
-家庭影院,http://rihou.cc:567/33687.php?id=chcjt&.m3u8$咪咕源
-动作电影,http://rihou.cc:567/33687.php?id=chcdz&.m3u8$咪咕源
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC动作电影,http://rihou.cc:567/33687.php?id=chcdz&.m3u8$咪咕源
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+CHC家庭影院,http://rihou.cc:567/33687.php?id=chcjt&.m3u8$咪咕源
