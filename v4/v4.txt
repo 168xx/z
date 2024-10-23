@@ -1790,13 +1790,13 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 贵州影视,http://tvbox6.com/tv/dl/dl668/gztv.php?id=gzwy
 电影频道,#genre#
  CHC动作电影,http://117.114.153.18:8180/TV00000000000000000093@HHZT
- CHC家庭影院,http://117.114.153.18:8180/TV00000000000000000092@HHZT
- CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-4.m3u8
+ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
+ CHC影迷电影,http://117.114.153.18:8180/TV00000000000000000094@HHZT
  黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
- 东方影视,http://101.81.119.90:8888/udp/239.45.3.237:5140
+ 东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
  周星驰,http://204bae1.123nat.com:35455/yy/1354658049
  李连杰,http://204bae1.123nat.com:35455/yy/74613175
- 洪金宝,http://204bae1.123nat.com:35455/yy/1382851602
+ 洪金宝,http://204bae1.123nat.com:35455/yy/1354924839
  梁家辉,http://diyp.zxxoo.work/huya/11342429
  许冠英,http://diyp.zxxoo.work/huya/11601972
  刘德华,http://204bae1.123nat.com:35455/yy/1382745111
@@ -1805,41 +1805,39 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
  黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
  东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
- 靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
  龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
  龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
  AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
  浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
  菏泽三套影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
  山西影视,https://stream1.freetv.fun/shan-xi-ying-shi-1.ctv
  广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-9.ctv
- 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d21675d873711660e1d3dfb8df430d78&txTime=19182b7e615
- 佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-8.m3u8
+ 佛山影视,https://stream1.freetv.fun/fo-shan-ying-shi-6.ctv
  南宁影视娱乐频道,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
  泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=01abefbe1719971096
  绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
  东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
  上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
  湖北影视,http://www.furymax.top:85/udp/239.69.1.204:10866
- 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-12.m3u8
+ 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-11.m3u8
  辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
  黑龙江影视,https://stream1.freetv.fun/hei-long-jiang-ying-shi-1.m3u8
  哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
  哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
  甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
  四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
+ 万合出品,http://159.75.85.63:35455/douyu/9220456
  林正英电影,http://cfss.cc/cdn/hy/11342421.flv
  峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
  楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
  封神榜,http://cfss.cc/cdn/hy/23749096.flv
  西游记1,http://cfss.cc/cdn/hy/23728660.flv
  西游记2,http://cfss.cc/cdn/hy/23735126.flv
- 天龙八部,http://cfss.cc/cdn/hy/23903123.flv
- 寻秦记,http://cfss.cc/cdn/hy/23864973.flv
+ 鹿鼎记,http://cfss.cc/cdn/hy/23865080.flv
  大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
- 神雕侠侣,http://cfss.cc/cdn/hy/23865171.flv
+ 神雕侠侣,http://cfss.cc/cdn/hy/11352964.flv
  射雕英雄传,http://cfss.cc/cdn/hy/23824164.flv
- 倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
  笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv
  黄渤电影,http://cfss.cc/cdn/hy/11352876.flv
  强森电影,http://cfss.cc/cdn/hy/21059581.flv
@@ -1854,19 +1852,19 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
  鬼吹灯之龙岭迷窟,http://cfss.cc/cdn/hy/29465863.flv
  鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.flv
- 变形金刚,http://204bae1.123nat.com:35455/yy/1382736803
+ 星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
+ 变形金刚,http://159.75.85.63:35455/yy/1382736803
  九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
  我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
  让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
  家庭影院,https://stream1.freetv.fun/jia-ting-ying-yuan-2.m3u8
  超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
- 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-3.m3u8
+ 经典电影,http://ali.hlspull.yximgs.com/live/asdfg978707232.flv
  哈利波特全集,http://159.75.85.63:35455/yy/1382745105
- 科幻大片,http://204bae1.123nat.com:35455/yy/1382745181
  倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
  倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
  倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
- 龙门飞甲,https://vip.ffzy-play6.com/20221204/9575_e7d99a3f/2000k/hls/mixed.m3u8
+ 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
  寒战1,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
  人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
  人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
@@ -1881,25 +1879,38 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  伪装者,http://cfss.cc/cdn/yy/1354936244.flv
  陈情令,http://cfss.cc/cdn/hy/29465862.flv
  仙剑奇侠传,http://cfss.cc/cdn/yy/1382749903.flv
- 大时代,http://cfss.cc/cdn/hy/23865161.flv
  陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
- 狂飙,http://cfss.cc/cdn/yy/17981.flv
  阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
+ 哥斯拉大战金刚2帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
  绝地战警生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
+ 异形寄生起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
  狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
  鬼舞村诅咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
  魔戒首部曲魔戒现身,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
- 魔戒二部曲双城奇谋,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
+ 魔戒二部曲双城奇谋,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
  魔戒三部曲王者再临,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
+ 漫威剧情原,http://159.75.85.63:35455/douyu/6140589
+ 霍格沃茨原,http://159.75.85.63:35455/douyu/8814650
+ 欧美大片原,http://159.75.85.63:35455/douyu/2793084
  贝爷max原,http://159.75.85.63:35455/douyu/4332
  贝爷影厅原,http://159.75.85.63:35455/douyu/252802
+ 鱼宝恐怖原,http://159.75.85.63:35455/douyu/1165374
  吃奶滴虫原,http://159.75.85.63:35455/douyu/263824
+ 喜剧电影原,http://159.75.85.63:35455/douyu/9292492
  避风影院原,http://159.75.85.63:35455/douyu/9826611
+ 吃米滴虫原,http://159.75.85.63:35455/douyu/315457
+ 冰冰经典原,http://159.75.85.63:35455/douyu/74374
+ 星爷影院原,http://159.75.85.63:35455/douyu/508118
  瑶瑶恐怖原,http://159.75.85.63:35455/douyu/2935323
  怡宝影院原,http://159.75.85.63:35455/douyu/434971
+ 小黛兮影原,http://159.75.85.63:35455/douyu/11553944
+ 萌小鬼片原,http://159.75.85.63:35455/douyu/3928
  神乐影剧原,http://159.75.85.63:35455/douyu/122402
  可乐影院原,http://159.75.85.63:35455/douyu/20415
  小宇60帧原,http://159.75.85.63:35455/douyu/323876
+ 恐怖惊悚原,http://159.75.85.63:35455/douyu/96577
+ 电影剧场原,http://159.75.85.63:35455/douyu/7575350
+ 豆瓣高分原,http://159.75.85.63:35455/douyu/8770422
  无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
  电影赛车,http://cfss.cc/cdn/hy/11279247.flv
  电影死神来了,http://cfss.cc/cdn/hy/11352903.flv
@@ -1907,7 +1918,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  电影蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
  电影变形金刚,http://cfss.cc/cdn/hy/21059596.flv
  隋唐英雄传,http://cfss.cc/cdn/yy/1352475619.flv
- 林正英,http://204bae1.123nat.com:35455/yy/30668277
+ 林正英,http://diyp.zxxoo.work/huya/11342421
  巨石强森,http://diyp.zxxoo.work/huya/21059581
  杰森斯坦森,http://diyp.zxxoo.work/huya/21059588
  电影周星星,http://cfss.cc/cdn/hy/11336587.flv
@@ -1941,6 +1952,8 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  电影谍战片,http://cfss.cc/cdn/hy/21059587.flv
  电影贺岁,http://cfss.cc/cdn/hy/11601971.flv
  海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hscdn
+ 猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
+ 蜡笔小新,http://cfss.cc/cdn/hy/11352970.m3u8
  安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
  河北平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
  黑龙江哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -1953,153 +1966,41 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
  哈利波特消失的密室,https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
  哈利波特混血王子的背叛,https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
  哈利波特火杯的考验,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
+ 凌儿影院原,http://159.75.85.63:35455/douyu/1377142
+ 变种人片原,http://159.75.85.63:35455/douyu/9651304
  女神电影原,http://159.75.85.63:35455/douyu/747764
  花卷陪看原,http://159.75.85.63:35455/douyu/52787
- 无间道2,https://vip.ffzy-play6.com/20221017/14_4ab5bf5e/2000k/hls/mixed.m3u8
+ 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
  嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
 NewTV频道,#genre#
-NewTV精品综合,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=no$可回看
-NewTV精品综合,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品综合.m3u8&sign=40u1wu
 NewTV精品综合,http://s.zbds.top:8581/itv/1000000004000019008.m3u8?cdn=ystenlive
-NewTV精品综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019008
-NewTV精品大剧,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=no$可回看
-NewTV精品大剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品大剧.m3u8&sign=40u1wu
 NewTV精品大剧,http://s.zbds.top:8581/itv/1000000004000013968.m3u8?cdn=ystenlive
-NewTV精品大剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013968
-NewTV精品纪录,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=no$可回看
-NewTV精品纪录,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品纪录.m3u8&sign=40u1wu
 NewTV精品纪录,http://s.zbds.top:8581/itv/1000000004000013730.m3u8?cdn=ystenlive
-NewTV精品纪录,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013730
-NewTV精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no$可回看
-NewTV精品体育,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品体育.m3u8&sign=40u1wu
 NewTV精品体育,http://s.zbds.top:8581/itv/1000000004000014634.m3u8?cdn=ystenlive
-NewTV精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
-NewTV精品萌宠,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=no$可回看
-NewTV精品萌宠,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品萌宠.m3u8&sign=40u1wu
 NewTV精品萌宠,http://s.zbds.top:8581/itv/1000000006000032328.m3u8?cdn=ystenlive
-NewTV精品萌宠,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032328
-NewTV爱情喜剧,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=no$可回看
-NewTV爱情喜剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV爱情喜剧.m3u8&sign=40u1wu
-NewTV爱情喜剧,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000010
-NewTV超级电视剧,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=no$可回看
-NewTV超级电视剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级电视剧.m3u8&sign=40u1wu
 NewTV超级电视剧,http://s.zbds.top:8581/itv/1000000006000268003.m3u8?cdn=ystenlive
-NewTV超级电视剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268003
-NewTV超级电影,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=no$可回看
-NewTV超级电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级电影.m3u8&sign=40u1wu
 NewTV超级电影,http://s.zbds.top:8581/itv/1000000003000012426.m3u8?cdn=ystenlive
-NewTV超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
-NewTV超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no$可回看
-NewTV超级体育,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级体育.m3u8&sign=40u1wu
 NewTV超级体育,http://s.zbds.top:8581/itv/1000000001000009601.m3u8?cdn=ystenlive
-NewTV超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
-NewTV超级综艺,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=no$可回看
-NewTV超级综艺,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级综艺.m3u8&sign=40u1wu
 NewTV超级综艺,http://s.zbds.top:8581/itv/1000000006000268002.m3u8?cdn=ystenlive
-NewTV超级综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268002
-NewTV潮妈辣婆,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=no$可回看
-NewTV潮妈辣婆,https://vip.taoiptv.cn/source/itv.php?id=NewTV潮妈辣婆.m3u8&sign=40u1wu
-NewTV潮妈辣婆,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000018
-NewTV东北热剧,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=no$可回看
-NewTV东北热剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV东北热剧.m3u8&sign=40u1wu
 NewTV东北热剧,http://s.zbds.top:8581/itv/1000000005000266013.m3u8?cdn=ystenlive
-NewTV东北热剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266013
-NewTV动作电影,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no$可回看
-NewTV动作电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV动作电影.m3u8&sign=40u1wu
 NewTV动作电影,http://s.zbds.top:8581/itv/1000000004000018653.m3u8?cdn=ystenlive
-NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
-NewTV古装剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=no$可回看
-NewTV古装剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV古装剧场.m3u8&sign=40u1wu
-NewTV古装剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000024
-NewTV欢乐剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=no$可回看
-NewTV欢乐剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV欢乐剧场.m3u8&sign=40u1wu
 NewTV欢乐剧场,http://s.zbds.top:8581/itv/1000000005000266012.m3u8?cdn=ystenlive
-NewTV欢乐剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266012
-NewTV家庭剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=no$可回看
-NewTV家庭剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV家庭剧场.m3u8&sign=40u1wu
 NewTV家庭剧场,http://s.zbds.top:8581/itv/1000000004000008284.m3u8?cdn=ystenlive
-NewTV家庭剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000008284
-NewTV金牌综艺,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=no$可回看
-NewTV金牌综艺,https://vip.taoiptv.cn/source/itv.php?id=NewTV金牌综艺.m3u8&sign=40u1wu
 NewTV金牌综艺,http://s.zbds.top:8581/itv/1000000004000026167.m3u8?cdn=ystenlive
-NewTV金牌综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000026167
-NewTV惊悚悬疑,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=no$可回看
-NewTV惊悚悬疑,https://vip.taoiptv.cn/source/itv.php?id=NewTV惊悚悬疑.m3u8&sign=40u1wu
 NewTV惊悚悬疑,http://s.zbds.top:8581/itv/1000000004000024282.m3u8?cdn=ystenlive
-NewTV惊悚悬疑,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000024282
-NewTV军旅剧场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=no$可回看
-NewTV军旅剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV军旅剧场.m3u8&sign=40u1wu
-NewTV军旅剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000014
-NewTV军事评论,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=no$可回看
-NewTV军事评论,https://vip.taoiptv.cn/source/itv.php?id=NewTV军事评论.m3u8&sign=40u1wu
-NewTV军事评论,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000022
-NewTV魅力潇湘,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=no$可回看
-NewTV魅力潇湘,https://vip.taoiptv.cn/source/itv.php?id=NewTV魅力潇湘.m3u8&sign=40u1wu
 NewTV魅力潇湘,http://s.zbds.top:8581/itv/1000000001000006197.m3u8?cdn=ystenlive
-NewTV魅力潇湘,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000006197
-NewTV明星大片,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=no$可回看
-NewTV明星大片,https://vip.taoiptv.cn/source/itv.php?id=NewTV明星大片.m3u8&sign=40u1wu
-NewTV明星大片,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000016
-NewTV农业致富,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=no$可回看
-NewTV农业致富,https://vip.taoiptv.cn/source/itv.php?id=NewTV农业致富.m3u8&sign=40u1wu
-NewTV农业致富,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000003
-NewTV武博世界,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=no$可回看
-NewTV武博世界,https://vip.taoiptv.cn/source/itv.php?id=NewTV武博世界.m3u8&sign=40u1wu
-NewTV武博世界,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000007
-NewTV炫舞未来,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no$可回看
-NewTV炫舞未来,https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=40u1wu
-NewTV炫舞未来,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000000515
-NewTV怡伴健康,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=no$可回看
-NewTV怡伴健康,https://vip.taoiptv.cn/source/itv.php?id=NewTV怡伴健康.m3u8&sign=40u1wu
 NewTV怡伴健康,http://s.zbds.top:8581/itv/1000000005000266011.m3u8?cdn=ystenlive
-NewTV怡伴健康,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266011
-NewTV中国功夫,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=no$可回看
-NewTV中国功夫,https://vip.taoiptv.cn/source/itv.php?id=NewTV中国功夫.m3u8&sign=40u1wu
-NewTV中国功夫,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000009
-NewTV黑莓电影,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no$可回看
-NewTV黑莓电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=40u1wu
 NewTV黑莓电影,http://s.zbds.top:8581/itv/1000000004000019624.m3u8?cdn=ystenlive
-NewTV黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
-NewTV黑莓动画,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=no$可回看
-NewTV黑莓动画,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓动画.m3u8&sign=40u1wu
 NewTV黑莓动画,http://s.zbds.top:8581/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV黑莓动画,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000021734
-NewTV哒啵电竞,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=no$可回看
-NewTV哒啵电竞,https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵电竞.m3u8&sign=40u1wu
 NewTV哒啵电竞,http://s.zbds.top:8581/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV哒啵电竞,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032327
-NewTV哒啵赛事,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=no$可回看
-NewTV哒啵赛事,https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵赛事.m3u8&sign=40u1wu
 NewTV哒啵赛事,http://s.zbds.top:8581/itv/1000000001000003775.m3u8?cdn=ystenlive
-NewTV哒啵赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000003775
 iHOT频道,#genre#
-iHOT爱电竞,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱电竞.m3u8&sign=40u1wu
-iHOT爱谍战,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱谍战.m3u8&sign=40u1wu
-iHOT爱动漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱动漫.m3u8&sign=40u1wu
 iHOT爱动漫,https://stream1.freetv.fun/10050659e56413aee6307a6f6cb7ac6dca6f3073d4f218d781b4ec9a58a5d648.ctv
-iHOT爱都市,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱都市.m3u8&sign=40u1wu
-iHOT爱怀旧,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱怀旧.m3u8&sign=40u1wu
-iHOT爱经典,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱经典.m3u8&sign=40u1wu
-iHOT爱科幻,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科幻.m3u8&sign=40u1wu
-iHOT爱科学,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科学.m3u8&sign=40u1wu
 iHOT爱科学,https://stream1.freetv.fun/0faa4ccf5742d9b131a6f184d204bf5fd7d51ee33274f258753235d63cc8cbdc.ctv
-iHOT爱浪漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱浪漫.m3u8&sign=40u1wu
-iHOT爱历史,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱历史.m3u8&sign=40u1wu
 iHOT爱历史,https://stream1.freetv.fun/85c4fe6a43055de4af0859832ce9b6eeba345c95e3c40d64804828f56f9d9d8b.ctv
-iHOT爱旅行,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱旅行.m3u8&sign=40u1wu
 iHOT爱旅行,https://stream1.freetv.fun/0935cbb6cc487773db6837e3cb9b5486331744e87c66272f26198581cf981ab5.ctv
-iHOT爱奇谈,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱奇谈.m3u8&sign=40u1wu
-iHOT爱青春,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱青春.m3u8&sign=40u1wu
-iHOT爱赛车,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱赛车.m3u8&sign=40u1wu
-iHOT爱体育,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱体育.m3u8&sign=40u1wu
-iHOT爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
-iHOT爱玩具,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱玩具.m3u8&sign=40u1wu
 iHOT爱玩具,https://stream1.freetv.fun/18317567c8f4096a6d9d6f002edbca84c7b716b92ff10f36290737f3800bcf51.ctv
-iHOT爱喜剧,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱喜剧.m3u8&sign=40u1wu
-iHOT爱悬疑,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱悬疑.m3u8&sign=40u1wu
 iHOT爱悬疑,https://stream1.freetv.fun/8520fb059a162d79fcf1802eefd61963dc7b5e9e84e4b3dee3dfb7882660e632.ctv
-iHOT爱幼教,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱幼教.m3u8&sign=40u1wu
-iHOT爱院线,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱院线.m3u8&sign=40u1wu
 明星频道,#genre#
 刘德华,http://204bae1.123nat.com:35455/yy/1354888726
 刘德华,http://204bae1.123nat.com:35455/yy/1382745111
