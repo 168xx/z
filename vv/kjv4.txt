@@ -5,8 +5,8 @@
 拒绝收费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 如已付费,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 申请退费,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-更新2024-10-23,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-已运行338天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+更新2024-10-24,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
+已运行339天,https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 
 翡翠台,https://test.ttvb.eu.org/stream/tvb/null/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 无线新闻台,https://test.ttvb.eu.org/stream/tvb/null-1/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
