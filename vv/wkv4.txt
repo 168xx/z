@@ -1,75 +1,75 @@
 央视,#genre#
-CCTV1,http://rihou.cc:567/40187.php?id=cctv1&.m3u8$咪咕源
+CCTV1,http://rihou.cc:567/42946.php?id=cctv1&.m3u8$咪咕源
 CCTV1,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8$可回看
 CCTV1,http://s.zbds.top:8581/itv/1000000005000265001.m3u8?cdn=ystenlive
 
-CCTV2,http://rihou.cc:567/40187.php?id=cctv2&.m3u8$咪咕源
+CCTV2,http://rihou.cc:567/42946.php?id=cctv2&.m3u8$咪咕源
 CCTV2,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8$可回看
 CCTV2,http://s.zbds.top:8581/itv/1000000001000023315.m3u8?cdn=ystenlive
 
-CCTV3,http://rihou.cc:567/40187.php?id=cctv3&.m3u8$咪咕源
+CCTV3,http://rihou.cc:567/42946.php?id=cctv3&.m3u8$咪咕源
 CCTV3,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8$可回看
 CCTV3,http://s.zbds.top:8581/itv/1000000005000265003.m3u8?cdn=ystenlive
 
-CCTV4,http://rihou.cc:567/40187.php?id=cctv4&.m3u8$咪咕源
+CCTV4,http://rihou.cc:567/42946.php?id=cctv4&.m3u8$咪咕源
 CCTV4,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8$可回看
 CCTV4,http://s.zbds.top:8581/itv/1000000005000265004.m3u8?cdn=ystenlive
 
-CCTV5,http://rihou.cc:567/40187.php?id=cctv5&.m3u8$咪咕源
+CCTV5,http://rihou.cc:567/42946.php?id=cctv5&.m3u8$咪咕源
 CCTV5,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8$可回看
 CCTV5,http://s.zbds.top:8581/itv/1000000005000265005.m3u8?cdn=ystenlive
 
-CCTV5+,http://rihou.cc:567/40187.php?id=cctv5p&.m3u8$咪咕源
+CCTV5+,http://rihou.cc:567/42946.php?id=cctv5p&.m3u8$咪咕源
 CCTV5+,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8$可回看
 CCTV5+,http://s.zbds.top:8581/itv/1000000005000265016.m3u8?cdn=ystenlive
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
-CCTV6,http://rihou.cc:567/40187.php?id=cctv6&.m3u8$咪咕源
+CCTV6,http://rihou.cc:567/42946.php?id=cctv6&.m3u8$咪咕源
 CCTV6,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv68m/8000000/mnf.m3u8$可回看
 CCTV6,http://s.zbds.top:8581/itv/1000000001000001737.m3u8?cdn=ystenlive
 CCTV6,http://s.zbds.top:8581/itv/1000000005000265006.m3u8?cdn=ystenlive
 
-CCTV7,http://rihou.cc:567/40187.php?id=cctv7&.m3u8$咪咕源
+CCTV7,http://rihou.cc:567/42946.php?id=cctv7&.m3u8$咪咕源
 CCTV7,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8$可回看
 CCTV7,http://s.zbds.top:8581/itv/1000000001000024341.m3u8?cdn=ystenlive
 CCTV7,http://s.zbds.top:8581/itv/1000000005000265007.m3u8?cdn=ystenlive
 
-CCTV8,http://rihou.cc:567/40187.php?id=cctv8&.m3u8$咪咕源
+CCTV8,http://rihou.cc:567/42946.php?id=cctv8&.m3u8$咪咕源
 CCTV8,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv88m/8000000/mnf.m3u8$可回看
 CCTV8,http://s.zbds.top:8581/itv/1000000005000265008.m3u8?cdn=ystenlive
 
-CCTV9,http://rihou.cc:567/40187.php?id=cctv9&.m3u8$咪咕源
+CCTV9,http://rihou.cc:567/42946.php?id=cctv9&.m3u8$咪咕源
 CCTV9,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8$可回看
 CCTV9,http://s.zbds.top:8581/itv/1000000001000014583.m3u8?cdn=ystenlive
 CCTV9,http://s.zbds.top:8581/itv/1000000005000265009.m3u8?cdn=ystenlive
 
-CCTV10,http://rihou.cc:567/40187.php?id=cctv10&.m3u8$咪咕源
+CCTV10,http://rihou.cc:567/42946.php?id=cctv10&.m3u8$咪咕源
 CCTV10,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8$可回看
 CCTV10,http://s.zbds.top:8581/itv/1000000001000023734.m3u8?cdn=ystenlive
 CCTV10,http://s.zbds.top:8581/itv/5000000004000012827.m3u8?cdn=ystenlive
 CCTV10,http://s.zbds.top:8581/itv/1000000005000265010.m3u8?cdn=ystenlive
 
-CCTV11,http://rihou.cc:567/40187.php?id=cctv11&.m3u8$咪咕源
+CCTV11,http://rihou.cc:567/42946.php?id=cctv11&.m3u8$咪咕源
 CCTV11,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8$可回看
 CCTV11,http://s.zbds.top:8581/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV11,http://s.zbds.top:8581/itv/5000000011000031106.m3u8?cdn=ystenlive
 
-CCTV12,http://rihou.cc:567/40187.php?id=cctv12&.m3u8$咪咕源
+CCTV12,http://rihou.cc:567/42946.php?id=cctv12&.m3u8$咪咕源
 CCTV12,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8$可回看
 CCTV12,http://s.zbds.top:8581/itv/1000000001000032494.m3u8?cdn=ystenlive
 CCTV12,http://s.zbds.top:8581/itv/1000000005000265012.m3u8?cdn=ystenlive
 
-CCTV13,http://rihou.cc:567/40187.php?id=cctv13&.m3u8$咪咕源
+CCTV13,http://rihou.cc:567/42946.php?id=cctv13&.m3u8$咪咕源
 CCTV13,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8$可回看
 CCTV13,http://s.zbds.top:8581/itv/5000000011000031108.m3u8?cdn=ystenlive
 
-CCTV14,http://rihou.cc:567/40187.php?id=cctv14&.m3u8$咪咕源
+CCTV14,http://rihou.cc:567/42946.php?id=cctv14&.m3u8$咪咕源
 CCTV14,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8$可回看
 CCTV14,http://s.zbds.top:8581/itv/1000000001000008170.m3u8?cdn=ystenlive
 CCTV14,http://s.zbds.top:8581/itv/1000000005000265013.m3u8?cdn=ystenlive
 
-CCTV15,http://rihou.cc:567/40187.php?id=cctv15&.m3u8$咪咕源
+CCTV15,http://rihou.cc:567/42946.php?id=cctv15&.m3u8$咪咕源
 CCTV15,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8$可回看
 CCTV15,http://s.zbds.top:8581/itv/5000000011000031109.m3u8?cdn=ystenlive
 CCTV15,http://s.zbds.top:8581/itv/1000000005000265014.m3u8?cdn=ystenlive
@@ -79,7 +79,7 @@ CCTV16,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/
 CCTV16,http://s.zbds.top:8581/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV16,http://s.zbds.top:8581/itv/5000000008000023254.m3u8?cdn=bestzb
 
-CCTV17,http://rihou.cc:567/40187.php?id=cctv17&.m3u8$咪咕源
+CCTV17,http://rihou.cc:567/42946.php?id=cctv17&.m3u8$咪咕源
 CCTV17,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8$可回看
 CCTV17,http://s.zbds.top:8581/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV17,http://s.zbds.top:8581/itv/1000000006000268004.m3u8?cdn=ystenlive
@@ -90,7 +90,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN记录,http://rihou.cc:567/40187.php?id=cgtnjl&.m3u8$咪咕源
+CGTN记录,http://rihou.cc:567/42946.php?id=cgtnjl&.m3u8$咪咕源
 
 CETV1,http://s.zbds.top:8581/itv/5000000002000002652.m3u8?cdn=ystenlive
 CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
@@ -110,7 +110,7 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 重庆卫视,http://s.zbds.top:8581/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视,http://s.zbds.top:8581/itv/1000000005000265017.m3u8?cdn=ystenlive
 
-东方卫视,http://rihou.cc:567/40187.php?id=dfws&.m3u8$咪咕源
+东方卫视,http://rihou.cc:567/42946.php?id=dfws&.m3u8$咪咕源
 东方卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8$可回看
 东方卫视,http://s.zbds.top:8581/itv/5000000004000014098.m3u8?cdn=ystenlive
 东方卫视,http://s.zbds.top:8581/itv/1000000005000265018.m3u8?cdn=ystenlive
@@ -122,7 +122,7 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 甘肃卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8$可回看
 甘肃卫视,http://s.zbds.top:8581/itv/5000000011000031121.m3u8?cdn=ystenlive
 
-广东卫视,http://rihou.cc:567/40187.php?id=gdws&.m3u8$咪咕源
+广东卫视,http://rihou.cc:567/42946.php?id=gdws&.m3u8$咪咕源
 广东卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8$可回看
 广东卫视,http://s.zbds.top:8581/itv/1000000005000265034.m3u8?cdn=ystenlive
 广东卫视,http://s.zbds.top:8581/itv/1000000001000014176.m3u8?cdn=ystenlive
@@ -133,7 +133,7 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 贵州卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8$可回看
 贵州卫视,http://s.zbds.top:8581/itv/5000000004000025843.m3u8?cdn=ystenlive
 
-海南卫视,http://rihou.cc:567/40187.php?id=hinws&.m3u8$咪咕源
+海南卫视,http://rihou.cc:567/42946.php?id=hinws&.m3u8$咪咕源
 海南卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8$可回看
 海南卫视,http://s.zbds.top:8581/itv/5000000004000006211.m3u8?cdn=ystenlive
 
@@ -147,7 +147,7 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 黑龙江卫视,http://s.zbds.top:8581/itv/1000000005000265029.m3u8?cdn=ystenlive
 黑龙江卫视,http://s.zbds.top:8581/itv/1000000001000001925.m3u8?cdn=ystenlive
 
-湖北卫视,http://rihou.cc:567/40187.php?id=hubws&.m3u8$咪咕源
+湖北卫视,http://rihou.cc:567/42946.php?id=hubws&.m3u8$咪咕源
 湖北卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8$可回看
 湖北卫视,http://s.zbds.top:8581/itv/1000000005000265023.m3u8?cdn=ystenlive
 湖北卫视,http://s.zbds.top:8581/itv/1000000001000024621.m3u8?cdn=ystenlive
@@ -156,15 +156,15 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 湖南卫视,http://s.zbds.top:8581/itv/1000000005000265024.m3u8?cdn=ystenlive
 湖南卫视,http://s.zbds.top:8581/itv/5000000004000006692.m3u8?cdn=ystenlive
 
-吉林卫视,http://rihou.cc:567/40187.php?id=jlws&.m3u8$咪咕源
+吉林卫视,http://rihou.cc:567/42946.php?id=jlws&.m3u8$咪咕源
 吉林卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8$可回看
 吉林卫视,http://s.zbds.top:8581/itv/5000000011000031117.m3u8?cdn=ystenlive
 
-江苏卫视,http://rihou.cc:567/40187.php?id=jsws&.m3u8$咪咕源
+江苏卫视,http://rihou.cc:567/42946.php?id=jsws&.m3u8$咪咕源
 江苏卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8$可回看
 江苏卫视,http://s.zbds.top:8581/itv/1000000005000265030.m3u8?cdn=ystenlive
 
-江西卫视,http://rihou.cc:567/40187.php?id=jxws&.m3u8$咪咕源
+江西卫视,http://rihou.cc:567/42946.php?id=jxws&.m3u8$咪咕源
 江西卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8$可回看
 江西卫视,http://s.zbds.top:8581/itv/1000000005000265032.m3u8?cdn=ystenlive
 江西卫视,http://s.zbds.top:8581/itv/1000000006000268001.m3u8?cdn=ystenlive
@@ -178,14 +178,14 @@ CETV4,http://s.zbds.top:8581/itv/5000000011000031126.m3u8?cdn=ystenlive
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
 
-青海卫视,http://rihou.cc:567/40187.php?id=qhws&.m3u8$咪咕源
+青海卫视,http://rihou.cc:567/42946.php?id=qhws&.m3u8$咪咕源
 青海卫视,http://s.zbds.top:8581/itv/1000000002000013359.m3u8?cdn=ystenlive
 
 山东卫视,http://s.zbds.top:8581/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,http://s.zbds.top:8581/itv/1000000001000016568.m3u8?cdn=ystenlive
 
 
-陕西卫视,http://rihou.cc:567/40187.php?id=sxws&.m3u8$咪咕源
+陕西卫视,http://rihou.cc:567/42946.php?id=sxws&.m3u8$咪咕源
 
 深圳卫视,http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8$可回看
 深圳卫视,http://s.zbds.top:8581/itv/1000000005000265028.m3u8?cdn=ystenlive
@@ -359,7 +359,7 @@ SiTV魅力足球,http://s.zbds.top:8581/itv/5000000011000031207.m3u8?cdn=ystenli
 SiTV七彩戏剧,http://s.zbds.top:8581/itv/5000000011000031116.m3u8?cdn=ystenlive
 
 SiTV生活时尚,http://s.zbds.top:8581/itv/5000000002000019634.m3u8?cdn=ystenlive
-SiTV游戏风云,http://rihou.cc:567/40187.php?id=yxfy&.m3u8$咪咕源
+SiTV游戏风云,http://rihou.cc:567/42946.php?id=yxfy&.m3u8$咪咕源
 
 iHOT频道,#genre#
 iHOT爱动漫,https://stream1.freetv.fun/10050659e56413aee6307a6f6cb7ac6dca6f3073d4f218d781b4ec9a58a5d648.ctv
@@ -465,6 +465,6 @@ iHOT爱悬疑,https://stream1.freetv.fun/8520fb059a162d79fcf1802eefd61963dc7b5e9
 其他频道,#genre#
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://rihou.cc:567/40187.php?id=chcdz&.m3u8$咪咕源
+CHC动作电影,http://rihou.cc:567/42946.php?id=chcdz&.m3u8$咪咕源
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://rihou.cc:567/40187.php?id=chcjt&.m3u8$咪咕源
+CHC家庭影院,http://rihou.cc:567/42946.php?id=chcjt&.m3u8$咪咕源
