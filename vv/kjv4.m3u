@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="💚更新时间10-24 17:32",仅供学习使用
+#EXTINF:-1 group-title="💚更新时间10-25 02:43",仅供学习使用
 http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 #EXTINF:-1 tvg-id="温馨提醒" tvg-name="温馨提醒" tvg-logo="https://live.fanmingming.com/tv/温馨提醒.png" group-title="🐼电视公告",温馨提醒
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$官方源ᴴᴰ
@@ -11,9 +11,9 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$官方
 #EXTINF:-1 tvg-id="申请退费" tvg-name="申请退费" tvg-logo="https://live.fanmingming.com/tv/申请退费.png" group-title="🐼电视公告",申请退费
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-#EXTINF:-1 tvg-id="更新2024-10-24" tvg-name="更新2024-10-24" tvg-logo="https://live.fanmingming.com/tv/更新2024-10-24.png" group-title="🐼电视公告",更新2024-10-24
+#EXTINF:-1 tvg-id="更新2024-10-25" tvg-name="更新2024-10-25" tvg-logo="https://live.fanmingming.com/tv/更新2024-10-25.png" group-title="🐼电视公告",更新2024-10-25
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
-#EXTINF:-1 tvg-id="已运行339天" tvg-name="已运行339天" tvg-logo="https://live.fanmingming.com/tv/已运行339天.png" group-title="🐼电视公告",已运行339天
+#EXTINF:-1 tvg-id="已运行340天" tvg-name="已运行340天" tvg-logo="https://live.fanmingming.com/tv/已运行340天.png" group-title="🐼电视公告",已运行340天
 https://gitee.com/tv2785/iptv/raw/master/ad.mp4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🐼电视公告",翡翠台
 https://test.ttvb.eu.org/stream/tvb/null/stream.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
